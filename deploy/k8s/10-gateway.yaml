@@ -1,0 +1,93 @@
+apiVersion: v1
+kind: Service
+metadata:
+  name: gateway
+  namespace: univ
+spec:
+  clusterIP: None            # headless: stable per-pod DNS names (<pod>.gateway)
+  selector: {app: gateway}
+  ports: [{port: 8000}]
+---
+apiVersion: apps/v1
+kind: StatefulSet
+metadata:
+  name: gateway
+  namespace: univ
+spec:
+  serviceName: gateway
+  replicas: 2                       # service replication
+  podManagementPolicy: Parallel
+  updateStrategy: {type: RollingUpdate}    # rolling updates, one replica at a time
+  selector:
+    matchLabels: {app: gateway}
+  template:
+    metadata:
+      labels: {app: gateway}
+      annotations:                         # picked up by Prometheus' Kubernetes service discovery
+        prometheus.io/scrape: "true"
+        prometheus.io/port: "8000"
+    spec:
+      initContainers:                      # never start on a half-created database (init-data Job writes the marker last)
+        - name: wait-for-data
+          image: univ-is:latest
+          imagePullPolicy: IfNotPresent
+          command: ["sh", "-c", "until [ -f /data/.initialized ]; do echo waiting for init-data; sleep 1; done"]
+          volumeMounts:
+            - {name: data, mountPath: /data}
+      affinity:
+        podAntiAffinity:                   # replicas of one tier land on different nodes
+          preferredDuringSchedulingIgnoredDuringExecution:
+            - weight: 100
+              podAffinityTerm:
+                labelSelector: {matchLabels: {app: gateway}}
+                topologyKey: kubernetes.io/hostname
+      containers:
+        - name: gateway
+          image: univ-is:latest
+          imagePullPolicy: IfNotPresent
+          env:
+            - {name: APP, value: ft.gateway}
+            - {name: DATA_DIR, value: /data}
+            - {name: TOPOLOGY_FILE, value: /config/topology.json}
+            - {name: INSTANCE_ID, valueFrom: {fieldRef: {fieldPath: metadata.name}}}
+            - {name: NODE, valueFrom: {fieldRef: {fieldPath: spec.nodeName}}}
+          ports: [{containerPort: 8000}]
+          readinessProbe:                  # health check -> removed from service endpoints when failing
+            httpGet: {path: /health/ready, port: 8000}
+            periodSeconds: 2
+            failureThreshold: 2
+          livenessProbe:                   # self-healing: kubelet restarts a hung process
+            httpGet: {path: /health/live, port: 8000}
+            periodSeconds: 3
+            failureThreshold: 3
+          resources:
+            requests: {cpu: 100m, memory: 128Mi}
+            limits: {cpu: 500m, memory: 256Mi}
+          volumeMounts:
+            - {name: data, mountPath: /data}
+            - {name: topo, mountPath: /config}
+      volumes:
+        - name: data
+          persistentVolumeClaim: {claimName: data}
+        - name: topo
+          configMap: {name: topology}
+---
+apiVersion: policy/v1
+kind: PodDisruptionBudget                  # node drains / upgrades can never remove the last replica
+metadata:
+  name: gateway
+  namespace: univ
+spec:
+  minAvailable: 1
+  selector:
+    matchLabels: {app: gateway}
+---
+apiVersion: v1
+kind: Service                              # load balancer in front of the two gateways (client entry point)
+metadata:
+  name: gateway-lb
+  namespace: univ
+spec:
+  type: LoadBalancer                       # gets an external IP on a cloud; the fixed nodePort works everywhere
+  selector: {app: gateway}
+  ports: [{port: 80, targetPort: 8000, nodePort: 30080}]

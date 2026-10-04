@@ -1,0 +1,82 @@
+{
+ "mode": "ft",
+ "instances": [
+  {
+   "service": "gateway",
+   "id": "gateway-1",
+   "node": "A",
+   "port": 8000,
+   "host": "gateway-1"
+  },
+  {
+   "service": "gateway",
+   "id": "gateway-2",
+   "node": "B",
+   "port": 8000,
+   "host": "gateway-2"
+  },
+  {
+   "service": "student",
+   "id": "student-1",
+   "node": "A",
+   "port": 8000,
+   "host": "student-1"
+  },
+  {
+   "service": "student",
+   "id": "student-2",
+   "node": "B",
+   "port": 8000,
+   "host": "student-2"
+  },
+  {
+   "service": "payment",
+   "id": "payment-1",
+   "node": "A",
+   "port": 8000,
+   "host": "payment-1"
+  },
+  {
+   "service": "payment",
+   "id": "payment-2",
+   "node": "B",
+   "port": 8000,
+   "host": "payment-2"
+  },
+  {
+   "service": "records",
+   "id": "records-1",
+   "node": "A",
+   "port": 8000,
+   "host": "records-1"
+  },
+  {
+   "service": "records",
+   "id": "records-2",
+   "node": "B",
+   "port": 8000,
+   "host": "records-2"
+  },
+  {
+   "service": "timetable",
+   "id": "timetable-1",
+   "node": "A",
+   "port": 8000,
+   "host": "timetable-1"
+  },
+  {
+   "service": "timetable",
+   "id": "timetable-2",
+   "node": "B",
+   "port": 8000,
+   "host": "timetable-2"
+  },
+  {
+   "service": "monitor",
+   "id": "monitor-1",
+   "node": "A",
+   "port": 8000,
+   "host": "monitor-1"
+  }
+ ]
+}

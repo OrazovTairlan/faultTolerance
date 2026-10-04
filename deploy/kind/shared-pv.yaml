@@ -1,0 +1,11 @@
+# ReadWriteMany volume shared by every node (same Docker-host directory mounted into all kind nodes)
+apiVersion: v1
+kind: PersistentVolume
+metadata:
+  name: univ-shared
+spec:
+  capacity: {storage: 1Gi}
+  accessModes: [ReadWriteMany]
+  persistentVolumeReclaimPolicy: Retain
+  storageClassName: shared
+  hostPath: {path: /shared, type: DirectoryOrCreate}

@@ -1,0 +1,129 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: topology
+  namespace: univ
+data:
+  topology.json: |
+    {
+      "mode": "ft",
+      "instances": [
+        {
+          "service": "gateway",
+          "id": "gateway-0",
+          "node": "A",
+          "port": 8000,
+          "host": "gateway-0.gateway"
+        },
+        {
+          "service": "gateway",
+          "id": "gateway-1",
+          "node": "B",
+          "port": 8000,
+          "host": "gateway-1.gateway"
+        },
+        {
+          "service": "student",
+          "id": "student-0",
+          "node": "A",
+          "port": 8000,
+          "host": "student-0.student"
+        },
+        {
+          "service": "student",
+          "id": "student-1",
+          "node": "B",
+          "port": 8000,
+          "host": "student-1.student"
+        },
+        {
+          "service": "payment",
+          "id": "payment-0",
+          "node": "A",
+          "port": 8000,
+          "host": "payment-0.payment"
+        },
+        {
+          "service": "payment",
+          "id": "payment-1",
+          "node": "B",
+          "port": 8000,
+          "host": "payment-1.payment"
+        },
+        {
+          "service": "records",
+          "id": "records-0",
+          "node": "A",
+          "port": 8000,
+          "host": "records-0.records"
+        },
+        {
+          "service": "records",
+          "id": "records-1",
+          "node": "B",
+          "port": 8000,
+          "host": "records-1.records"
+        },
+        {
+          "service": "timetable",
+          "id": "timetable-0",
+          "node": "A",
+          "port": 8000,
+          "host": "timetable-0.timetable"
+        },
+        {
+          "service": "timetable",
+          "id": "timetable-1",
+          "node": "B",
+          "port": 8000,
+          "host": "timetable-1.timetable"
+        },
+        {
+          "service": "monitor",
+          "id": "monitor-0",
+          "node": "A",
+          "port": 8000,
+          "host": "monitor-0.monitor"
+        }
+      ]
+    }
+---
+# NOTE: SQLite needs a POSIX volume shared by all pods (RWX: NFS, CephFS, Azure Files, EFS ...). No
+# storageClassName here = the cluster default; deploy/kind/ patches in a shared hostPath volume for local
+# clusters. For production use PostgreSQL with streaming replication instead (see report, section 11).
+apiVersion: v1
+kind: PersistentVolumeClaim
+metadata:
+  name: data
+  namespace: univ
+spec:
+  accessModes: [ReadWriteMany]
+  resources:
+    requests:
+      storage: 1Gi
+---
+apiVersion: batch/v1
+kind: Job
+metadata:
+  name: init-data
+  namespace: univ
+spec:
+  template:
+    spec:
+      restartPolicy: OnFailure
+      containers:
+        - name: init
+          image: univ-is:latest
+          imagePullPolicy: IfNotPresent
+          command: ["python", "-m", "deploy.init_data", "ft"]
+          env:
+            - {name: DATA_DIR, value: /data}
+            - {name: TOPOLOGY_SRC, value: /config/topology.json}
+          volumeMounts:
+            - {name: data, mountPath: /data}
+            - {name: topo, mountPath: /config}
+      volumes:
+        - name: data
+          persistentVolumeClaim: {claimName: data}
+        - name: topo
+          configMap: {name: topology}

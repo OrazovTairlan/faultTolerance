@@ -1,0 +1,30 @@
+groups:
+  - name: university-is
+    rules:
+      - alert: InstanceDown              # min_over_time: a crash + restart shorter than one scrape is still caught
+        expr: min_over_time(target_up[10s]) == 0
+        labels: {severity: warning}
+        annotations:
+          summary: "{{ $labels.instance }} failed its health check in the last 10 s (masked if a replica is up)"
+      - alert: ServiceTierDown
+        expr: sum by (service) (target_up) == 0
+        labels: {severity: critical}
+        annotations:
+          summary: "no healthy replica of {{ $labels.service }}: user-visible outage"
+      - alert: GatewayErrorRateHigh
+        expr: (sum(rate(http_requests_total{service="gateway",code=~"5.."}[30s])) or vector(0)) / sum(rate(http_requests_total{service="gateway"}[30s])) > 0.05
+        for: 10s
+        labels: {severity: critical}
+        annotations:
+          summary: "more than 5% of user requests fail"
+      - alert: DatabasePrimaryUnavailable
+        expr: min(db_primary_available) == 0
+        for: 2s
+        labels: {severity: warning}
+        annotations:
+          summary: "primary database unreachable: reads served by the replica, writes journaled (HTTP 202)"
+      - alert: CircuitBreakerOpen
+        expr: max(gateway_circuit_open) > 0 or max(db_circuit_open) > 0
+        labels: {severity: info}
+        annotations:
+          summary: "a circuit breaker is open (fail-fast in progress)"
