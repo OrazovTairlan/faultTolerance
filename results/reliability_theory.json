@@ -1,0 +1,201 @@
+{
+ "real": {
+  "assumptions": [
+   {
+    "component": "node",
+    "MTTF": 50000.0,
+    "MTTR_baseline": 4.0,
+    "MTTR_ft": 4.0,
+    "MTBF_baseline": 50004.0,
+    "MTBF_ft": 50004.0,
+    "A_baseline": 0.9999200063994881,
+    "A_ft": 0.9999200063994881,
+    "failure_rate_per_h": 2e-05
+   },
+   {
+    "component": "process",
+    "MTTF": 720.0,
+    "MTTR_baseline": 0.5,
+    "MTTR_ft": 0.001388888888888889,
+    "MTBF_baseline": 720.5,
+    "MTBF_ft": 720.0013888888889,
+    "A_baseline": 0.9993060374739764,
+    "A_ft": 0.9999980709913754,
+    "failure_rate_per_h": 0.001388888888888889
+   },
+   {
+    "component": "db",
+    "MTTF": 8760.0,
+    "MTTR_baseline": 2.0,
+    "MTTR_ft": 2.0,
+    "MTBF_baseline": 8762.0,
+    "MTBF_ft": 8762.0,
+    "A_baseline": 0.9997717416115042,
+    "A_ft": 0.9997717416115042,
+    "failure_rate_per_h": 0.00011415525114155251
+   },
+   {
+    "component": "site",
+    "MTTF": 100000.0,
+    "MTTR_baseline": 2.0,
+    "MTTR_ft": 2.0,
+    "MTBF_baseline": 100002.0,
+    "MTBF_ft": 100002.0,
+    "A_baseline": 0.999980000399992,
+    "A_ft": 0.999980000399992,
+    "failure_rate_per_h": 1e-05
+   }
+  ],
+  "failover_s": 2.0,
+  "failover_coverage": 0.95,
+  "baseline": {
+   "availability": 0.9962079100108209,
+   "unavailability": 0.0037920899891791216,
+   "u_structural": 0.0037920899891791216,
+   "u_failover": 0.0,
+   "failure_frequency": 0.007083752654615825,
+   "MTTF": 140.63279148541199,
+   "MTTR": 0.5353221906623417,
+   "MTBF": 141.1681136760743,
+   "min_cut_sets": 8,
+   "single_points_of_failure": [
+    "db:1",
+    "node:A",
+    "proc:gateway:1",
+    "proc:payment:1",
+    "proc:records:1",
+    "proc:student:1",
+    "proc:timetable:1",
+    "site"
+   ],
+   "cut_set_orders": {
+    "1": 8
+   },
+   "downtime_min_per_year": 1994.487650708651,
+   "nines": 2.42112136507337
+  },
+  "ft": {
+   "availability": 0.9999795105771483,
+   "unavailability": 2.048942285174703e-05,
+   "u_structural": 2.0096167313103363e-05,
+   "u_failover": 3.932555386436668e-07,
+   "failure_frequency": 1.1220687791290009e-05,
+   "MTTF": 89119.3055570903,
+   "MTTR": 1.79099246738715,
+   "MTBF": 89121.09654955768,
+   "min_cut_sets": 20,
+   "single_points_of_failure": [
+    "site"
+   ],
+   "cut_set_orders": {
+    "1": 1,
+    "2": 19
+   },
+   "downtime_min_per_year": 10.776616843104867,
+   "nines": 4.688470274679902
+  },
+  "scenarios": {
+   "ft_without_site_common_cause": {
+    "availability": 0.9999995101752249,
+    "unavailability": 4.898247750936138e-07,
+    "u_structural": 9.6569236449947e-08,
+    "u_failover": 3.932555386436668e-07,
+    "failure_frequency": 1.2208877872900833e-06,
+    "MTTF": 819076.0148812622,
+    "MTTR": 0.07909755298993922,
+    "MTBF": 819076.0939788152,
+    "min_cut_sets": 19,
+    "single_points_of_failure": [],
+    "cut_set_orders": {
+     "2": 19
+    },
+    "downtime_min_per_year": 0.2576282387082371
+   },
+   "ft_with_manual_process_restart": {
+    "availability": 0.9999765504804807,
+    "unavailability": 2.3449519519318002e-05,
+    "u_structural": 2.3056263980674336e-05,
+    "u_failover": 3.932555386436668e-07,
+    "failure_frequency": 2.096320257422778e-05,
+    "MTTF": 47701.53511588891,
+    "MTTR": 1.0998445442214908,
+    "MTBF": 47702.63496043313,
+    "min_cut_sets": 20,
+    "single_points_of_failure": [
+     "site"
+    ],
+    "cut_set_orders": {
+     "1": 1,
+     "2": 19
+    },
+    "downtime_min_per_year": 12.333509286380497
+   },
+   "baseline_with_auto_restart_only": {
+    "availability": 0.9996621309945866,
+    "unavailability": 0.0003378690054134551,
+    "u_structural": 0.0003378690054134551,
+    "u_failover": 0.0,
+    "failure_frequency": 0.007088558442931097,
+    "MTTF": 141.0247427657843,
+    "MTTR": 0.04766399376313067,
+    "MTBF": 141.07240675954745,
+    "min_cut_sets": 8,
+    "single_points_of_failure": [
+     "db:1",
+     "node:A",
+     "proc:gateway:1",
+     "proc:payment:1",
+     "proc:records:1",
+     "proc:student:1",
+     "proc:timetable:1",
+     "site"
+    ],
+    "cut_set_orders": {
+     "1": 8
+    },
+    "downtime_min_per_year": 177.70558208726084
+   }
+  }
+ },
+ "accelerated_default": {
+  "baseline": {
+   "availability": 0.6069998865359636,
+   "unavailability": 0.39300011346403635,
+   "u_structural": 0.39300011346403635,
+   "u_failover": 0.0,
+   "failure_frequency": 0.07541478129713423,
+   "MTTF": 8.048818495466877,
+   "MTTR": 5.211181504533123,
+   "MTBF": 13.26,
+   "min_cut_sets": 5,
+   "single_points_of_failure": [
+    "proc:gateway:1",
+    "proc:payment:1",
+    "proc:records:1",
+    "proc:student:1",
+    "proc:timetable:1"
+   ],
+   "cut_set_orders": {
+    "1": 5
+   }
+  },
+  "ft": {
+   "availability": 0.9814124733553465,
+   "unavailability": 0.018587526644653424,
+   "u_structural": 0.0019208599779867606,
+   "u_failover": 0.016666666666666663,
+   "failure_frequency": 0.0032038959374599504,
+   "MTTF": 311.5204611836709,
+   "MTTR": 0.5995388163292279,
+   "MTBF": 312.1200000000001,
+   "min_cut_sets": 5,
+   "single_points_of_failure": [],
+   "cut_set_orders": {
+    "2": 5
+   }
+  },
+  "mttf_s": 60.0,
+  "mttr_baseline_s": 6.3,
+  "mttr_ft_s": 1.2
+ }
+}

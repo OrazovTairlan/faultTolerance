@@ -1,0 +1,22 @@
+{"ts": 1791178124.7222152, "component": "injector", "event": "node_failed", "node": "A", "repair_after": 15, "t_rel": 8.0017}
+{"ts": 1791178125.9799702, "component": "monitor", "event": "target_down", "target": "gateway-1", "t_rel": 9.2594}
+{"ts": 1791178125.981198, "component": "monitor", "event": "target_down", "target": "student-1", "t_rel": 9.2606}
+{"ts": 1791178125.9820786, "component": "monitor", "event": "target_down", "target": "payment-1", "t_rel": 9.2615}
+{"ts": 1791178125.9829059, "component": "monitor", "event": "target_down", "target": "records-1", "t_rel": 9.2623}
+{"ts": 1791178125.983744, "component": "monitor", "event": "target_down", "target": "timetable-1", "t_rel": 9.2632}
+{"ts": 1791178139.8749819, "component": "cluster", "event": "node_repaired", "node": "A", "t_rel": 23.1544}
+{"ts": 1791178139.899562, "component": "cluster", "event": "instance_restarted", "target": "gateway-1", "reason": "operator", "t_rel": 23.179}
+{"ts": 1791178139.9225068, "component": "cluster", "event": "instance_restarted", "target": "student-1", "reason": "operator", "t_rel": 23.2019}
+{"ts": 1791178139.9444654, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "operator", "t_rel": 23.2239}
+{"ts": 1791178139.96871, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "operator", "t_rel": 23.2481}
+{"ts": 1791178139.9938784, "component": "cluster", "event": "instance_restarted", "target": "timetable-1", "reason": "operator", "t_rel": 23.2733}
+{"ts": 1791178141.0954316, "component": "cluster", "event": "instance_ready", "target": "gateway-1", "startup_s": 1.196, "t_rel": 24.3749}
+{"ts": 1791178141.1444285, "component": "cluster", "event": "instance_ready", "target": "student-1", "startup_s": 1.222, "t_rel": 24.4239}
+{"ts": 1791178141.1664538, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.222, "t_rel": 24.4459}
+{"ts": 1791178141.1887622, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.22, "t_rel": 24.4682}
+{"ts": 1791178141.1908293, "component": "cluster", "event": "instance_ready", "target": "timetable-1", "startup_s": 1.197, "t_rel": 24.4703}
+{"ts": 1791178141.3107765, "component": "monitor", "event": "target_up", "target": "gateway-1", "t_rel": 24.5902}
+{"ts": 1791178141.3177133, "component": "monitor", "event": "target_up", "target": "student-1", "t_rel": 24.5971}
+{"ts": 1791178141.3193629, "component": "monitor", "event": "target_up", "target": "payment-1", "t_rel": 24.5988}
+{"ts": 1791178141.3206885, "component": "monitor", "event": "target_up", "target": "records-1", "t_rel": 24.6001}
+{"ts": 1791178141.3222039, "component": "monitor", "event": "target_up", "target": "timetable-1", "t_rel": 24.6016}

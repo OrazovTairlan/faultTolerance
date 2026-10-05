@@ -1,0 +1,268 @@
+{"ts": 1791178569.416945, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 1.2479}
+{"ts": 1791178569.4416604, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 1.2726}
+{"ts": 1791178569.6520717, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 1.483}
+{"ts": 1791178569.675663, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 1.5066}
+{"ts": 1791178569.7612755, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 1.5922}
+{"ts": 1791178570.0087013, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 1.8397}
+{"ts": 1791178570.085905, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 1.9169}
+{"ts": 1791178570.1076627, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 1.9386}
+{"ts": 1791178570.3354268, "component": "gateway-1", "event": "circuit_open", "target": "payment-1", "t_rel": 2.1664}
+{"ts": 1791178570.395694, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 2.2267}
+{"ts": 1791178570.4756148, "component": "gateway-1", "event": "circuit_closed", "target": "payment-1", "t_rel": 2.3066}
+{"ts": 1791178570.4759798, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 2.307}
+{"ts": 1791178570.4831564, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 2.3141}
+{"ts": 1791178570.5049992, "component": "gateway-1", "event": "circuit_open", "target": "payment-2", "t_rel": 2.336}
+{"ts": 1791178570.614105, "component": "monitor", "event": "target_down", "target": "payment-2", "t_rel": 2.4451}
+{"ts": 1791178570.7506797, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.075, "t_rel": 2.5817}
+{"ts": 1791178570.7696657, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check", "t_rel": 2.6006}
+{"ts": 1791178570.9377618, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 2.7687}
+{"ts": 1791178570.9617176, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 2.7927}
+{"ts": 1791178571.1729732, "component": "monitor", "event": "target_up", "target": "payment-2", "t_rel": 3.0039}
+{"ts": 1791178571.2487404, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 3.0797}
+{"ts": 1791178571.2489235, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.141, "t_rel": 3.0799}
+{"ts": 1791178571.2909105, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.849, "t_rel": 3.1219}
+{"ts": 1791178571.4980233, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 3.329}
+{"ts": 1791178571.5414546, "component": "gateway-1", "event": "circuit_closed", "target": "payment-2", "t_rel": 3.3724}
+{"ts": 1791178571.5417814, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 3.3728}
+{"ts": 1791178571.5459719, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 3.3769}
+{"ts": 1791178571.8992524, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103611-889.db", "t_rel": 3.7302}
+{"ts": 1791178571.970052, "component": "payment-2", "event": "payment_recovered", "key": "e5-pay-c21dd337", "t_rel": 3.801}
+{"ts": 1791178572.1061697, "component": "payment-1", "event": "payment_recovered", "key": "e5-pay-c21dd337", "t_rel": 3.9371}
+{"ts": 1791178572.2951612, "component": "monitor", "event": "target_down", "target": "records-2", "t_rel": 4.1261}
+{"ts": 1791178572.588705, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 4.4197}
+{"ts": 1791178572.6111493, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 4.4421}
+{"ts": 1791178572.7742345, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.813, "t_rel": 4.6052}
+{"ts": 1791178572.847731, "component": "monitor", "event": "target_up", "target": "records-2", "t_rel": 4.6787}
+{"ts": 1791178572.941563, "component": "gateway-1", "event": "replica_healthy", "target": "records-2", "t_rel": 4.7725}
+{"ts": 1791178572.975953, "component": "gateway-2", "event": "replica_healthy", "target": "records-2", "t_rel": 4.8069}
+{"ts": 1791178572.9972286, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 4.8282}
+{"ts": 1791178573.1168022, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 4.9478}
+{"ts": 1791178573.2305412, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 5.0615}
+{"ts": 1791178573.2511084, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 5.0821}
+{"ts": 1791178573.4966302, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 5.3276}
+{"ts": 1791178573.511073, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 5.342}
+{"ts": 1791178573.665112, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 5.4961}
+{"ts": 1791178573.689602, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 5.5206}
+{"ts": 1791178573.8301523, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 5.6611}
+{"ts": 1791178573.8309288, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 5.6619}
+{"ts": 1791178573.9162087, "component": "supervisor", "event": "crash_detected", "target": "records-1", "t_rel": 5.7472}
+{"ts": 1791178573.9383235, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 5.7693}
+{"ts": 1791178573.9785116, "component": "monitor", "event": "target_down", "target": "payment-2", "t_rel": 5.8095}
+{"ts": 1791178574.0086272, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 5.8396}
+{"ts": 1791178574.147612, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 5.9786}
+{"ts": 1791178574.1705976, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 6.0016}
+{"ts": 1791178574.1797886, "component": "gateway-1", "event": "circuit_open", "target": "payment-2", "t_rel": 6.0108}
+{"ts": 1791178574.2576978, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 6.0887}
+{"ts": 1791178574.338373, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 6.1693}
+{"ts": 1791178574.3822837, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 6.2133}
+{"ts": 1791178574.4026945, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 6.2337}
+{"ts": 1791178574.4845655, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.873, "t_rel": 6.3155}
+{"ts": 1791178574.5259445, "component": "monitor", "event": "target_up", "target": "payment-2", "t_rel": 6.3569}
+{"ts": 1791178574.5388775, "component": "gateway-2", "event": "circuit_open", "target": "payment-1", "t_rel": 6.3698}
+{"ts": 1791178574.6012304, "component": "gateway-1", "event": "circuit_closed", "target": "payment-2", "t_rel": 6.4322}
+{"ts": 1791178574.6015086, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 6.4325}
+{"ts": 1791178574.6167748, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 6.4477}
+{"ts": 1791178574.6259277, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 6.4569}
+{"ts": 1791178574.6269898, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 6.458}
+{"ts": 1791178574.7027955, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 6.5338}
+{"ts": 1791178574.8186011, "component": "monitor", "event": "target_down", "target": "payment-1", "t_rel": 6.6496}
+{"ts": 1791178574.8441694, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.155, "t_rel": 6.6751}
+{"ts": 1791178574.8986607, "component": "gateway-1", "event": "circuit_open", "target": "payment-1", "t_rel": 6.7296}
+{"ts": 1791178575.102994, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.165, "t_rel": 6.934}
+{"ts": 1791178575.1566153, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.906, "t_rel": 6.9876}
+{"ts": 1791178575.2219684, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 7.0529}
+{"ts": 1791178575.2433121, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 7.0743}
+{"ts": 1791178575.3630736, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.192, "t_rel": 7.194}
+{"ts": 1791178575.3718448, "component": "monitor", "event": "target_up", "target": "payment-1", "t_rel": 7.2028}
+{"ts": 1791178575.4338467, "component": "gateway-1", "event": "replica_healthy", "target": "records-2", "t_rel": 7.2648}
+{"ts": 1791178575.435283, "component": "gateway-1", "event": "circuit_closed", "target": "payment-1", "t_rel": 7.2663}
+{"ts": 1791178575.4356754, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 7.2666}
+{"ts": 1791178575.452544, "component": "supervisor", "event": "crash_detected", "target": "records-1", "t_rel": 7.2835}
+{"ts": 1791178575.4675293, "component": "gateway-2", "event": "circuit_closed", "target": "payment-1", "t_rel": 7.2985}
+{"ts": 1791178575.4678845, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 7.2989}
+{"ts": 1791178575.4695187, "component": "gateway-2", "event": "replica_healthy", "target": "records-2", "t_rel": 7.3005}
+{"ts": 1791178575.4790337, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 7.31}
+{"ts": 1791178575.484405, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 7.3154}
+{"ts": 1791178575.5153697, "component": "gateway-1", "event": "circuit_open", "target": "payment-2", "t_rel": 7.3463}
+{"ts": 1791178575.5316885, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 7.3627}
+{"ts": 1791178575.57988, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.177, "t_rel": 7.4109}
+{"ts": 1791178575.8864942, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 7.7175}
+{"ts": 1791178575.907499, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 7.7385}
+{"ts": 1791178576.136685, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 7.9677}
+{"ts": 1791178576.1791494, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 8.0101}
+{"ts": 1791178576.2147782, "component": "gateway-2", "event": "circuit_open", "target": "payment-1", "t_rel": 8.0457}
+{"ts": 1791178576.2857652, "component": "gateway-1", "event": "replica_healthy", "target": "records-1", "t_rel": 8.1167}
+{"ts": 1791178576.295468, "component": "gateway-1", "event": "circuit_closed", "target": "payment-2", "t_rel": 8.1264}
+{"ts": 1791178576.2957528, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 8.1267}
+{"ts": 1791178576.2973115, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 8.1283}
+{"ts": 1791178576.299058, "component": "gateway-2", "event": "replica_healthy", "target": "records-1", "t_rel": 8.13}
+{"ts": 1791178576.4590404, "component": "payment-1", "event": "payment_recovered", "key": "e5-pay-65a69703", "t_rel": 8.29}
+{"ts": 1791178576.5263884, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 8.3574}
+{"ts": 1791178576.5498753, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 8.3808}
+{"ts": 1791178576.5745728, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.096, "t_rel": 8.4055}
+{"ts": 1791178576.6662202, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 8.4972}
+{"ts": 1791178576.7574525, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 8.5884}
+{"ts": 1791178576.7742949, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 8.6053}
+{"ts": 1791178576.7814615, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 8.6124}
+{"ts": 1791178576.8368278, "component": "gateway-2", "event": "circuit_open", "target": "payment-2", "t_rel": 8.6678}
+{"ts": 1791178577.0347235, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.127, "t_rel": 8.8657}
+{"ts": 1791178577.0891688, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 8.9201}
+{"ts": 1791178577.098124, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 8.9291}
+{"ts": 1791178577.1183145, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.875, "t_rel": 8.9493}
+{"ts": 1791178577.1262445, "component": "gateway-2", "event": "circuit_closed", "target": "payment-1", "t_rel": 8.9572}
+{"ts": 1791178577.126591, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 8.9576}
+{"ts": 1791178577.1273863, "component": "gateway-2", "event": "circuit_closed", "target": "payment-2", "t_rel": 8.9584}
+{"ts": 1791178577.1276188, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 8.9586}
+{"ts": 1791178577.1462157, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 8.9772}
+{"ts": 1791178577.2757425, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 9.1067}
+{"ts": 1791178577.3931613, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 9.2241}
+{"ts": 1791178577.3935626, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 9.2245}
+{"ts": 1791178577.4155357, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 9.2465}
+{"ts": 1791178577.4393194, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 9.2703}
+{"ts": 1791178577.673116, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 9.5041}
+{"ts": 1791178577.6966465, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 9.5276}
+{"ts": 1791178577.75168, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 9.5827}
+{"ts": 1791178577.8252933, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 9.6563}
+{"ts": 1791178577.921901, "component": "payment-1", "event": "payment_recovered", "key": "e5-pay-ccc7706b", "t_rel": 9.7529}
+{"ts": 1791178577.941373, "component": "gateway-1", "event": "replica_healthy", "target": "records-2", "t_rel": 9.7723}
+{"ts": 1791178577.9659905, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.185, "t_rel": 9.797}
+{"ts": 1791178577.972235, "component": "gateway-2", "event": "replica_healthy", "target": "records-2", "t_rel": 9.8032}
+{"ts": 1791178577.9915135, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 9.8225}
+{"ts": 1791178578.165251, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 9.9962}
+{"ts": 1791178578.1656764, "component": "monitor", "event": "target_down", "target": "payment-2", "t_rel": 9.9966}
+{"ts": 1791178578.257542, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 10.0885}
+{"ts": 1791178578.2578247, "component": "supervisor", "event": "crash_detected", "target": "records-1", "t_rel": 10.0888}
+{"ts": 1791178578.2706518, "component": "gateway-2", "event": "circuit_open", "target": "payment-2", "t_rel": 10.1016}
+{"ts": 1791178578.2891173, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 10.1201}
+{"ts": 1791178578.3161652, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 10.1471}
+{"ts": 1791178578.5102196, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 10.3412}
+{"ts": 1791178578.5247433, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 10.3557}
+{"ts": 1791178578.5481522, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 10.3791}
+{"ts": 1791178578.604487, "component": "gateway-2", "event": "circuit_open", "target": "payment-1", "t_rel": 10.4355}
+{"ts": 1791178578.7586284, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 10.5896}
+{"ts": 1791178578.7840965, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 10.6151}
+{"ts": 1791178579.0065966, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 10.8376}
+{"ts": 1791178579.0069654, "component": "monitor", "event": "target_down", "target": "payment-1", "t_rel": 10.8379}
+{"ts": 1791178579.0409715, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 10.8719}
+{"ts": 1791178579.2731628, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 2.723, "t_rel": 11.1041}
+{"ts": 1791178579.284974, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 11.1159}
+{"ts": 1791178579.395452, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.98, "t_rel": 11.2264}
+{"ts": 1791178579.420461, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.981, "t_rel": 11.2514}
+{"ts": 1791178579.4697108, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.181, "t_rel": 11.3007}
+{"ts": 1791178579.5026329, "component": "gateway-2", "event": "circuit_open", "target": "records-2", "t_rel": 11.3336}
+{"ts": 1791178579.5247698, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.209, "t_rel": 11.3557}
+{"ts": 1791178579.5495353, "component": "monitor", "event": "target_up", "target": "payment-1", "t_rel": 11.3805}
+{"ts": 1791178579.5506012, "component": "monitor", "event": "target_up", "target": "payment-2", "t_rel": 11.3816}
+{"ts": 1791178579.573689, "component": "gateway-2", "event": "circuit_open", "target": "records-1", "t_rel": 11.4047}
+{"ts": 1791178579.5757105, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 11.4067}
+{"ts": 1791178579.576578, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 11.4075}
+{"ts": 1791178579.6112695, "component": "supervisor", "event": "crash_detected", "target": "records-1", "t_rel": 11.4422}
+{"ts": 1791178579.6251245, "component": "gateway-2", "event": "circuit_closed", "target": "payment-2", "t_rel": 11.4561}
+{"ts": 1791178579.6256883, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 11.4567}
+{"ts": 1791178579.6266687, "component": "gateway-2", "event": "circuit_closed", "target": "payment-1", "t_rel": 11.4576}
+{"ts": 1791178579.6268923, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 11.4579}
+{"ts": 1791178579.6340234, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 11.465}
+{"ts": 1791178579.6929173, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.145, "t_rel": 11.5239}
+{"ts": 1791178579.844964, "component": "monitor", "event": "target_down", "target": "records-2", "t_rel": 11.6759}
+{"ts": 1791178579.9576917, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.174, "t_rel": 11.7887}
+{"ts": 1791178580.0213706, "component": "gateway-1", "event": "circuit_open", "target": "records-2", "t_rel": 11.8523}
+{"ts": 1791178580.0442011, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 11.8752}
+{"ts": 1791178580.0444183, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 11.8754}
+{"ts": 1791178580.0650377, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 11.896}
+{"ts": 1791178580.0866048, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 11.9176}
+{"ts": 1791178580.2945223, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 12.1255}
+{"ts": 1791178580.31524, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 12.1462}
+{"ts": 1791178580.421414, "component": "gateway-1", "event": "replica_healthy", "target": "records-1", "t_rel": 12.2524}
+{"ts": 1791178580.4348345, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 12.2658}
+{"ts": 1791178580.4583695, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 12.2893}
+{"ts": 1791178580.4636567, "component": "gateway-2", "event": "circuit_closed", "target": "records-1", "t_rel": 12.2946}
+{"ts": 1791178580.4640963, "component": "gateway-2", "event": "replica_healthy", "target": "records-1", "t_rel": 12.2951}
+{"ts": 1791178580.4654243, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 12.2964}
+{"ts": 1791178580.5150437, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 12.346}
+{"ts": 1791178580.5299118, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 12.3609}
+{"ts": 1791178580.5470498, "component": "payment-2", "event": "payment_recovered", "key": "e5-pay-5b6b3a60", "t_rel": 12.378}
+{"ts": 1791178580.7392118, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.105, "t_rel": 12.5702}
+{"ts": 1791178580.9324186, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 12.7634}
+{"ts": 1791178580.9329927, "component": "supervisor", "event": "crash_detected", "target": "records-1", "t_rel": 12.764}
+{"ts": 1791178580.9566104, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 12.7876}
+{"ts": 1791178580.980391, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 12.8114}
+{"ts": 1791178581.18221, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 13.0132}
+{"ts": 1791178581.1968935, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 13.0279}
+{"ts": 1791178581.2211254, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 13.0521}
+{"ts": 1791178581.2433844, "component": "monitor", "event": "target_up", "target": "records-2", "t_rel": 13.0744}
+{"ts": 1791178581.2448146, "component": "gateway-1", "event": "circuit_closed", "target": "records-2", "t_rel": 13.0758}
+{"ts": 1791178581.2451386, "component": "gateway-1", "event": "replica_healthy", "target": "records-2", "t_rel": 13.0761}
+{"ts": 1791178581.2606747, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.174, "t_rel": 13.0916}
+{"ts": 1791178581.2812388, "component": "gateway-2", "event": "circuit_closed", "target": "records-2", "t_rel": 13.1122}
+{"ts": 1791178581.2815826, "component": "gateway-2", "event": "replica_healthy", "target": "records-2", "t_rel": 13.1126}
+{"ts": 1791178581.4149299, "component": "gateway-2", "event": "circuit_open", "target": "payment-2", "t_rel": 13.2459}
+{"ts": 1791178581.416324, "component": "gateway-1", "event": "circuit_open", "target": "payment-1", "t_rel": 13.2473}
+{"ts": 1791178581.5143297, "component": "gateway-1", "event": "circuit_open", "target": "payment-2", "t_rel": 13.3453}
+{"ts": 1791178581.5265348, "component": "monitor", "event": "target_down", "target": "payment-1", "t_rel": 13.3575}
+{"ts": 1791178581.5278754, "component": "monitor", "event": "target_down", "target": "payment-2", "t_rel": 13.3588}
+{"ts": 1791178581.5290446, "component": "monitor", "event": "target_down", "target": "records-1", "t_rel": 13.36}
+{"ts": 1791178581.6335354, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 13.4645}
+{"ts": 1791178581.6345472, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 13.4655}
+{"ts": 1791178581.6589935, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 13.49}
+{"ts": 1791178581.666019, "component": "gateway-2", "event": "circuit_open", "target": "payment-1", "t_rel": 13.497}
+{"ts": 1791178581.6831524, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 13.5141}
+{"ts": 1791178581.9092956, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103621-900.db", "t_rel": 13.7403}
+{"ts": 1791178581.9458003, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 13.7768}
+{"ts": 1791178582.007074, "component": "gateway-2", "event": "circuit_open", "target": "records-1", "t_rel": 13.838}
+{"ts": 1791178582.0877817, "component": "supervisor", "event": "crash_detected", "target": "records-1", "t_rel": 13.9188}
+{"ts": 1791178582.0949314, "component": "monitor", "event": "target_up", "target": "payment-1", "t_rel": 13.9259}
+{"ts": 1791178582.09538, "component": "gateway-1", "event": "circuit_closed", "target": "payment-1", "t_rel": 13.9264}
+{"ts": 1791178582.0956016, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 13.9266}
+{"ts": 1791178582.1133714, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 13.9443}
+{"ts": 1791178582.119709, "component": "gateway-2", "event": "circuit_closed", "target": "payment-1", "t_rel": 13.9507}
+{"ts": 1791178582.119968, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 13.9509}
+{"ts": 1791178582.2602348, "component": "gateway-2", "event": "circuit_open", "target": "records-2", "t_rel": 14.0912}
+{"ts": 1791178582.2695546, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.954, "t_rel": 14.1005}
+{"ts": 1791178582.37283, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.152, "t_rel": 14.2038}
+{"ts": 1791178582.5099015, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 14.3409}
+{"ts": 1791178582.7744899, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 2.709, "t_rel": 14.6055}
+{"ts": 1791178582.8762114, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.217, "t_rel": 14.7072}
+{"ts": 1791178582.9118176, "component": "gateway-1", "event": "circuit_closed", "target": "payment-2", "t_rel": 14.7428}
+{"ts": 1791178582.9121013, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 14.7431}
+{"ts": 1791178582.9175882, "component": "monitor", "event": "target_up", "target": "payment-2", "t_rel": 14.7486}
+{"ts": 1791178582.9229174, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.24, "t_rel": 14.7539}
+{"ts": 1791178582.924609, "component": "gateway-1", "event": "replica_healthy", "target": "records-2", "t_rel": 14.7556}
+{"ts": 1791178582.9436781, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 14.7746}
+{"ts": 1791178582.9549282, "component": "gateway-2", "event": "circuit_closed", "target": "payment-2", "t_rel": 14.7859}
+{"ts": 1791178582.955296, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 14.7863}
+{"ts": 1791178582.9562976, "component": "gateway-2", "event": "circuit_closed", "target": "records-2", "t_rel": 14.7873}
+{"ts": 1791178582.956514, "component": "gateway-2", "event": "replica_healthy", "target": "records-2", "t_rel": 14.7875}
+{"ts": 1791178582.960925, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 2.004, "t_rel": 14.7919}
+{"ts": 1791178582.967352, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 14.7983}
+{"ts": 1791178583.1484547, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 14.9794}
+{"ts": 1791178583.164212, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 14.9952}
+{"ts": 1791178583.1929762, "component": "gateway-2", "event": "circuit_open", "target": "payment-1", "t_rel": 15.0239}
+{"ts": 1791178583.2998288, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.186, "t_rel": 15.1308}
+{"ts": 1791178583.3800075, "component": "supervisor", "event": "crash_detected", "target": "payment-2", "t_rel": 15.211}
+{"ts": 1791178583.4024704, "component": "cluster", "event": "instance_restarted", "target": "payment-2", "reason": "orchestrator", "t_rel": 15.2334}
+{"ts": 1791178583.4134629, "component": "payment-1", "event": "payment_recovered", "key": "e5-pay-8408b9ec", "t_rel": 15.2444}
+{"ts": 1791178583.505309, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 15.3363}
+{"ts": 1791178583.5665362, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "connect_error", "t_rel": 15.3975}
+{"ts": 1791178583.6118937, "component": "supervisor", "event": "crash_detected", "target": "records-2", "t_rel": 15.4429}
+{"ts": 1791178583.6296403, "component": "gateway-2", "event": "circuit_open", "target": "payment-2", "t_rel": 15.4606}
+{"ts": 1791178583.6319754, "component": "cluster", "event": "instance_restarted", "target": "records-2", "reason": "orchestrator", "t_rel": 15.4629}
+{"ts": 1791178583.700302, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 2.72, "t_rel": 15.5313}
+{"ts": 1791178583.7363317, "component": "gateway-1", "event": "replica_healthy", "target": "records-1", "t_rel": 15.5673}
+{"ts": 1791178583.7381659, "component": "monitor", "event": "target_up", "target": "records-1", "t_rel": 15.5691}
+{"ts": 1791178583.7546082, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 15.5856}
+{"ts": 1791178583.7830899, "component": "gateway-2", "event": "circuit_closed", "target": "payment-1", "t_rel": 15.6141}
+{"ts": 1791178583.7836523, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 15.6146}
+{"ts": 1791178583.7846718, "component": "gateway-2", "event": "circuit_closed", "target": "records-1", "t_rel": 15.6156}
+{"ts": 1791178583.7849247, "component": "gateway-2", "event": "replica_healthy", "target": "records-1", "t_rel": 15.6159}
+{"ts": 1791178583.799456, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 15.6304}
+{"ts": 1791178584.0807793, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "connect_error", "t_rel": 15.9117}
+{"ts": 1791178584.0962124, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.129, "t_rel": 15.9272}
+{"ts": 1791178584.4849896, "component": "cluster", "event": "instance_ready", "target": "payment-2", "startup_s": 1.083, "t_rel": 16.316}
+{"ts": 1791178584.5731618, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2", "t_rel": 16.4041}
+{"ts": 1791178584.579207, "component": "gateway-1", "event": "replica_healthy", "target": "records-2", "t_rel": 16.4102}
+{"ts": 1791178584.6029363, "component": "gateway-2", "event": "circuit_closed", "target": "payment-2", "t_rel": 16.4339}
+{"ts": 1791178584.603331, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2", "t_rel": 16.4343}
+{"ts": 1791178584.6040866, "component": "gateway-2", "event": "replica_healthy", "target": "records-2", "t_rel": 16.4351}
+{"ts": 1791178584.7336352, "component": "cluster", "event": "instance_ready", "target": "records-2", "startup_s": 1.102, "t_rel": 16.5646}
+{"ts": 1791178585.3102417, "component": "payment-2", "event": "payment_recovered", "key": "e5-pay-2cee9bad", "t_rel": 17.1412}
+{"ts": 1791178585.4540007, "component": "payment-1", "event": "payment_recovered", "key": "e5-pay-2cee9bad", "t_rel": 17.285}

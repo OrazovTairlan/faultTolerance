@@ -1,0 +1,5 @@
+{"ts": 1791177253.8115525, "component": "injector", "event": "instance_killed", "target": "payment-1", "t_rel": 8.001}
+{"ts": 1791177255.4210126, "component": "monitor", "event": "target_down", "target": "payment-1", "t_rel": 9.6105}
+{"ts": 1791177258.998676, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "operator", "t_rel": 13.1882}
+{"ts": 1791177260.061347, "component": "monitor", "event": "target_up", "target": "payment-1", "t_rel": 14.2508}
+{"ts": 1791177260.1021981, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.104, "t_rel": 14.2917}

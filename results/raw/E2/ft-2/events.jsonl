@@ -1,0 +1,144 @@
+{"ts": 1791177586.0689445, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-101946-014.db", "t_rel": 3.4061}
+{"ts": 1791177591.2668786, "component": "timetable-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.604}
+{"ts": 1791177591.2839167, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.6211}
+{"ts": 1791177591.3464284, "component": "student-1", "event": "db_circuit_open", "t_rel": 8.6836}
+{"ts": 1791177591.3621583, "component": "payment-2", "event": "db_circuit_open", "t_rel": 8.6993}
+{"ts": 1791177591.3924813, "component": "records-2", "event": "db_circuit_open", "t_rel": 8.7296}
+{"ts": 1791177591.3925138, "component": "timetable-2", "event": "db_circuit_open", "t_rel": 8.7297}
+{"ts": 1791177591.4474494, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 8.7846}
+{"ts": 1791177591.5612197, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 8.8984}
+{"ts": 1791177591.5765238, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 8.9137}
+{"ts": 1791177591.6573482, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.9945}
+{"ts": 1791177591.7005453, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.0377}
+{"ts": 1791177591.9075575, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.2447}
+{"ts": 1791177592.0074265, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.3446}
+{"ts": 1791177592.2280118, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.5652}
+{"ts": 1791177592.446404, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.7836}
+{"ts": 1791177592.5671604, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.9043}
+{"ts": 1791177592.6293058, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.9665}
+{"ts": 1791177592.6924887, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 10.0296}
+{"ts": 1791177592.796429, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.1336}
+{"ts": 1791177592.797357, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 10.1345}
+{"ts": 1791177592.922524, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.2597}
+{"ts": 1791177593.1099834, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.4471}
+{"ts": 1791177593.2568238, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.594}
+{"ts": 1791177593.4064553, "component": "payment-1", "event": "db_circuit_half_open", "t_rel": 10.7436}
+{"ts": 1791177593.438129, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 10.7753}
+{"ts": 1791177593.4431262, "component": "records-2", "event": "db_circuit_half_open", "t_rel": 10.7803}
+{"ts": 1791177593.4471562, "component": "timetable-2", "event": "db_circuit_half_open", "t_rel": 10.7843}
+{"ts": 1791177593.4491556, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 10.7863}
+{"ts": 1791177593.453201, "component": "payment-2", "event": "db_circuit_half_open", "t_rel": 10.7903}
+{"ts": 1791177593.453367, "component": "timetable-1", "event": "db_circuit_half_open", "t_rel": 10.7905}
+{"ts": 1791177593.5137882, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.8509}
+{"ts": 1791177593.6335459, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.9707}
+{"ts": 1791177593.7791348, "component": "records-1", "event": "db_circuit_open", "t_rel": 11.1163}
+{"ts": 1791177594.026748, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 11.3639}
+{"ts": 1791177594.1097524, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 11.4469}
+{"ts": 1791177594.1752865, "component": "payment-1", "event": "db_circuit_open", "t_rel": 11.5124}
+{"ts": 1791177594.2060733, "component": "records-2", "event": "db_circuit_open", "t_rel": 11.5432}
+{"ts": 1791177594.206098, "component": "student-1", "event": "db_circuit_open", "t_rel": 11.5432}
+{"ts": 1791177594.328331, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 11.6655}
+{"ts": 1791177594.475141, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 11.8123}
+{"ts": 1791177594.728885, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 12.066}
+{"ts": 1791177594.8095064, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 12.1467}
+{"ts": 1791177595.2574525, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 12.5946}
+{"ts": 1791177595.3365154, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 12.6737}
+{"ts": 1791177595.3822267, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 12.7194}
+{"ts": 1791177595.5371974, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 12.8743}
+{"ts": 1791177595.8800986, "component": "records-1", "event": "db_circuit_half_open", "t_rel": 13.2172}
+{"ts": 1791177595.8976185, "component": "payment-2", "event": "db_circuit_half_open", "t_rel": 13.2348}
+{"ts": 1791177595.8978467, "component": "timetable-1", "event": "db_circuit_half_open", "t_rel": 13.235}
+{"ts": 1791177596.040085, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 13.3772}
+{"ts": 1791177596.0938604, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-101956-077.db", "t_rel": 13.431}
+{"ts": 1791177596.219574, "component": "payment-2", "event": "db_circuit_open", "t_rel": 13.5567}
+{"ts": 1791177596.2196505, "component": "timetable-1", "event": "db_circuit_open", "t_rel": 13.5568}
+{"ts": 1791177596.22399, "component": "payment-1", "event": "db_circuit_half_open", "t_rel": 13.5611}
+{"ts": 1791177596.3649895, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 13.7021}
+{"ts": 1791177596.3831205, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 13.7203}
+{"ts": 1791177596.4430106, "component": "timetable-2", "event": "db_circuit_half_open", "t_rel": 13.7802}
+{"ts": 1791177596.5662043, "component": "records-2", "event": "db_circuit_half_open", "t_rel": 13.9034}
+{"ts": 1791177596.6349545, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 13.9721}
+{"ts": 1791177596.886356, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 14.2235}
+{"ts": 1791177596.9990842, "component": "payment-1", "event": "db_circuit_open", "t_rel": 14.3362}
+{"ts": 1791177597.139425, "component": "student-2", "event": "db_circuit_open", "t_rel": 14.4766}
+{"ts": 1791177597.1659124, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 14.5031}
+{"ts": 1791177597.2011256, "component": "timetable-2", "event": "db_circuit_open", "t_rel": 14.5383}
+{"ts": 1791177597.382405, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 14.7196}
+{"ts": 1791177597.4754014, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 14.8125}
+{"ts": 1791177597.571327, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 14.9085}
+{"ts": 1791177597.5844777, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 14.9216}
+{"ts": 1791177597.6672366, "component": "records-1", "event": "db_circuit_open", "t_rel": 15.0044}
+{"ts": 1791177597.707232, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 15.0444}
+{"ts": 1791177597.8156798, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.1528}
+{"ts": 1791177597.8293643, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.1665}
+{"ts": 1791177597.973342, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.3105}
+{"ts": 1791177598.152202, "component": "student-1", "event": "db_circuit_open", "t_rel": 15.4893}
+{"ts": 1791177598.162441, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.4996}
+{"ts": 1791177598.2394278, "component": "payment-2", "event": "db_circuit_half_open", "t_rel": 15.5766}
+{"ts": 1791177598.2394695, "component": "timetable-1", "event": "db_circuit_half_open", "t_rel": 15.5766}
+{"ts": 1791177598.2565258, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.5937}
+{"ts": 1791177598.3537943, "component": "records-2", "event": "db_circuit_open", "t_rel": 15.6909}
+{"ts": 1791177598.3797102, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 15.7169}
+{"ts": 1791177598.55645, "component": "timetable-1", "event": "db_circuit_open", "t_rel": 15.8936}
+{"ts": 1791177598.556475, "component": "payment-2", "event": "db_circuit_open", "t_rel": 15.8936}
+{"ts": 1791177598.567693, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.9048}
+{"ts": 1791177598.758484, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.0956}
+{"ts": 1791177598.8453107, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1825}
+{"ts": 1791177599.0837455, "component": "payment-1", "event": "db_circuit_half_open", "t_rel": 16.4209}
+{"ts": 1791177599.1959708, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 16.5331}
+{"ts": 1791177599.3138998, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.651}
+{"ts": 1791177599.3161945, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.6533}
+{"ts": 1791177599.3167274, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.6539}
+{"ts": 1791177599.3175056, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 16.6547}
+{"ts": 1791177599.3318892, "component": "timetable-2", "event": "db_circuit_half_open", "t_rel": 16.669}
+{"ts": 1791177599.3785722, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.7157}
+{"ts": 1791177599.3992472, "component": "payment-1", "event": "db_circuit_open", "t_rel": 16.7364}
+{"ts": 1791177599.6487963, "component": "timetable-2", "event": "db_circuit_open", "t_rel": 16.9859}
+{"ts": 1791177599.6786435, "component": "records-1", "event": "db_circuit_half_open", "t_rel": 17.0158}
+{"ts": 1791177599.718107, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.0553}
+{"ts": 1791177599.8152049, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 17.1524}
+{"ts": 1791177599.828661, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.1658}
+{"ts": 1791177600.018959, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.3561}
+{"ts": 1791177600.0705602, "component": "student-2", "event": "db_circuit_open", "t_rel": 17.4077}
+{"ts": 1791177600.1752267, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 17.5124}
+{"ts": 1791177600.2203932, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 17.5575}
+{"ts": 1791177600.2371814, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.5743}
+{"ts": 1791177600.36387, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.701}
+{"ts": 1791177600.4459515, "component": "records-1", "event": "db_circuit_open", "t_rel": 17.7831}
+{"ts": 1791177600.4496028, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.7867}
+{"ts": 1791177600.4572315, "component": "records-2", "event": "db_circuit_half_open", "t_rel": 17.7944}
+{"ts": 1791177600.492592, "component": "student-1", "event": "db_circuit_open", "t_rel": 17.8297}
+{"ts": 1791177600.6832848, "component": "payment-2", "event": "db_circuit_half_open", "t_rel": 18.0204}
+{"ts": 1791177600.6865764, "component": "timetable-1", "event": "db_circuit_half_open", "t_rel": 18.0237}
+{"ts": 1791177600.7626321, "component": "records-2", "event": "db_circuit_closed", "t_rel": 18.0998}
+{"ts": 1791177600.7633922, "component": "records-2", "event": "db_primary_available", "t_rel": 18.1005}
+{"ts": 1791177600.8446932, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.1818}
+{"ts": 1791177600.9418006, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 18.2789}
+{"ts": 1791177601.0393443, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 18.3765}
+{"ts": 1791177601.3303018, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.6674}
+{"ts": 1791177601.47456, "component": "payment-1", "event": "db_circuit_half_open", "t_rel": 18.8117}
+{"ts": 1791177601.475756, "component": "payment-1", "event": "db_circuit_closed", "t_rel": 18.8129}
+{"ts": 1791177601.4761379, "component": "payment-1", "event": "db_primary_available", "t_rel": 18.8133}
+{"ts": 1791177601.696174, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 19.0333}
+{"ts": 1791177601.7878015, "component": "timetable-2", "event": "db_circuit_half_open", "t_rel": 19.1249}
+{"ts": 1791177601.7887938, "component": "timetable-2", "event": "db_circuit_closed", "t_rel": 19.1259}
+{"ts": 1791177601.789002, "component": "timetable-2", "event": "db_primary_available", "t_rel": 19.1261}
+{"ts": 1791177601.884191, "component": "payment-2", "event": "journal_replayed", "count": 28, "t_rel": 19.2213}
+{"ts": 1791177602.0767684, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 19.4139}
+{"ts": 1791177602.077693, "component": "student-2", "event": "db_circuit_closed", "t_rel": 19.4148}
+{"ts": 1791177602.0778737, "component": "student-2", "event": "db_primary_available", "t_rel": 19.415}
+{"ts": 1791177602.0833323, "component": "payment-1", "event": "journal_replayed", "count": 3, "t_rel": 19.4205}
+{"ts": 1791177602.1045105, "component": "records-2", "event": "journal_replayed", "count": 12, "t_rel": 19.4417}
+{"ts": 1791177602.1255822, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 19.4627}
+{"ts": 1791177602.463293, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 19.8004}
+{"ts": 1791177602.6423547, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 19.9795}
+{"ts": 1791177602.6424687, "component": "records-1", "event": "db_circuit_half_open", "t_rel": 19.9796}
+{"ts": 1791177602.64387, "component": "records-1", "event": "db_circuit_closed", "t_rel": 19.981}
+{"ts": 1791177602.6441991, "component": "records-1", "event": "db_primary_available", "t_rel": 19.9813}
+{"ts": 1791177602.6441886, "component": "student-1", "event": "db_primary_available", "t_rel": 19.9813}
+{"ts": 1791177602.6592019, "component": "student-2", "event": "journal_replayed", "count": 23, "t_rel": 19.9963}
+{"ts": 1791177602.7203543, "component": "records-2", "event": "journal_replayed", "count": 1, "t_rel": 20.0575}
+{"ts": 1791177606.1080868, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-102006-101.db", "t_rel": 23.4452}
+{"ts": 1791177606.3438132, "component": "student-1", "event": "db_replica_resynced", "primary": [292, "6284ffb4f9e5"], "replica": [293, "d834cc0fd1b3"], "t_rel": 23.681}
+{"ts": 1791177616.1212435, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-102016-113.db", "t_rel": 33.4584}
+{"ts": 1791177618.70125, "component": "student-1", "event": "db_replica_resynced", "primary": [416, "19fc6e85ce29"], "replica": [419, "8b9dfe06ae60"], "t_rel": 36.0384}

@@ -1,0 +1,196 @@
+{
+ "baseline": {
+  "mode": "baseline",
+  "duration_s": 300.0,
+  "mttf_injected_s": 60.0,
+  "seed": 42,
+  "component": {
+   "component_failures": 28,
+   "component_operating_time_s": 1336.1,
+   "observed_failure_rate_per_component_s": 0.0209564833901092,
+   "MTTF_component_s": 47.71792964424406,
+   "MTTR_component_s": 6.344302601284451,
+   "n_components": 5,
+   "MTBF_component_s": 54.062232245528506,
+   "availability_component": 0.882648156804343
+  },
+  "system": {
+   "probe_cycles": 1201,
+   "failed_cycles": 435,
+   "incidents": 16,
+   "downtime_s": 110.5,
+   "availability_observed": 0.6316666666666666,
+   "availability_per_service": {
+    "student": 0.83181,
+    "records": 0.79351,
+    "timetable": 0.76353,
+    "payment": 0.78435
+   },
+   "MTTR_system_s": 6.90625,
+   "MTTF_system_s": 11.84375,
+   "incident_durations_s": [
+    3.5,
+    8.0,
+    3.5,
+    6.0,
+    18.0,
+    6.0,
+    4.0,
+    7.25,
+    16.5,
+    3.75,
+    4.0,
+    3.75,
+    10.5,
+    7.0,
+    5.75,
+    3.0
+   ],
+   "MTBF_system_s": 18.75
+  },
+  "requests": {
+   "requests": 3001,
+   "failed": 578,
+   "succeeded_first_try": 2423,
+   "recovered_by_retry_or_failover": 0,
+   "served_degraded": 0,
+   "queued_accepted": 0,
+   "failure_ratio": 0.19260246584471843
+  },
+  "theory_inputs": {
+   "mttf_s": 60.0,
+   "mttr_s": 6.344302601284451
+  },
+  "theory": {
+   "baseline": {
+    "availability": 0.604975915970535,
+    "unavailability": 0.395024084029465,
+    "u_structural": 0.395024084029465,
+    "u_failover": 0.0,
+    "failure_frequency": 0.07536442172056532,
+    "MTTF": 8.027341047127683,
+    "MTTR": 5.241519473129208,
+    "MTBF": 13.26886052025689,
+    "min_cut_sets": 5,
+    "single_points_of_failure": [
+     "proc:gateway:1",
+     "proc:payment:1",
+     "proc:records:1",
+     "proc:student:1",
+     "proc:timetable:1"
+    ],
+    "cut_set_orders": {
+     "1": 5
+    }
+   },
+   "ft": {
+    "availability": 0.9384393846618112,
+    "unavailability": 0.06156061533818875,
+    "u_structural": 0.044893948671522084,
+    "u_failover": 0.016666666666666663,
+    "failure_frequency": 0.014413737970525413,
+    "MTTF": 66.26359194829058,
+    "MTTR": 3.114663854950431,
+    "MTBF": 69.37825580324102,
+    "min_cut_sets": 5,
+    "single_points_of_failure": [],
+    "cut_set_orders": {
+     "2": 5
+    }
+   },
+   "mttf_s": 60.0,
+   "mttr_baseline_s": 6.344302601284451,
+   "mttr_ft_s": 6.344302601284451
+  }
+ },
+ "ft": {
+  "mode": "ft",
+  "duration_s": 300.0,
+  "mttf_injected_s": 60.0,
+  "seed": 42,
+  "component": {
+   "component_failures": 56,
+   "component_operating_time_s": 2953.8,
+   "observed_failure_rate_per_component_s": 0.01895867191692779,
+   "MTTF_component_s": 52.74631073219435,
+   "MTTR_component_s": 1.1883948062147414,
+   "n_components": 10,
+   "MTBF_component_s": 53.93470553840909,
+   "availability_component": 0.9779660462711077
+  },
+  "system": {
+   "probe_cycles": 1201,
+   "failed_cycles": 2,
+   "incidents": 2,
+   "downtime_s": 0.5,
+   "availability_observed": 0.9983333333333333,
+   "availability_per_service": {
+    "student": 1.0,
+    "records": 0.99833,
+    "timetable": 1.0,
+    "payment": 1.0
+   },
+   "MTTR_system_s": 0.25,
+   "MTTF_system_s": 149.75,
+   "incident_durations_s": [
+    0.25,
+    0.25
+   ],
+   "MTBF_system_s": 150.0
+  },
+  "requests": {
+   "requests": 3001,
+   "failed": 2,
+   "succeeded_first_try": 2966,
+   "recovered_by_retry_or_failover": 30,
+   "served_degraded": 3,
+   "queued_accepted": 0,
+   "failure_ratio": 0.0006664445184938354
+  },
+  "theory_inputs": {
+   "mttf_s": 60.0,
+   "mttr_s": 1.1883948062147414
+  },
+  "theory": {
+   "baseline": {
+    "availability": 0.9065900552412415,
+    "unavailability": 0.09340994475875854,
+    "u_structural": 0.09340994475875854,
+    "u_failover": 0.0,
+    "failure_frequency": 0.08171484177408365,
+    "MTTF": 11.094558045497823,
+    "MTTR": 1.1431209157451254,
+    "MTBF": 12.237678961242949,
+    "min_cut_sets": 5,
+    "single_points_of_failure": [
+     "proc:gateway:1",
+     "proc:payment:1",
+     "proc:records:1",
+     "proc:student:1",
+     "proc:timetable:1"
+    ],
+    "cut_set_orders": {
+     "1": 5
+    }
+   },
+   "ft": {
+    "availability": 0.9814487049239798,
+    "unavailability": 0.018551295076020116,
+    "u_structural": 0.0018846284093534534,
+    "u_failover": 0.016666666666666663,
+    "failure_frequency": 0.003174114760242648,
+    "MTTF": 314.4547210745288,
+    "MTTR": 0.5937492975866384,
+    "MTBF": 315.0484703721154,
+    "min_cut_sets": 5,
+    "single_points_of_failure": [],
+    "cut_set_orders": {
+     "2": 5
+    }
+   },
+   "mttf_s": 60.0,
+   "mttr_baseline_s": 1.1883948062147414,
+   "mttr_ft_s": 1.1883948062147414
+  }
+ }
+}

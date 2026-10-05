@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="05522d4e-6fcc-47d0-b9ce-f463fae49d0e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/data/ft/backups/snapshot-20261005-182351-506.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/backups/snapshot-20261005-182401-519.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/backups/snapshot-20261005-182411-537.db" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/events.jsonl" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/events.jsonl" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/gateway-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/gateway-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/payment-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/payment-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/payment-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/payment-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/records-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/records-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/records-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/records-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/student-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/student-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/student-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/student-2.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/timetable-1.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/timetable-1.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/ft/logs/timetable-2.log" beforeDir="false" afterPath="$PROJECT_DIR$/data/ft/logs/timetable-2.log" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 1
+}</component>
+  <component name="ProjectId" id="3KK5CIhI9fVjTtGfrFPvUaOCipH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="05522d4e-6fcc-47d0-b9ce-f463fae49d0e" name="Changes" comment="" />
+      <created>1791293293857</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1791293293857</updated>
+      <workItem from="1791293296447" duration="10000" />
+    </task>
+    <servers />
+  </component>
+</project>

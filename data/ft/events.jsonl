@@ -1,0 +1,750 @@
+{"ts": 1791204056.5344915, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174056-525.db"}
+{"ts": 1791204066.5490987, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174106-541.db"}
+{"ts": 1791204076.5661361, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174116-557.db"}
+{"ts": 1791204086.5835183, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174126-575.db"}
+{"ts": 1791204096.5978413, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174136-591.db"}
+{"ts": 1791204106.61887, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174146-611.db"}
+{"ts": 1791204116.635739, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174156-627.db"}
+{"ts": 1791204126.6531522, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174206-644.db"}
+{"ts": 1791204136.6641695, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174216-656.db"}
+{"ts": 1791204146.6850908, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174226-677.db"}
+{"ts": 1791204156.7030454, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174236-694.db"}
+{"ts": 1791204166.7156987, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174246-708.db"}
+{"ts": 1791204176.7381067, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174256-730.db"}
+{"ts": 1791204186.7494621, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174306-741.db"}
+{"ts": 1791204196.766439, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174316-758.db"}
+{"ts": 1791204206.7828016, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174326-774.db"}
+{"ts": 1791204216.794184, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174336-787.db"}
+{"ts": 1791204226.8082118, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174346-801.db"}
+{"ts": 1791204236.8285325, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174356-821.db"}
+{"ts": 1791204246.8418548, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174406-834.db"}
+{"ts": 1791204256.8655648, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174416-857.db"}
+{"ts": 1791204266.8801727, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174426-873.db"}
+{"ts": 1791204276.8923619, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174436-885.db"}
+{"ts": 1791204286.9142623, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174446-903.db"}
+{"ts": 1791204296.932572, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174456-925.db"}
+{"ts": 1791204306.9453392, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174506-939.db"}
+{"ts": 1791204316.9646258, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174516-957.db"}
+{"ts": 1791204326.990995, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174526-975.db"}
+{"ts": 1791204337.005643, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174536-996.db"}
+{"ts": 1791204347.017287, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174547-007.db"}
+{"ts": 1791204357.0284684, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174557-021.db"}
+{"ts": 1791204367.0378203, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174607-030.db"}
+{"ts": 1791204377.0511148, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174617-043.db"}
+{"ts": 1791204387.059649, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174627-052.db"}
+{"ts": 1791204397.0738573, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174637-066.db"}
+{"ts": 1791204407.1628828, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174647-079.db"}
+{"ts": 1791204417.1801403, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174657-173.db"}
+{"ts": 1791204427.197059, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174707-186.db"}
+{"ts": 1791204437.2145748, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174717-204.db"}
+{"ts": 1791204447.2266421, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174727-218.db"}
+{"ts": 1791204457.2425947, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174737-232.db"}
+{"ts": 1791204467.2551348, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174747-247.db"}
+{"ts": 1791204477.2690094, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174757-262.db"}
+{"ts": 1791204487.2790775, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174807-269.db"}
+{"ts": 1791204497.2962675, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174817-286.db"}
+{"ts": 1791204507.3109043, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174827-302.db"}
+{"ts": 1791204517.3295512, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174837-319.db"}
+{"ts": 1791204527.353845, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174847-343.db"}
+{"ts": 1791204537.3719976, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174857-365.db"}
+{"ts": 1791204547.3965669, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174907-387.db"}
+{"ts": 1791204557.4189773, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174917-410.db"}
+{"ts": 1791204567.4271219, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174927-419.db"}
+{"ts": 1791204577.4468453, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174937-439.db"}
+{"ts": 1791204587.4702802, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174947-462.db"}
+{"ts": 1791204597.4883995, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-174957-481.db"}
+{"ts": 1791204607.4997015, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175007-492.db"}
+{"ts": 1791204617.5242872, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175017-514.db"}
+{"ts": 1791204627.5368302, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175027-528.db"}
+{"ts": 1791204637.5495095, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175037-539.db"}
+{"ts": 1791204647.5649183, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175047-557.db"}
+{"ts": 1791204657.5760093, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175057-568.db"}
+{"ts": 1791204667.5935438, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175107-583.db"}
+{"ts": 1791204677.6127057, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175117-605.db"}
+{"ts": 1791204687.6269894, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175127-619.db"}
+{"ts": 1791204697.6380994, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175137-627.db"}
+{"ts": 1791204707.6482346, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175147-641.db"}
+{"ts": 1791204717.667239, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175157-660.db"}
+{"ts": 1791204727.6925023, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175207-681.db"}
+{"ts": 1791204737.7073114, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175217-699.db"}
+{"ts": 1791204747.7269075, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175227-719.db"}
+{"ts": 1791204757.7438946, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175237-736.db"}
+{"ts": 1791204767.7579405, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175247-750.db"}
+{"ts": 1791204777.7837796, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175257-771.db"}
+{"ts": 1791204787.7938092, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175307-786.db"}
+{"ts": 1791204797.8196335, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175317-808.db"}
+{"ts": 1791204807.8328345, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175327-824.db"}
+{"ts": 1791204817.850051, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175337-839.db"}
+{"ts": 1791204827.8718674, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175347-862.db"}
+{"ts": 1791204837.8953009, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175357-888.db"}
+{"ts": 1791204847.9187195, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175407-907.db"}
+{"ts": 1791204857.9415238, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175417-931.db"}
+{"ts": 1791204867.9546044, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175427-944.db"}
+{"ts": 1791204877.9834416, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175437-969.db"}
+{"ts": 1791204888.0010426, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175447-993.db"}
+{"ts": 1791204898.0168335, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175458-007.db"}
+{"ts": 1791204908.030882, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175508-023.db"}
+{"ts": 1791204918.047351, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175518-040.db"}
+{"ts": 1791204928.0672867, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175528-057.db"}
+{"ts": 1791204938.0764081, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175538-069.db"}
+{"ts": 1791204948.0958536, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175548-085.db"}
+{"ts": 1791204958.107302, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175558-096.db"}
+{"ts": 1791204968.1179397, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175608-107.db"}
+{"ts": 1791204978.134682, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175618-124.db"}
+{"ts": 1791204988.155232, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175628-145.db"}
+{"ts": 1791204998.163425, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175638-156.db"}
+{"ts": 1791205008.1732917, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175648-164.db"}
+{"ts": 1791205018.1808276, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175658-173.db"}
+{"ts": 1791205028.2033954, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175708-195.db"}
+{"ts": 1791205038.2158036, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175718-208.db"}
+{"ts": 1791205048.2307498, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175728-223.db"}
+{"ts": 1791205058.2438283, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175738-236.db"}
+{"ts": 1791205068.2546299, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175748-247.db"}
+{"ts": 1791205078.2733212, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175758-265.db"}
+{"ts": 1791205088.2910311, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175808-283.db"}
+{"ts": 1791205098.3006585, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175818-293.db"}
+{"ts": 1791205108.3143208, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175828-307.db"}
+{"ts": 1791205118.3335638, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175838-324.db"}
+{"ts": 1791205128.3439405, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175848-336.db"}
+{"ts": 1791205138.3534763, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175858-346.db"}
+{"ts": 1791205148.3789823, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175908-366.db"}
+{"ts": 1791205158.4071324, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175918-394.db"}
+{"ts": 1791205168.4305859, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175928-421.db"}
+{"ts": 1791205178.4508703, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175938-440.db"}
+{"ts": 1791205188.4659338, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175948-457.db"}
+{"ts": 1791205198.4738524, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-175958-466.db"}
+{"ts": 1791205208.4929843, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180008-482.db"}
+{"ts": 1791205218.5128028, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180018-502.db"}
+{"ts": 1791205228.5361938, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180028-526.db"}
+{"ts": 1791205238.5552442, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180038-547.db"}
+{"ts": 1791205248.5748491, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180048-564.db"}
+{"ts": 1791205258.5881968, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180058-580.db"}
+{"ts": 1791205268.6017528, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180108-591.db"}
+{"ts": 1791205278.6131425, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180118-605.db"}
+{"ts": 1791205288.6258495, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180128-618.db"}
+{"ts": 1791205298.6372664, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180138-626.db"}
+{"ts": 1791205308.6492033, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180148-641.db"}
+{"ts": 1791205318.6665032, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180158-658.db"}
+{"ts": 1791205328.678506, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180208-667.db"}
+{"ts": 1791205338.7003493, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180218-693.db"}
+{"ts": 1791205348.7206447, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180228-710.db"}
+{"ts": 1791205358.7369251, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180238-729.db"}
+{"ts": 1791205368.7530415, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180248-745.db"}
+{"ts": 1791205378.7766094, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180258-768.db"}
+{"ts": 1791205388.7907119, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180308-783.db"}
+{"ts": 1791205398.798084, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180318-790.db"}
+{"ts": 1791205408.81513, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180328-807.db"}
+{"ts": 1791205418.8264165, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180338-816.db"}
+{"ts": 1791205428.8459089, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180348-835.db"}
+{"ts": 1791205438.862972, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180358-852.db"}
+{"ts": 1791205448.8757138, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180408-865.db"}
+{"ts": 1791205458.8941903, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180418-885.db"}
+{"ts": 1791205468.9184191, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180428-907.db"}
+{"ts": 1791205478.933802, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180438-922.db"}
+{"ts": 1791205488.9578352, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180448-947.db"}
+{"ts": 1791205498.9797282, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180458-972.db"}
+{"ts": 1791205508.9915547, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180508-981.db"}
+{"ts": 1791205519.003017, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180518-992.db"}
+{"ts": 1791205529.011874, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180529-004.db"}
+{"ts": 1791205539.0328898, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180539-023.db"}
+{"ts": 1791205549.054111, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180549-044.db"}
+{"ts": 1791205559.0645006, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180559-055.db"}
+{"ts": 1791205569.0860198, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180609-079.db"}
+{"ts": 1791205579.1077957, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180619-096.db"}
+{"ts": 1791205589.1307178, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180629-120.db"}
+{"ts": 1791205599.1514473, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180639-143.db"}
+{"ts": 1791205609.1685672, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180649-157.db"}
+{"ts": 1791205619.1769712, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180659-169.db"}
+{"ts": 1791205629.1904948, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180709-183.db"}
+{"ts": 1791205639.2056544, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180719-195.db"}
+{"ts": 1791205649.2267704, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180729-216.db"}
+{"ts": 1791205659.2437727, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180739-236.db"}
+{"ts": 1791205669.2622705, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180749-253.db"}
+{"ts": 1791205679.2745595, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180759-267.db"}
+{"ts": 1791205689.2958703, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180809-285.db"}
+{"ts": 1791205699.3187716, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180819-311.db"}
+{"ts": 1791205709.340335, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180829-330.db"}
+{"ts": 1791205719.3526912, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180839-343.db"}
+{"ts": 1791205729.3674543, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180849-359.db"}
+{"ts": 1791205739.3870234, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180859-378.db"}
+{"ts": 1791205749.4029548, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180909-393.db"}
+{"ts": 1791205759.4267669, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180919-419.db"}
+{"ts": 1791205769.4428887, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180929-432.db"}
+{"ts": 1791205779.4640572, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180939-453.db"}
+{"ts": 1791205789.4781685, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180949-468.db"}
+{"ts": 1791205799.4885597, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-180959-480.db"}
+{"ts": 1791205809.4978213, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181009-489.db"}
+{"ts": 1791205819.5083659, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181019-500.db"}
+{"ts": 1791205829.5321357, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181029-522.db"}
+{"ts": 1791205839.5514686, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181039-541.db"}
+{"ts": 1791205849.5657096, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181049-558.db"}
+{"ts": 1791205859.5854812, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181059-577.db"}
+{"ts": 1791205869.5960507, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181109-586.db"}
+{"ts": 1791205879.6099517, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181119-599.db"}
+{"ts": 1791205889.6316717, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181129-621.db"}
+{"ts": 1791205899.6429064, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181139-632.db"}
+{"ts": 1791205909.66243, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181149-655.db"}
+{"ts": 1791205919.6749508, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181159-668.db"}
+{"ts": 1791205929.697686, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181209-689.db"}
+{"ts": 1791205939.7073696, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181219-699.db"}
+{"ts": 1791205949.7217808, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181229-714.db"}
+{"ts": 1791205959.743707, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181239-736.db"}
+{"ts": 1791205969.75153, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181249-745.db"}
+{"ts": 1791205979.760233, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181259-753.db"}
+{"ts": 1791205989.779548, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181309-771.db"}
+{"ts": 1791205999.7932174, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181319-786.db"}
+{"ts": 1791206009.8151746, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181329-808.db"}
+{"ts": 1791206019.8349462, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181339-827.db"}
+{"ts": 1791206029.8446982, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181349-836.db"}
+{"ts": 1791206039.8544726, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181359-846.db"}
+{"ts": 1791206049.87365, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181409-866.db"}
+{"ts": 1791206059.8882873, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181419-881.db"}
+{"ts": 1791206069.9084015, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181429-900.db"}
+{"ts": 1791206079.9237049, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181439-916.db"}
+{"ts": 1791206089.9458702, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181449-938.db"}
+{"ts": 1791206099.9559026, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181459-949.db"}
+{"ts": 1791206109.9689028, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181509-962.db"}
+{"ts": 1791206119.9776099, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181519-970.db"}
+{"ts": 1791206129.9883902, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181529-980.db"}
+{"ts": 1791206140.0103023, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181539-999.db"}
+{"ts": 1791206150.0175295, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181550-010.db"}
+{"ts": 1791206160.0355256, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181600-024.db"}
+{"ts": 1791206170.0536451, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181610-043.db"}
+{"ts": 1791206180.0648553, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181620-054.db"}
+{"ts": 1791206190.0843198, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181630-074.db"}
+{"ts": 1791206200.1070852, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181640-097.db"}
+{"ts": 1791206210.1298747, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181650-122.db"}
+{"ts": 1791206220.1419845, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181700-133.db"}
+{"ts": 1791206230.1624923, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181710-151.db"}
+{"ts": 1791206240.1709843, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181720-163.db"}
+{"ts": 1791206250.1957357, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181730-186.db"}
+{"ts": 1791206260.212453, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181740-202.db"}
+{"ts": 1791206270.222671, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181750-215.db"}
+{"ts": 1791206280.2336478, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181800-223.db"}
+{"ts": 1791206290.2519195, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181810-241.db"}
+{"ts": 1791206300.2669232, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181820-258.db"}
+{"ts": 1791206310.2870898, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181830-279.db"}
+{"ts": 1791206320.3080862, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181840-297.db"}
+{"ts": 1791206330.323179, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181850-313.db"}
+{"ts": 1791206340.3463633, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181900-335.db"}
+{"ts": 1791206350.3660364, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181910-358.db"}
+{"ts": 1791206360.383207, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181920-375.db"}
+{"ts": 1791206370.4078774, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181930-389.db"}
+{"ts": 1791206380.4281752, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181940-408.db"}
+{"ts": 1791206390.4522934, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-181950-430.db"}
+{"ts": 1791206400.470582, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182000-459.db"}
+{"ts": 1791206410.4881315, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182010-481.db"}
+{"ts": 1791206420.5244784, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182020-502.db"}
+{"ts": 1791206430.7912033, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182030-535.db"}
+{"ts": 1791206440.809984, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182040-796.db"}
+{"ts": 1791206450.840668, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182050-820.db"}
+{"ts": 1791206460.8664896, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182100-851.db"}
+{"ts": 1791206470.9016807, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182110-880.db"}
+{"ts": 1791206480.9337323, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182120-907.db"}
+{"ts": 1791206490.9561079, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182130-947.db"}
+{"ts": 1791206500.9708793, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182140-962.db"}
+{"ts": 1791206510.9843884, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182150-977.db"}
+{"ts": 1791206520.998781, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182200-991.db"}
+{"ts": 1791206531.0140874, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182211-006.db"}
+{"ts": 1791206541.0378997, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182221-027.db"}
+{"ts": 1791206551.0539358, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182231-046.db"}
+{"ts": 1791206561.069182, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182241-062.db"}
+{"ts": 1791206571.0948787, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182251-085.db"}
+{"ts": 1791206581.112193, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182301-105.db"}
+{"ts": 1791206591.1241362, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182311-117.db"}
+{"ts": 1791206601.4677029, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182321-136.db"}
+{"ts": 1791206611.4890125, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182331-481.db"}
+{"ts": 1791206621.5037608, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182341-493.db"}
+{"ts": 1791206631.5168307, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182351-506.db"}
+{"ts": 1791206641.5268486, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182401-519.db"}
+{"ts": 1791206651.5477877, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182411-537.db"}
+{"ts": 1791206661.564147, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182421-554.db"}
+{"ts": 1791206671.580057, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182431-569.db"}
+{"ts": 1791206681.5960023, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182441-588.db"}
+{"ts": 1791206691.6074603, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182451-597.db"}
+{"ts": 1791206701.6161046, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182501-608.db"}
+{"ts": 1791206711.6310976, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182511-622.db"}
+{"ts": 1791206721.6490667, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182521-638.db"}
+{"ts": 1791206731.6731548, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182531-662.db"}
+{"ts": 1791206741.6893384, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182541-679.db"}
+{"ts": 1791206751.7069077, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182551-697.db"}
+{"ts": 1791206761.731465, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182601-721.db"}
+{"ts": 1791206771.7542598, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182611-746.db"}
+{"ts": 1791206781.779001, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182621-769.db"}
+{"ts": 1791206791.7980862, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182631-788.db"}
+{"ts": 1791206801.81428, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182641-807.db"}
+{"ts": 1791206811.8307145, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182651-823.db"}
+{"ts": 1791206821.8415694, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182701-832.db"}
+{"ts": 1791206831.8550417, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182711-847.db"}
+{"ts": 1791206841.8656063, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182721-857.db"}
+{"ts": 1791206851.880658, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182731-870.db"}
+{"ts": 1791206861.8985631, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182741-890.db"}
+{"ts": 1791206871.9192698, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182751-912.db"}
+{"ts": 1791206881.9414966, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182801-931.db"}
+{"ts": 1791206891.9630332, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182811-953.db"}
+{"ts": 1791206901.9780004, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182821-970.db"}
+{"ts": 1791206957.5767143, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182917-553.db"}
+{"ts": 1791206967.593475, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-182927-584.db"}
+{"ts": 1791207015.7192469, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-183015-691.db"}
+{"ts": 1791259348.6596143, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090228-551.db"}
+{"ts": 1791259358.6807497, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090238-674.db"}
+{"ts": 1791259368.7026572, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090248-691.db"}
+{"ts": 1791259378.716583, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090258-706.db"}
+{"ts": 1791259388.7377915, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090308-728.db"}
+{"ts": 1791259398.7575397, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090318-749.db"}
+{"ts": 1791259408.775058, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090328-762.db"}
+{"ts": 1791259418.8255153, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090338-786.db"}
+{"ts": 1791259428.8770251, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090348-837.db"}
+{"ts": 1791259438.9217358, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090358-881.db"}
+{"ts": 1791259448.9351647, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090408-923.db"}
+{"ts": 1791259458.9888759, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090418-949.db"}
+{"ts": 1791259469.0135844, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090428-990.db"}
+{"ts": 1791259479.0560215, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090439-017.db"}
+{"ts": 1791259489.093188, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090449-059.db"}
+{"ts": 1791259499.112664, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261006-090459-104.db"}
+{"ts": 1791284864.3171828, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791284864.5549595, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791284866.9141607, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791284867.4255433, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791287929.9683502, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791287936.2658877, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791289233.95293, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791289235.4398901, "component": "monitor", "event": "target_down", "target": "gateway-1"}
+{"ts": 1791289235.5046027, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791289235.5058844, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791289235.5068982, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791289235.507755, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791289235.5087128, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791289235.5103393, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791289235.5115926, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791289235.5124009, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791289236.0825038, "component": "monitor", "event": "target_up", "target": "gateway-1"}
+{"ts": 1791289236.083562, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791289236.0843682, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791289236.0919783, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791289236.0929341, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791289236.0938342, "component": "monitor", "event": "target_up", "target": "student-2"}
+{"ts": 1791289236.0972662, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791289236.0990493, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791289236.1014707, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791289236.1027083, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791289360.7649226, "component": "monitor", "event": "target_down", "target": "gateway-1"}
+{"ts": 1791289362.3452454, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791289362.2128077, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289363.53578, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289363.6725016, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289363.8078928, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289364.4301546, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289364.4312794, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289364.43205, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289364.433068, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289364.4407592, "component": "monitor", "event": "target_up", "target": "gateway-1"}
+{"ts": 1791289364.1714957, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289364.7489896, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289364.751346, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289364.75244, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289364.7536435, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289364.754794, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289364.7558384, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289364.7575593, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289364.763655, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791289364.9878702, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791289364.9892042, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289364.9903955, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289364.9917417, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289364.9928741, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289364.9964116, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289364.9994607, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289365.0013027, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289365.3256342, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289365.3282657, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289365.3292675, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289365.330674, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289365.3315628, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791289365.3328211, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289365.3350286, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289365.3365953, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289617.9458227, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289619.989002, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289619.9896846, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289619.9900694, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289619.9903927, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289619.9907022, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289619.991009, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289619.991344, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289618.7177124, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289620.1982443, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289620.1988077, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289620.199308, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289620.1997893, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289620.2003284, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289620.2008157, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289620.266907, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289621.9236407, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289622.0573747, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289622.058905, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289622.1268685, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289622.127794, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289622.1293855, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289622.129956, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791289622.2675297, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289623.5083432, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289623.5097322, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289623.5100684, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791289623.5697217, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289623.5704758, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289623.5708854, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289623.5725384, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289623.6366508, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289626.9677489, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289624.3112445, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791289627.2662084, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791289627.2668257, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791289627.2673984, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791289627.267951, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791289627.26848, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791289627.2690768, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791289627.2695975, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791289627.4982717, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289627.5438561, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289627.988871, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791289627.9894805, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791289627.9940886, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791289627.9947064, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791289627.9951532, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791289627.9956148, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791289627.9961338, "component": "monitor", "event": "target_up", "target": "student-2"}
+{"ts": 1791289628.5447178, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289630.0711455, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289630.071588, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791289630.0718994, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289726.893779, "component": "monitor", "event": "target_down", "target": "gateway-1"}
+{"ts": 1791289742.5618482, "component": "monitor", "event": "target_up", "target": "gateway-1"}
+{"ts": 1791289948.3300383, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289949.8240154, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289949.8245342, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289948.6669664, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289949.8249307, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289950.4248383, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289950.4250138, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289950.4253104, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289950.4256675, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289950.4254208, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289950.42602, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289950.4461274, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289950.4462464, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289950.4465635, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289950.4467335, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289950.4469573, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289950.9827254, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289950.9837008, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289950.9851856, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289950.9857621, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289950.987198, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289950.9889286, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289950.9889925, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289950.990101, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791289950.99072, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289951.103777, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289951.1037385, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289951.1042364, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289951.1045635, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289951.1057773, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289951.1065707, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791289951.1069005, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289950.4448547, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791289951.3569458, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791289951.3662963, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791289951.366951, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791289951.3673344, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791289951.3677208, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791289951.3680415, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791289951.3683546, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791289952.1037161, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791289952.104161, "component": "monitor", "event": "target_up", "target": "student-2"}
+{"ts": 1791289952.104513, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791289952.1055536, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791289952.203256, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791289952.2037067, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791289952.2066267, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791289952.2081223, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791289994.7259545, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289994.8126116, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289994.8132143, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289995.5538406, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289995.5557868, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289995.5576348, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791289993.8279734, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791289995.5617473, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791289995.562791, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791289995.5636556, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791289995.5645604, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791289995.5654655, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791289995.5682085, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791289995.5687785, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791289995.560553, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791289995.709443, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791289995.7103012, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791289995.7110777, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791289995.711651, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791289995.7122402, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791289995.713112, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791289996.4016185, "component": "monitor", "event": "target_up", "target": "student-2"}
+nt-2"}
+{"ts": 1791289996.5258145, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791289996.5258694, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791289996.5266914, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791289996.5307536, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791289996.5309603, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791289996.531642, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791289996.5318384, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791289996.532462, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791289996.5326734, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791289996.5332847, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791289996.5341508, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791289996.5344765, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791289996.5595224, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791289997.4692206, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791290002.0500703, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791290002.0505614, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791290002.0508554, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791290020.3441238, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791290021.4032516, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791290022.829088, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791290022.8323762, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791290023.3732126, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791290023.37503, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791290022.141875, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791290023.504739, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791290023.7723348, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791290023.7731547, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791290023.7738097, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791290024.348452, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791290024.350587, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791290024.4983726, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791290024.5915005, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791290024.592971, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791290025.256073, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791290027.5466208, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791292417.954536, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+
+{"ts": 1791292421.0279381, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791292421.0941777, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791292421.4328039, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791292422.7596452, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791292422.7602904, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791292422.8274071, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791292422.8293476, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791292422.8300643, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791292423.7026813, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791292425.01956, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791292425.0869117, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791292425.1568081, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791292425.1579804, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791292419.8172793, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791292425.3642457, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791292425.3647861, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791292425.4319754, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791292425.8362944, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791292425.837107, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791292425.8377554, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791292425.9029627, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791292425.9688833, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791292427.7557552, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791292428.3027813, "component": "monitor", "event": "target_down", "target": "gateway-1"}
+{"ts": 1791292428.3039267, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791292428.3054628, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791292428.3062227, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791292428.370687, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791292428.4227724, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791292428.4235406, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791292428.6562848, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791292428.7830448, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791292428.787054, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791292428.7882738, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791292428.855192, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791292429.2570379, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791292430.0864713, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791292430.1488886, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791292430.213099, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791292430.2139888, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791292430.5478091, "component": "monitor", "event": "target_up", "target": "gateway-1"}
+{"ts": 1791292430.9533188, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791292430.9542227, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791292430.9542143, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791292430.954805, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791292430.9585826, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791292433.970666, "component": "monitor", "event": "target_up", "target": "student-2"}
+{"ts": 1791292433.9718738, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791292434.1011636, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791292434.103379, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791292434.3739781, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791292434.5071774, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791292434.5080535, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791292434.508706, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791292435.0649602, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791292435.0661511, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791292435.0672019, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791292435.1263645, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791292437.514834, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791292437.6091847, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791292437.8436182, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791292440.59787, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791292440.5992174, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791292441.1832561, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791292811.3256574, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791292813.7586749, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791292818.1954105, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791292818.1963866, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791292818.1968193, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791292818.1972015, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791292818.197557, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791292818.197937, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791292818.198425, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791292818.6024573, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791292818.60736, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791292818.6082897, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791292818.6090968, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791292818.609965, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791292818.6143203, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791292818.6150448, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791292815.8487132, "component": "monitor", "event": "target_down", "target": "gateway-1"}
+{"ts": 1791292822.8085427, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791292822.8091717, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791292822.8098905, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791292822.8105376, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791292822.8114638, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791292822.943842, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791292822.944697, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791292822.9454439, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791292823.010014, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791292823.6874995, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791292823.6893423, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791292824.5641854, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791292824.5648289, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791292824.5653422, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791292824.565956, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791292824.56653, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791292824.8172526, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791292824.9465933, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791292824.9495144, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791292824.950111, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791292824.950552, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791292825.0161872, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791292825.0172877, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791292825.0188563, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791292825.1491916, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791292825.3534515, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791292825.4764786, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791292825.4772623, "component": "monitor", "event": "target_up", "target": "student-2"}
+{"ts": 1791292825.4777834, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791292825.4788506, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791292825.4792957, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791292825.480681, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791292825.4817076, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791292825.6114807, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791292825.819086, "component": "monitor", "event": "target_up", "target": "gateway-1"}
+{"ts": 1791294376.4094005, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791294376.967257, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791294418.8330925, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791294418.8960693, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791294418.8970153, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791294418.8977416, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791294418.8984475, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791294418.8989577, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791294418.8993688, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791294419.4346566, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791294419.498189, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791294419.5667572, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791294419.0281134, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791294421.2273943, "component": "monitor", "event": "target_down", "target": "student-2"}
+{"ts": 1791294421.2280638, "component": "monitor", "event": "target_down", "target": "payment-1"}
+{"ts": 1791294421.2284238, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791294421.2287738, "component": "monitor", "event": "target_down", "target": "records-1"}
+{"ts": 1791294421.2291176, "component": "monitor", "event": "target_down", "target": "records-2"}
+{"ts": 1791294421.2294295, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791294421.2297564, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791294421.7636466, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791294421.7679298, "component": "monitor", "event": "target_up", "target": "student-2"}
+{"ts": 1791294421.7700312, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791294421.7704396, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791294421.7707813, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791294421.7711666, "component": "monitor", "event": "target_up", "target": "payment-1"}
+{"ts": 1791294421.9623723, "component": "monitor", "event": "target_up", "target": "records-1"}
+{"ts": 1791294422.0281098, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791294422.0950804, "component": "monitor", "event": "target_up", "target": "records-2"}
+{"ts": 1791294422.096177, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791294419.9552236, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791294422.5569656, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791294422.557443, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791294422.626938, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791294422.6277022, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791294422.6281369, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791294422.6285439, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791294422.6289337, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791294422.629271, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791294422.629614, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791294422.7812316, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791294423.7419481, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791294424.5127506, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791294424.513931, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791294424.514587, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791294424.5151563, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791294424.5156837, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791294424.516225, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791294424.5167732, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791294424.517333, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791294555.9789402, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791294556.0101728, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791294556.16868, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791294558.9016027, "component": "monitor", "event": "target_up", "target": "student-1"}
+nt-1"}
+{"ts": 1791294558.9018977, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791301742.0727537, "component": "monitor", "event": "target_down", "target": "gateway-2"}
+{"ts": 1791301746.5354815, "component": "monitor", "event": "target_down", "target": "timetable-2"}
+{"ts": 1791301747.551003, "component": "monitor", "event": "target_down", "target": "gateway-1"}
+{"ts": 1791301749.188182, "component": "monitor", "event": "target_down", "target": "student-1"}
+{"ts": 1791301749.1900387, "component": "monitor", "event": "target_down", "target": "payment-2"}
+{"ts": 1791301749.2021403, "component": "monitor", "event": "target_down", "target": "timetable-1"}
+{"ts": 1791301749.9566379, "component": "monitor", "event": "target_up", "target": "student-1"}
+{"ts": 1791301748.7216895, "component": "gateway-1", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791301750.4935503, "component": "monitor", "event": "target_up", "target": "gateway-1"}
+{"ts": 1791301751.436874, "component": "gateway-1", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791301751.8010788, "component": "gateway-1", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791301751.8320885, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791301751.834202, "component": "gateway-1", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791301751.836448, "component": "gateway-1", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791301751.8379927, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791301751.8390067, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791301752.5044086, "component": "monitor", "event": "target_up", "target": "payment-2"}
+{"ts": 1791301752.5087647, "component": "monitor", "event": "target_up", "target": "timetable-1"}
+{"ts": 1791301750.6166527, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791301752.6780808, "component": "gateway-1", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791301752.7336438, "component": "gateway-1", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791301752.7380757, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791301752.7410147, "component": "gateway-1", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791301752.7429187, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791301752.748352, "component": "gateway-1", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791301752.756118, "component": "gateway-1", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791301753.3862877, "component": "monitor", "event": "target_up", "target": "gateway-2"}
+{"ts": 1791301755.4632356, "component": "monitor", "event": "target_up", "target": "timetable-2"}
+{"ts": 1791301755.787344, "component": "gateway-1", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791301755.9424462, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791341255.519294, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "health_check"}
+{"ts": 1791341255.9227464, "component": "gateway-2", "event": "replica_ejected", "target": "student-2", "reason": "health_check"}
+{"ts": 1791341255.924378, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "health_check"}
+{"ts": 1791341255.9252937, "component": "gateway-2", "event": "replica_ejected", "target": "payment-2", "reason": "health_check"}
+{"ts": 1791341255.9266958, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "health_check"}
+{"ts": 1791341255.9277651, "component": "gateway-2", "event": "replica_ejected", "target": "records-2", "reason": "health_check"}
+{"ts": 1791341255.928851, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "health_check"}
+{"ts": 1791341255.9298368, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791341256.4643638, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1"}
+{"ts": 1791341256.465198, "component": "gateway-2", "event": "replica_healthy", "target": "student-1"}
+{"ts": 1791341256.4701302, "component": "gateway-2", "event": "replica_healthy", "target": "student-2"}
+{"ts": 1791341256.4708781, "component": "gateway-2", "event": "replica_healthy", "target": "payment-2"}
+{"ts": 1791341256.4715993, "component": "gateway-2", "event": "replica_healthy", "target": "records-1"}
+{"ts": 1791341256.4734035, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-2"}
+{"ts": 1791341256.4741359, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1"}
+{"ts": 1791341256.4748511, "component": "gateway-2", "event": "replica_healthy", "target": "records-2"}
+{"ts": 1791341319.0304635, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}
+{"ts": 1791341319.0620136, "component": "gateway-1", "event": "replica_ejected", "target": "timetable-2", "reason": "health_check"}

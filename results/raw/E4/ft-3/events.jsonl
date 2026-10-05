@@ -1,0 +1,62 @@
+{"ts": 1791178288.4075532, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103128-400.db", "t_rel": 3.4902}
+{"ts": 1791178292.9193, "component": "injector", "event": "node_failed", "node": "A", "repair_after": 15, "t_rel": 8.002}
+{"ts": 1791178293.2844214, "component": "gateway-2", "event": "replica_ejected", "target": "records-1", "reason": "connect_error", "t_rel": 8.3671}
+{"ts": 1791178293.3876817, "component": "gateway-2", "event": "replica_ejected", "target": "student-1", "reason": "connect_error", "t_rel": 8.4704}
+{"ts": 1791178293.5012124, "component": "gateway-2", "event": "replica_ejected", "target": "timetable-1", "reason": "connect_error", "t_rel": 8.5839}
+{"ts": 1791178293.5752141, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 8.6579}
+{"ts": 1791178293.7918892, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 8.8746}
+{"ts": 1791178294.1011364, "component": "timetable-2", "event": "circuit_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 9.1838}
+{"ts": 1791178294.133595, "component": "monitor", "event": "target_down", "target": "gateway-1", "t_rel": 9.2163}
+{"ts": 1791178294.1346662, "component": "monitor", "event": "target_down", "target": "student-1", "t_rel": 9.2174}
+{"ts": 1791178294.1356533, "component": "monitor", "event": "target_down", "target": "payment-1", "t_rel": 9.2183}
+{"ts": 1791178294.1366327, "component": "monitor", "event": "target_down", "target": "records-1", "t_rel": 9.2193}
+{"ts": 1791178294.1375089, "component": "monitor", "event": "target_down", "target": "timetable-1", "t_rel": 9.2202}
+{"ts": 1791178295.8345191, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 10.9172}
+{"ts": 1791178296.1499934, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 11.2327}
+{"ts": 1791178296.2805994, "component": "timetable-2", "event": "circuit_half_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 11.3633}
+{"ts": 1791178296.5841036, "component": "timetable-2", "event": "circuit_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 11.6668}
+{"ts": 1791178298.4233413, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103138-414.db", "t_rel": 13.506}
+{"ts": 1791178298.440899, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 13.5236}
+{"ts": 1791178298.7567549, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 13.8394}
+{"ts": 1791178298.982134, "component": "timetable-2", "event": "circuit_half_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 14.0648}
+{"ts": 1791178299.2963588, "component": "timetable-2", "event": "circuit_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 14.379}
+{"ts": 1791178300.8774223, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 15.9601}
+{"ts": 1791178301.182515, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 16.2652}
+{"ts": 1791178301.4743302, "component": "timetable-2", "event": "circuit_half_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 16.557}
+{"ts": 1791178301.788464, "component": "timetable-2", "event": "circuit_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 16.8712}
+{"ts": 1791178303.2403197, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 18.323}
+{"ts": 1791178303.5444405, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 18.6271}
+{"ts": 1791178303.9505885, "component": "timetable-2", "event": "circuit_half_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 19.0333}
+{"ts": 1791178304.2610788, "component": "timetable-2", "event": "circuit_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 19.3438}
+{"ts": 1791178305.7136252, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 20.7963}
+{"ts": 1791178306.0229492, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 21.1056}
+{"ts": 1791178306.3391178, "component": "timetable-2", "event": "circuit_half_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 21.4218}
+{"ts": 1791178306.6424155, "component": "timetable-2", "event": "circuit_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 21.7251}
+{"ts": 1791178308.0038314, "component": "cluster", "event": "node_repaired", "node": "A", "t_rel": 23.0865}
+{"ts": 1791178308.0259907, "component": "cluster", "event": "instance_restarted", "target": "gateway-1", "reason": "orchestrator", "t_rel": 23.1087}
+{"ts": 1791178308.0495248, "component": "cluster", "event": "instance_restarted", "target": "student-1", "reason": "orchestrator", "t_rel": 23.1322}
+{"ts": 1791178308.0722756, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 23.155}
+{"ts": 1791178308.0967796, "component": "cluster", "event": "instance_restarted", "target": "records-1", "reason": "orchestrator", "t_rel": 23.1795}
+{"ts": 1791178308.120248, "component": "cluster", "event": "instance_restarted", "target": "timetable-1", "reason": "orchestrator", "t_rel": 23.2029}
+{"ts": 1791178308.2003963, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 23.2831}
+{"ts": 1791178308.4475856, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103148-439.db", "t_rel": 23.5303}
+{"ts": 1791178308.5158293, "component": "records-2", "event": "circuit_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 23.5985}
+{"ts": 1791178308.644778, "component": "timetable-2", "event": "circuit_half_open", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 23.7275}
+{"ts": 1791178308.6655104, "component": "timetable-2", "event": "circuit_closed", "target": "timetable-2->http://127.0.0.1:8110", "t_rel": 23.7482}
+{"ts": 1791178308.706736, "component": "gateway-2", "event": "replica_healthy", "target": "student-1", "t_rel": 23.7894}
+{"ts": 1791178308.7205327, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 23.8032}
+{"ts": 1791178308.8875167, "component": "monitor", "event": "target_up", "target": "payment-1", "t_rel": 23.9702}
+{"ts": 1791178308.8887627, "component": "monitor", "event": "target_up", "target": "student-1", "t_rel": 23.9715}
+{"ts": 1791178309.2031531, "component": "cluster", "event": "instance_ready", "target": "gateway-1", "startup_s": 1.177, "t_rel": 24.2858}
+{"ts": 1791178309.2936087, "component": "cluster", "event": "instance_ready", "target": "student-1", "startup_s": 1.244, "t_rel": 24.3763}
+{"ts": 1791178309.3057957, "component": "cluster", "event": "instance_ready", "target": "records-1", "startup_s": 1.209, "t_rel": 24.3885}
+{"ts": 1791178309.3153455, "component": "cluster", "event": "instance_ready", "target": "timetable-1", "startup_s": 1.195, "t_rel": 24.398}
+{"ts": 1791178309.5155413, "component": "gateway-2", "event": "replica_healthy", "target": "timetable-1", "t_rel": 24.5982}
+{"ts": 1791178309.5165355, "component": "gateway-2", "event": "replica_healthy", "target": "records-1", "t_rel": 24.5992}
+{"ts": 1791178309.7369103, "component": "monitor", "event": "target_up", "target": "gateway-1", "t_rel": 24.8196}
+{"ts": 1791178309.738655, "component": "monitor", "event": "target_up", "target": "records-1", "t_rel": 24.8213}
+{"ts": 1791178309.7482352, "component": "monitor", "event": "target_up", "target": "timetable-1", "t_rel": 24.8309}
+{"ts": 1791178310.5865834, "component": "records-2", "event": "circuit_half_open", "target": "records-2->http://127.0.0.1:8110", "t_rel": 25.6693}
+{"ts": 1791178310.6113207, "component": "records-2", "event": "circuit_closed", "target": "records-2->http://127.0.0.1:8110", "t_rel": 25.694}
+{"ts": 1791178314.8882074, "component": "payment-1", "event": "db_replica_resynced", "primary": [386, "337c6e1965ac"], "replica": [387, "f1b95c1d53f0"], "t_rel": 29.9709}
+{"ts": 1791178318.4579742, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103158-450.db", "t_rel": 33.5407}

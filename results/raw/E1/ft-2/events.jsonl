@@ -1,0 +1,12 @@
+{"ts": 1791177296.9388788, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-101456-926.db", "t_rel": 4.0556}
+{"ts": 1791177300.8836794, "component": "injector", "event": "instance_killed", "target": "payment-1", "t_rel": 8.0004}
+{"ts": 1791177300.960927, "component": "supervisor", "event": "crash_detected", "target": "payment-1", "t_rel": 8.0777}
+{"ts": 1791177300.9844277, "component": "cluster", "event": "instance_restarted", "target": "payment-1", "reason": "orchestrator", "t_rel": 8.1012}
+{"ts": 1791177301.4761124, "component": "gateway-1", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 8.5929}
+{"ts": 1791177301.6499915, "component": "gateway-2", "event": "replica_ejected", "target": "payment-1", "reason": "connect_error", "t_rel": 8.7667}
+{"ts": 1791177302.0908768, "component": "gateway-2", "event": "replica_healthy", "target": "payment-1", "t_rel": 9.2076}
+{"ts": 1791177302.1137986, "component": "gateway-1", "event": "replica_healthy", "target": "payment-1", "t_rel": 9.2306}
+{"ts": 1791177302.1509757, "component": "cluster", "event": "instance_ready", "target": "payment-1", "startup_s": 1.167, "t_rel": 9.2677}
+{"ts": 1791177306.9690397, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-101506-947.db", "t_rel": 14.0858}
+{"ts": 1791177316.9942877, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-101516-972.db", "t_rel": 24.111}
+{"ts": 1791177321.4936838, "component": "payment-2", "event": "db_replica_resynced", "primary": [337, "bfff15eb7040"], "replica": [340, "6e64852e95f3"], "t_rel": 28.6104}

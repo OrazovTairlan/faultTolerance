@@ -1,0 +1,1515 @@
+{"ts": 1791178742.6782196, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103902-671.db", "t_rel": 3.4411}
+{"ts": 1791178747.0809684, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 7.8439}
+{"ts": 1791178747.0810077, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 7.8439}
+{"ts": 1791178747.0866652, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 7.8496}
+{"ts": 1791178747.111326, "component": "student-2", "event": "db_primary_available", "t_rel": 7.8742}
+{"ts": 1791178747.1739848, "component": "payment-1", "event": "db_primary_available", "t_rel": 7.9369}
+{"ts": 1791178747.1739452, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 7.9369}
+{"ts": 1791178747.1741042, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 7.937}
+{"ts": 1791178747.1744576, "component": "payment-2", "event": "db_primary_available", "t_rel": 7.9374}
+{"ts": 1791178747.1819232, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 7.9448}
+{"ts": 1791178747.182218, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 7.9451}
+{"ts": 1791178747.1824899, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 7.9454}
+{"ts": 1791178747.21967, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 7.9826}
+{"ts": 1791178747.2233677, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 7.9863}
+{"ts": 1791178747.2666342, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.0295}
+{"ts": 1791178747.2704756, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.0334}
+{"ts": 1791178747.2826622, "component": "student-2", "event": "db_primary_available", "t_rel": 8.0456}
+{"ts": 1791178747.2935936, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.0565}
+{"ts": 1791178747.3134456, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.0764}
+{"ts": 1791178747.3140974, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.077}
+{"ts": 1791178747.3173332, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.0802}
+{"ts": 1791178747.319838, "component": "records-1", "event": "db_primary_available", "t_rel": 8.0827}
+{"ts": 1791178747.323123, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 8.086}
+{"ts": 1791178747.3746712, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.1376}
+{"ts": 1791178747.374864, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.1378}
+{"ts": 1791178747.3753467, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.1383}
+{"ts": 1791178747.377789, "component": "payment-2", "event": "db_primary_available", "t_rel": 8.1407}
+{"ts": 1791178747.3793144, "component": "student-2", "event": "db_primary_available", "t_rel": 8.1422}
+{"ts": 1791178747.3800402, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.1429}
+{"ts": 1791178747.382037, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.1449}
+{"ts": 1791178747.38226, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.1452}
+{"ts": 1791178747.3824248, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 8.1453}
+{"ts": 1791178747.5308716, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.2938}
+{"ts": 1791178747.5340912, "component": "student-2", "event": "db_circuit_open", "t_rel": 8.297}
+{"ts": 1791178747.5343447, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.2973}
+{"ts": 1791178747.5353405, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.2982}
+{"ts": 1791178747.5358493, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.2988}
+{"ts": 1791178747.540259, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.3032}
+{"ts": 1791178747.5409887, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 8.3039}
+{"ts": 1791178747.5408986, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.3038}
+{"ts": 1791178747.541629, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.3045}
+{"ts": 1791178747.5494518, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.3124}
+{"ts": 1791178747.5534842, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.3164}
+{"ts": 1791178747.6169305, "component": "student-1", "event": "journal_replayed", "count": 1, "t_rel": 8.3798}
+{"ts": 1791178747.6231625, "component": "records-1", "event": "db_primary_available", "t_rel": 8.3861}
+{"ts": 1791178747.6488574, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.4118}
+{"ts": 1791178747.6523278, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.4152}
+{"ts": 1791178747.656106, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 8.419}
+{"ts": 1791178747.667615, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.4305}
+{"ts": 1791178747.6680877, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.431}
+{"ts": 1791178747.6720202, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 8.4349}
+{"ts": 1791178747.672665, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.4356}
+{"ts": 1791178747.6734416, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.4363}
+{"ts": 1791178747.6986294, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.4615}
+{"ts": 1791178747.699051, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.462}
+{"ts": 1791178747.700099, "component": "payment-2", "event": "db_primary_available", "t_rel": 8.463}
+{"ts": 1791178747.703566, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 8.4665}
+{"ts": 1791178747.703927, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 8.4668}
+{"ts": 1791178747.7158842, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.4788}
+{"ts": 1791178747.724689, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.4876}
+{"ts": 1791178747.7251468, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 8.4881}
+{"ts": 1791178747.730229, "component": "payment-2", "event": "db_primary_available", "t_rel": 8.4931}
+{"ts": 1791178747.7813005, "component": "records-2", "event": "db_primary_available", "t_rel": 8.5442}
+{"ts": 1791178747.7913487, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.5543}
+{"ts": 1791178747.7963026, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.5592}
+{"ts": 1791178747.7969089, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 8.5598}
+{"ts": 1791178747.838787, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.6017}
+{"ts": 1791178747.9154704, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.6784}
+{"ts": 1791178747.9156456, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.6786}
+{"ts": 1791178747.9161153, "component": "student-1", "event": "db_primary_available", "t_rel": 8.679}
+{"ts": 1791178747.922071, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.685}
+{"ts": 1791178747.922876, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.6858}
+{"ts": 1791178747.9238405, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 8.6867}
+{"ts": 1791178747.9466696, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.7096}
+{"ts": 1791178747.9497883, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.7127}
+{"ts": 1791178747.9521818, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.7151}
+{"ts": 1791178747.9635599, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 8.7265}
+{"ts": 1791178747.9944851, "component": "records-2", "event": "db_primary_available", "t_rel": 8.7574}
+{"ts": 1791178747.9949164, "component": "records-1", "event": "db_primary_available", "t_rel": 8.7578}
+{"ts": 1791178747.9959812, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.7589}
+{"ts": 1791178748.0520577, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.815}
+{"ts": 1791178748.057919, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.8208}
+{"ts": 1791178748.0580297, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.8209}
+{"ts": 1791178748.0591738, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.8221}
+{"ts": 1791178748.0604026, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.8233}
+{"ts": 1791178748.1767375, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.9396}
+{"ts": 1791178748.1777647, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 8.9407}
+{"ts": 1791178748.1778274, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.9407}
+{"ts": 1791178748.1833959, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 8.9463}
+{"ts": 1791178748.18445, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 8.9474}
+{"ts": 1791178748.1845164, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.9474}
+{"ts": 1791178748.1853096, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.9482}
+{"ts": 1791178748.1885695, "component": "student-1", "event": "db_primary_available", "t_rel": 8.9515}
+{"ts": 1791178748.2694726, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.0324}
+{"ts": 1791178748.269714, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.0326}
+{"ts": 1791178748.2697399, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.0326}
+{"ts": 1791178748.2907522, "component": "student-1", "event": "db_primary_available", "t_rel": 9.0537}
+{"ts": 1791178748.298239, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.0611}
+{"ts": 1791178748.2983723, "component": "records-2", "event": "db_primary_available", "t_rel": 9.0613}
+{"ts": 1791178748.3580763, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.121}
+{"ts": 1791178748.359136, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.122}
+{"ts": 1791178748.3597803, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.1227}
+{"ts": 1791178748.3599336, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.1228}
+{"ts": 1791178748.3840437, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.1469}
+{"ts": 1791178748.3845644, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.1475}
+{"ts": 1791178748.3933375, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.1562}
+{"ts": 1791178748.393559, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.1565}
+{"ts": 1791178748.3975408, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.1604}
+{"ts": 1791178748.4053874, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.1683}
+{"ts": 1791178748.4923584, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.2553}
+{"ts": 1791178748.5324426, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.2953}
+{"ts": 1791178748.532524, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.2954}
+{"ts": 1791178748.5343058, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.2972}
+{"ts": 1791178748.5346546, "component": "student-1", "event": "db_primary_available", "t_rel": 9.2976}
+{"ts": 1791178748.538753, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.3017}
+{"ts": 1791178748.5389185, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.3018}
+{"ts": 1791178748.5394616, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.3024}
+{"ts": 1791178748.539979, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.3029}
+{"ts": 1791178748.5466206, "component": "records-1", "event": "db_primary_available", "t_rel": 9.3095}
+{"ts": 1791178748.5588386, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.3217}
+{"ts": 1791178748.6028342, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.3657}
+{"ts": 1791178748.623947, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.3869}
+{"ts": 1791178748.6243348, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.3872}
+{"ts": 1791178748.6244068, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.3873}
+{"ts": 1791178748.6245863, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.3875}
+{"ts": 1791178748.624423, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.3873}
+{"ts": 1791178748.6245422, "component": "student-1", "event": "db_circuit_open", "t_rel": 9.3874}
+{"ts": 1791178748.6245642, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.3875}
+{"ts": 1791178748.6255467, "component": "payment-2", "event": "db_circuit_open", "t_rel": 9.3885}
+{"ts": 1791178748.6423688, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.4053}
+{"ts": 1791178748.6425142, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4054}
+{"ts": 1791178748.642726, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.4056}
+{"ts": 1791178748.6428328, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.4057}
+{"ts": 1791178748.6433315, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.4062}
+{"ts": 1791178748.6430645, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.406}
+{"ts": 1791178748.643471, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4064}
+{"ts": 1791178748.6433005, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.4062}
+{"ts": 1791178748.6439776, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.4069}
+{"ts": 1791178748.6444306, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4073}
+{"ts": 1791178748.6447668, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4077}
+{"ts": 1791178748.6448667, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4078}
+{"ts": 1791178748.6451936, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4081}
+{"ts": 1791178748.6590164, "component": "records-1", "event": "db_primary_available", "t_rel": 9.4219}
+{"ts": 1791178748.717825, "component": "payment-1", "event": "db_circuit_open", "t_rel": 9.4807}
+{"ts": 1791178748.72218, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.4851}
+{"ts": 1791178748.7229593, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4859}
+{"ts": 1791178748.7253928, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4883}
+{"ts": 1791178748.7264814, "component": "records-2", "event": "db_primary_available", "t_rel": 9.4894}
+{"ts": 1791178748.7315245, "component": "payment-1", "event": "db_circuit_closed", "t_rel": 9.4944}
+{"ts": 1791178748.731839, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.4947}
+{"ts": 1791178748.7431488, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.5061}
+{"ts": 1791178748.7465534, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.5095}
+{"ts": 1791178748.748084, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.511}
+{"ts": 1791178748.7496476, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.5126}
+{"ts": 1791178748.75319, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.5161}
+{"ts": 1791178748.7577152, "component": "payment-2", "event": "db_circuit_closed", "t_rel": 9.5206}
+{"ts": 1791178748.7580762, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.521}
+{"ts": 1791178748.7953548, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.5583}
+{"ts": 1791178748.796473, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.5594}
+{"ts": 1791178748.7998807, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.5628}
+{"ts": 1791178748.8009882, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.5639}
+{"ts": 1791178748.8236005, "component": "records-1", "event": "db_primary_available", "t_rel": 9.5865}
+{"ts": 1791178748.8263378, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.5892}
+{"ts": 1791178748.8334694, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.5964}
+{"ts": 1791178748.8340278, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.5969}
+{"ts": 1791178748.8344223, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.5973}
+{"ts": 1791178748.8447511, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.6077}
+{"ts": 1791178748.856793, "component": "records-2", "event": "db_primary_available", "t_rel": 9.6197}
+{"ts": 1791178748.856896, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.6198}
+{"ts": 1791178748.9190588, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.682}
+{"ts": 1791178748.9358747, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.6988}
+{"ts": 1791178748.9365659, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.6995}
+{"ts": 1791178748.9369256, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.6998}
+{"ts": 1791178748.9370544, "component": "payment-2", "event": "db_circuit_open", "t_rel": 9.7}
+{"ts": 1791178748.946523, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7094}
+{"ts": 1791178748.9477842, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7107}
+{"ts": 1791178748.9481742, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.7111}
+{"ts": 1791178748.9487047, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.7116}
+{"ts": 1791178748.9488118, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.7117}
+{"ts": 1791178748.9497087, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.7126}
+{"ts": 1791178748.9498012, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7127}
+{"ts": 1791178748.9500036, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.7129}
+{"ts": 1791178748.949954, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7129}
+{"ts": 1791178748.9508772, "component": "payment-2", "event": "db_circuit_closed", "t_rel": 9.7138}
+{"ts": 1791178748.9522, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.7151}
+{"ts": 1791178748.9540727, "component": "records-1", "event": "db_primary_available", "t_rel": 9.717}
+{"ts": 1791178748.9623106, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.7252}
+{"ts": 1791178748.9638119, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.7267}
+{"ts": 1791178748.982049, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.745}
+{"ts": 1791178748.986195, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7491}
+{"ts": 1791178748.9988892, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.7618}
+{"ts": 1791178749.01216, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.7751}
+{"ts": 1791178749.0137765, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.7767}
+{"ts": 1791178749.0139363, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.7768}
+{"ts": 1791178749.0164213, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.7793}
+{"ts": 1791178749.0185604, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.7815}
+{"ts": 1791178749.0204651, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7834}
+{"ts": 1791178749.0205364, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.7834}
+{"ts": 1791178749.0212178, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.7841}
+{"ts": 1791178749.0234647, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.7864}
+{"ts": 1791178749.0427861, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.8057}
+{"ts": 1791178749.0438075, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.8067}
+{"ts": 1791178749.050401, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.8133}
+{"ts": 1791178749.0510075, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.8139}
+{"ts": 1791178749.0562158, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.8191}
+{"ts": 1791178749.0618403, "component": "records-2", "event": "db_primary_available", "t_rel": 9.8247}
+{"ts": 1791178749.0968428, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.8597}
+{"ts": 1791178749.10789, "component": "records-1", "event": "db_primary_available", "t_rel": 9.8708}
+{"ts": 1791178749.122929, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.8858}
+{"ts": 1791178749.1235526, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.8865}
+{"ts": 1791178749.1239407, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.8868}
+{"ts": 1791178749.1294434, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.8923}
+{"ts": 1791178749.1297762, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.8927}
+{"ts": 1791178749.1307106, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.8936}
+{"ts": 1791178749.1459618, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.9089}
+{"ts": 1791178749.1683183, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.9312}
+{"ts": 1791178749.1747217, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.9376}
+{"ts": 1791178749.1750622, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.938}
+{"ts": 1791178749.1871424, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.95}
+{"ts": 1791178749.2000082, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.9629}
+{"ts": 1791178749.2005813, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.9635}
+{"ts": 1791178749.2008052, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.9637}
+{"ts": 1791178749.2008476, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 9.9638}
+{"ts": 1791178749.2012334, "component": "payment-2", "event": "db_primary_available", "t_rel": 9.9641}
+{"ts": 1791178749.210421, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.9733}
+{"ts": 1791178749.2107818, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.9737}
+{"ts": 1791178749.2115636, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 9.9745}
+{"ts": 1791178749.211841, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 9.9747}
+{"ts": 1791178749.2127876, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.9757}
+{"ts": 1791178749.2128615, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.9758}
+{"ts": 1791178749.213008, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 9.9759}
+{"ts": 1791178749.2129161, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.9758}
+{"ts": 1791178749.2232926, "component": "records-2", "event": "db_primary_available", "t_rel": 9.9862}
+{"ts": 1791178749.2331583, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.9961}
+{"ts": 1791178749.279514, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.0424}
+{"ts": 1791178749.2797627, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.0427}
+{"ts": 1791178749.2805135, "component": "payment-2", "event": "db_primary_available", "t_rel": 10.0434}
+{"ts": 1791178749.2820568, "component": "payment-2", "event": "journal_replayed", "count": 3, "t_rel": 10.045}
+{"ts": 1791178749.286475, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.0494}
+{"ts": 1791178749.2890148, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.0519}
+{"ts": 1791178749.2895691, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.0525}
+{"ts": 1791178749.313446, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.0764}
+{"ts": 1791178749.3207877, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.0837}
+{"ts": 1791178749.344677, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.1076}
+{"ts": 1791178749.419763, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.1827}
+{"ts": 1791178749.423025, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.1859}
+{"ts": 1791178749.424128, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.187}
+{"ts": 1791178749.4341285, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.197}
+{"ts": 1791178749.4378362, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.2007}
+{"ts": 1791178749.4406464, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.2036}
+{"ts": 1791178749.4407945, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.2037}
+{"ts": 1791178749.4465387, "component": "payment-2", "event": "db_primary_available", "t_rel": 10.2094}
+{"ts": 1791178749.497939, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.2608}
+{"ts": 1791178749.498128, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.261}
+{"ts": 1791178749.498855, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.2618}
+{"ts": 1791178749.5025828, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.2655}
+{"ts": 1791178749.5031586, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 10.2661}
+{"ts": 1791178749.508434, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 10.2713}
+{"ts": 1791178749.5083199, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.2712}
+{"ts": 1791178749.5097713, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.2727}
+{"ts": 1791178749.5097888, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.2727}
+{"ts": 1791178749.5116549, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.2746}
+{"ts": 1791178749.540358, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 10.3033}
+{"ts": 1791178749.5415506, "component": "student-2", "event": "db_circuit_closed", "t_rel": 10.3045}
+{"ts": 1791178749.5418644, "component": "student-2", "event": "db_primary_available", "t_rel": 10.3048}
+{"ts": 1791178749.5479674, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.3109}
+{"ts": 1791178749.548837, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.3117}
+{"ts": 1791178749.5553546, "component": "records-2", "event": "db_primary_available", "t_rel": 10.3183}
+{"ts": 1791178749.6133072, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.3762}
+{"ts": 1791178749.6515143, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.4144}
+{"ts": 1791178749.6559775, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.4189}
+{"ts": 1791178749.6563358, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 10.4192}
+{"ts": 1791178749.7012944, "component": "records-2", "event": "db_primary_available", "t_rel": 10.4642}
+{"ts": 1791178749.714371, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.4773}
+{"ts": 1791178749.7143478, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.4773}
+{"ts": 1791178749.7240505, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.487}
+{"ts": 1791178749.7246673, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.4876}
+{"ts": 1791178749.7249048, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.4878}
+{"ts": 1791178749.7612746, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.5242}
+{"ts": 1791178749.7650409, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.5279}
+{"ts": 1791178749.7659254, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.5288}
+{"ts": 1791178749.766688, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.5296}
+{"ts": 1791178749.770466, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.5334}
+{"ts": 1791178749.7816184, "component": "payment-1", "event": "payment_recovered", "key": "mix-34e8acdeb7c74161b28197fedc03368f", "t_rel": 10.5445}
+{"ts": 1791178749.787173, "component": "payment-2", "event": "db_primary_available", "t_rel": 10.5501}
+{"ts": 1791178749.7881055, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.551}
+{"ts": 1791178749.824142, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.587}
+{"ts": 1791178749.8244987, "component": "payment-2", "event": "db_primary_available", "t_rel": 10.5874}
+{"ts": 1791178749.8257728, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.5887}
+{"ts": 1791178749.8308833, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.5938}
+{"ts": 1791178749.8309617, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.5939}
+{"ts": 1791178749.8362505, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.5992}
+{"ts": 1791178749.8424037, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.6053}
+{"ts": 1791178749.8975096, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.6604}
+{"ts": 1791178749.9021518, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.6651}
+{"ts": 1791178749.9335933, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.6965}
+{"ts": 1791178749.9336362, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.6965}
+{"ts": 1791178749.9373078, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 10.7002}
+{"ts": 1791178749.9380991, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.701}
+{"ts": 1791178749.962234, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.7251}
+{"ts": 1791178749.9689586, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.7319}
+{"ts": 1791178750.0088956, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.7718}
+{"ts": 1791178750.016993, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.7799}
+{"ts": 1791178750.0223744, "component": "records-2", "event": "db_primary_available", "t_rel": 10.7853}
+{"ts": 1791178750.0715039, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 10.8344}
+{"ts": 1791178750.127508, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 10.8904}
+{"ts": 1791178750.1828814, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.9458}
+{"ts": 1791178750.189149, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.9521}
+{"ts": 1791178750.1892252, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.9521}
+{"ts": 1791178750.1896205, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.9525}
+{"ts": 1791178750.1901448, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 10.9531}
+{"ts": 1791178750.1965988, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.9595}
+{"ts": 1791178750.212304, "component": "payment-2", "event": "db_primary_available", "t_rel": 10.9752}
+{"ts": 1791178750.2138596, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 10.9768}
+{"ts": 1791178750.2145624, "component": "payment-1", "event": "db_primary_available", "t_rel": 10.9775}
+{"ts": 1791178750.2185688, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 10.9815}
+{"ts": 1791178750.2561502, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 11.0191}
+{"ts": 1791178750.273493, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 11.0364}
+{"ts": 1791178750.2799664, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 11.0429}
+{"ts": 1791178750.3443706, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 11.1073}
+{"ts": 1791178750.4061248, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 11.169}
+{"ts": 1791178750.4438002, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.2067}
+{"ts": 1791178750.443991, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.2069}
+{"ts": 1791178750.4442506, "component": "records-2", "event": "db_primary_available", "t_rel": 11.2072}
+{"ts": 1791178750.4474895, "component": "payment-1", "event": "db_primary_available", "t_rel": 11.2104}
+{"ts": 1791178750.4516685, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 11.2146}
+{"ts": 1791178750.4519858, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 11.2149}
+{"ts": 1791178750.4751067, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.238}
+{"ts": 1791178750.4753358, "component": "payment-2", "event": "db_circuit_open", "t_rel": 11.2382}
+{"ts": 1791178750.4807975, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.2437}
+{"ts": 1791178750.4809544, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.2439}
+{"ts": 1791178750.4812944, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.2442}
+{"ts": 1791178750.528338, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.2912}
+{"ts": 1791178750.536247, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.2992}
+{"ts": 1791178750.536203, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.2991}
+{"ts": 1791178750.5376546, "component": "records-2", "event": "journal_replayed", "count": 5, "t_rel": 11.3006}
+{"ts": 1791178750.5401874, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 11.3031}
+{"ts": 1791178750.5469, "component": "payment-1", "event": "db_primary_available", "t_rel": 11.3098}
+{"ts": 1791178750.6000507, "component": "records-2", "event": "db_primary_available", "t_rel": 11.363}
+{"ts": 1791178750.63191, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.3948}
+{"ts": 1791178750.636464, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 11.3994}
+{"ts": 1791178750.6378818, "component": "payment-1", "event": "db_primary_available", "t_rel": 11.4008}
+{"ts": 1791178750.668921, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 11.4318}
+{"ts": 1791178750.6721454, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.4351}
+{"ts": 1791178750.6978097, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.4607}
+{"ts": 1791178750.7068355, "component": "student-1", "event": "db_circuit_closed", "t_rel": 11.4697}
+{"ts": 1791178750.7072291, "component": "student-1", "event": "db_primary_available", "t_rel": 11.4701}
+{"ts": 1791178750.714329, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.4772}
+{"ts": 1791178750.8123057, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.5752}
+{"ts": 1791178750.9110048, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 11.6739}
+{"ts": 1791178750.9484868, "component": "student-2", "event": "db_primary_available", "t_rel": 11.7114}
+{"ts": 1791178751.0396605, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 11.8026}
+{"ts": 1791178751.0546992, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.8176}
+{"ts": 1791178751.2143636, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 11.9773}
+{"ts": 1791178751.2832623, "component": "records-1", "event": "db_circuit_half_open", "t_rel": 12.0462}
+{"ts": 1791178751.2845824, "component": "records-1", "event": "db_circuit_closed", "t_rel": 12.0475}
+{"ts": 1791178751.2848842, "component": "records-1", "event": "db_primary_available", "t_rel": 12.0478}
+{"ts": 1791178751.3078208, "component": "payment-2", "event": "db_circuit_closed", "t_rel": 12.0707}
+{"ts": 1791178751.3080714, "component": "payment-2", "event": "db_primary_available", "t_rel": 12.071}
+{"ts": 1791178751.5153055, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 12.2782}
+{"ts": 1791178751.5153077, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 12.2782}
+{"ts": 1791178751.5212867, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 12.2842}
+{"ts": 1791178751.5213664, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 12.2843}
+{"ts": 1791178751.531113, "component": "payment-2", "event": "db_primary_available", "t_rel": 12.294}
+{"ts": 1791178751.5314763, "component": "student-2", "event": "db_primary_available", "t_rel": 12.2944}
+{"ts": 1791178751.6246119, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 12.3875}
+{"ts": 1791178751.6290824, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 12.392}
+{"ts": 1791178751.6407197, "component": "payment-2", "event": "db_primary_available", "t_rel": 12.4036}
+{"ts": 1791178751.8260827, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 12.589}
+{"ts": 1791178751.8267033, "component": "payment-1", "event": "db_primary_available", "t_rel": 12.5896}
+{"ts": 1791178751.8297899, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 12.5927}
+{"ts": 1791178752.0566049, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 12.8195}
+{"ts": 1791178752.0602582, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 12.8232}
+{"ts": 1791178752.0680044, "component": "payment-1", "event": "db_primary_available", "t_rel": 12.8309}
+{"ts": 1791178752.149516, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 12.9124}
+{"ts": 1791178752.1495838, "component": "student-2", "event": "db_primary_available", "t_rel": 12.9125}
+{"ts": 1791178752.1537702, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 12.9167}
+{"ts": 1791178752.2417657, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.0047}
+{"ts": 1791178752.2418494, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.0048}
+{"ts": 1791178752.2458322, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 13.0087}
+{"ts": 1791178752.246044, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.0089}
+{"ts": 1791178752.246363, "component": "student-2", "event": "db_primary_available", "t_rel": 13.0093}
+{"ts": 1791178752.2512538, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 13.0142}
+{"ts": 1791178752.255615, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.0185}
+{"ts": 1791178752.2567673, "component": "payment-1", "event": "journal_replayed", "count": 6, "t_rel": 13.0197}
+{"ts": 1791178752.2580328, "component": "payment-1", "event": "db_primary_available", "t_rel": 13.0209}
+{"ts": 1791178752.2603936, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 13.0233}
+{"ts": 1791178752.2636456, "component": "student-2", "event": "db_primary_available", "t_rel": 13.0266}
+{"ts": 1791178752.3170211, "component": "student-1", "event": "db_primary_available", "t_rel": 13.0799}
+{"ts": 1791178752.332892, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.0958}
+{"ts": 1791178752.3371778, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 13.1001}
+{"ts": 1791178752.3894784, "component": "student-2", "event": "db_primary_available", "t_rel": 13.1524}
+{"ts": 1791178752.3944077, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.1573}
+{"ts": 1791178752.3946378, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.1575}
+{"ts": 1791178752.3991535, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 13.1621}
+{"ts": 1791178752.4000058, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 13.1629}
+{"ts": 1791178752.406204, "component": "payment-1", "event": "db_primary_available", "t_rel": 13.1691}
+{"ts": 1791178752.415463, "component": "student-1", "event": "db_primary_available", "t_rel": 13.1784}
+{"ts": 1791178752.5485306, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.3114}
+{"ts": 1791178752.5499907, "component": "records-2", "event": "journal_replayed", "count": 9, "t_rel": 13.3129}
+{"ts": 1791178752.6051257, "component": "records-2", "event": "db_primary_available", "t_rel": 13.368}
+{"ts": 1791178752.6939442, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103912-685.db", "t_rel": 13.4569}
+{"ts": 1791178752.7168477, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.4798}
+{"ts": 1791178752.7170868, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.48}
+{"ts": 1791178752.721523, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 13.4844}
+{"ts": 1791178752.7277436, "component": "payment-2", "event": "db_primary_available", "t_rel": 13.4906}
+{"ts": 1791178752.7782974, "component": "student-2", "event": "db_primary_available", "t_rel": 13.5412}
+{"ts": 1791178752.7793612, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.5423}
+{"ts": 1791178752.7795665, "component": "student-1", "event": "db_primary_available", "t_rel": 13.5425}
+{"ts": 1791178752.7795506, "component": "payment-1", "event": "db_primary_available", "t_rel": 13.5425}
+{"ts": 1791178752.7852447, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 13.5482}
+{"ts": 1791178752.7862191, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 13.5491}
+{"ts": 1791178752.7872174, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 13.5501}
+{"ts": 1791178752.8421977, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.6051}
+{"ts": 1791178752.8422654, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.6052}
+{"ts": 1791178752.8448346, "component": "payment-2", "event": "db_primary_available", "t_rel": 13.6077}
+{"ts": 1791178752.8486362, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 13.6115}
+{"ts": 1791178752.848662, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 13.6116}
+{"ts": 1791178752.8491173, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 13.612}
+{"ts": 1791178752.8606107, "component": "student-2", "event": "db_primary_available", "t_rel": 13.6235}
+{"ts": 1791178752.878134, "component": "records-1", "event": "db_primary_available", "t_rel": 13.641}
+{"ts": 1791178752.995353, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.7583}
+{"ts": 1791178752.999458, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 13.7624}
+{"ts": 1791178753.0683632, "component": "records-1", "event": "db_primary_available", "t_rel": 13.8313}
+{"ts": 1791178753.1051707, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.8681}
+{"ts": 1791178753.1098907, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 13.8728}
+{"ts": 1791178753.1599426, "component": "payment-1", "event": "db_primary_available", "t_rel": 13.9228}
+{"ts": 1791178753.164133, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 13.927}
+{"ts": 1791178753.168601, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 13.9315}
+{"ts": 1791178753.1692328, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 13.9321}
+{"ts": 1791178753.2328572, "component": "payment-2", "event": "db_primary_available", "t_rel": 13.9958}
+{"ts": 1791178753.242378, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.0053}
+{"ts": 1791178753.2462423, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 14.0091}
+{"ts": 1791178753.2631657, "component": "student-1", "event": "db_primary_available", "t_rel": 14.0261}
+{"ts": 1791178753.3357947, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.0987}
+{"ts": 1791178753.335971, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.0989}
+{"ts": 1791178753.3416178, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 14.1045}
+{"ts": 1791178753.3423862, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 14.1053}
+{"ts": 1791178753.3536866, "component": "records-2", "event": "db_primary_available", "t_rel": 14.1166}
+{"ts": 1791178753.3849163, "component": "payment-1", "event": "db_primary_available", "t_rel": 14.1478}
+{"ts": 1791178753.395866, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.1588}
+{"ts": 1791178753.3971498, "component": "records-1", "event": "journal_replayed", "count": 7, "t_rel": 14.1601}
+{"ts": 1791178753.488966, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.2519}
+{"ts": 1791178753.488985, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.2519}
+{"ts": 1791178753.4932127, "component": "payment-1", "event": "db_primary_available", "t_rel": 14.2561}
+{"ts": 1791178753.4941738, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 14.2571}
+{"ts": 1791178753.494986, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 14.2579}
+{"ts": 1791178753.5047164, "component": "student-1", "event": "db_primary_available", "t_rel": 14.2676}
+{"ts": 1791178753.5072346, "component": "records-1", "event": "db_primary_available", "t_rel": 14.2701}
+{"ts": 1791178753.5672436, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.3301}
+{"ts": 1791178753.5824163, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.3453}
+{"ts": 1791178753.586223, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 14.3491}
+{"ts": 1791178753.6226075, "component": "payment-1", "event": "db_primary_available", "t_rel": 14.3855}
+{"ts": 1791178753.6308446, "component": "payment-2", "event": "db_primary_available", "t_rel": 14.3938}
+{"ts": 1791178753.661096, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.424}
+{"ts": 1791178753.6613376, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.4242}
+{"ts": 1791178753.6613958, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.4243}
+{"ts": 1791178753.6614337, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.4243}
+{"ts": 1791178753.6692684, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 14.4322}
+{"ts": 1791178753.6699483, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 14.4329}
+{"ts": 1791178753.6705089, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 14.4334}
+{"ts": 1791178753.6715302, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 14.4344}
+{"ts": 1791178753.6716428, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 14.4345}
+{"ts": 1791178753.6792755, "component": "records-2", "event": "db_primary_available", "t_rel": 14.4422}
+{"ts": 1791178753.6840699, "component": "payment-1", "event": "db_primary_available", "t_rel": 14.447}
+{"ts": 1791178753.693302, "component": "student-1", "event": "db_primary_available", "t_rel": 14.4562}
+{"ts": 1791178753.6976156, "component": "student-2", "event": "db_primary_available", "t_rel": 14.4605}
+{"ts": 1791178753.6980674, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 14.461}
+{"ts": 1791178753.7069755, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.4699}
+{"ts": 1791178753.712568, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 14.4755}
+{"ts": 1791178753.7135386, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 14.4764}
+{"ts": 1791178753.7182758, "component": "payment-2", "event": "db_primary_available", "t_rel": 14.4812}
+{"ts": 1791178753.7576556, "component": "records-1", "event": "db_primary_available", "t_rel": 14.5206}
+{"ts": 1791178753.7704911, "component": "payment-1", "event": "db_primary_available", "t_rel": 14.5334}
+{"ts": 1791178753.8026454, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.5656}
+{"ts": 1791178753.8063493, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 14.5693}
+{"ts": 1791178753.9093406, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.6722}
+{"ts": 1791178753.9098725, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.6728}
+{"ts": 1791178753.9120066, "component": "student-1", "event": "db_primary_available", "t_rel": 14.6749}
+{"ts": 1791178753.913048, "component": "payment-2", "event": "db_primary_available", "t_rel": 14.676}
+{"ts": 1791178754.1326458, "component": "records-2", "event": "db_primary_available", "t_rel": 14.8956}
+{"ts": 1791178754.1369412, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.8998}
+{"ts": 1791178754.2221584, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.9851}
+{"ts": 1791178754.2230756, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.986}
+{"ts": 1791178754.2231464, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.9861}
+{"ts": 1791178754.223204, "component": "payment-2", "event": "db_circuit_open", "t_rel": 14.9861}
+{"ts": 1791178754.223711, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 14.9866}
+{"ts": 1791178754.2409241, "component": "student-2", "event": "db_primary_available", "t_rel": 15.0038}
+{"ts": 1791178754.2426474, "component": "student-1", "event": "db_primary_available", "t_rel": 15.0056}
+{"ts": 1791178754.2446072, "component": "records-1", "event": "db_primary_available", "t_rel": 15.0075}
+{"ts": 1791178754.3123927, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.0753}
+{"ts": 1791178754.3180892, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.081}
+{"ts": 1791178754.3185706, "component": "payment-1", "event": "db_circuit_open", "t_rel": 15.0815}
+{"ts": 1791178754.3216374, "component": "student-1", "event": "db_primary_available", "t_rel": 15.0845}
+{"ts": 1791178754.4238157, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 15.1867}
+{"ts": 1791178754.4572778, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 15.2202}
+{"ts": 1791178754.4583035, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.2212}
+{"ts": 1791178754.4595861, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.2225}
+{"ts": 1791178754.4610274, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 15.2239}
+{"ts": 1791178754.461102, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.224}
+{"ts": 1791178754.459857, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.2228}
+{"ts": 1791178754.463022, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.2259}
+{"ts": 1791178754.4630866, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.226}
+{"ts": 1791178754.463218, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 15.2261}
+{"ts": 1791178754.4657836, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.2287}
+{"ts": 1791178754.4659996, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.2289}
+{"ts": 1791178754.4659252, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.2288}
+{"ts": 1791178754.466046, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.229}
+{"ts": 1791178754.4663506, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 15.2293}
+{"ts": 1791178754.4662325, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.2291}
+{"ts": 1791178754.4662075, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.2291}
+{"ts": 1791178754.4670966, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.23}
+{"ts": 1791178754.4672081, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 15.2301}
+{"ts": 1791178754.46627, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.2292}
+{"ts": 1791178754.4671674, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.2301}
+{"ts": 1791178754.4849656, "component": "payment-1", "event": "db_circuit_closed", "t_rel": 15.2479}
+{"ts": 1791178754.485216, "component": "payment-1", "event": "db_primary_available", "t_rel": 15.2481}
+{"ts": 1791178754.5313315, "component": "student-1", "event": "db_primary_available", "t_rel": 15.2942}
+{"ts": 1791178754.5445623, "component": "records-2", "event": "db_primary_available", "t_rel": 15.3075}
+{"ts": 1791178754.5501907, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.3131}
+{"ts": 1791178754.5551882, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 15.3181}
+{"ts": 1791178754.5561278, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.319}
+{"ts": 1791178754.566145, "component": "student-2", "event": "db_primary_available", "t_rel": 15.3291}
+{"ts": 1791178754.568289, "component": "records-2", "event": "db_primary_available", "t_rel": 15.3312}
+{"ts": 1791178754.607797, "component": "payment-2", "event": "db_circuit_closed", "t_rel": 15.3707}
+{"ts": 1791178754.6081843, "component": "payment-2", "event": "db_primary_available", "t_rel": 15.3711}
+{"ts": 1791178754.6595547, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.4225}
+{"ts": 1791178754.659615, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.4225}
+{"ts": 1791178754.6663358, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.4292}
+{"ts": 1791178754.6670265, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.4299}
+{"ts": 1791178754.672233, "component": "payment-1", "event": "db_primary_available", "t_rel": 15.4351}
+{"ts": 1791178754.6755571, "component": "payment-2", "event": "db_primary_available", "t_rel": 15.4385}
+{"ts": 1791178754.7657733, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.5287}
+{"ts": 1791178754.7658415, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.5287}
+{"ts": 1791178754.7662055, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.5291}
+{"ts": 1791178754.7673018, "component": "student-2", "event": "db_primary_available", "t_rel": 15.5302}
+{"ts": 1791178754.7720025, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 15.5349}
+{"ts": 1791178754.7723095, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.5352}
+{"ts": 1791178754.8075616, "component": "payment-2", "event": "db_primary_available", "t_rel": 15.5705}
+{"ts": 1791178754.8478456, "component": "records-1", "event": "db_primary_available", "t_rel": 15.6108}
+{"ts": 1791178754.889121, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.652}
+{"ts": 1791178754.8893685, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.6523}
+{"ts": 1791178754.8892303, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.6521}
+{"ts": 1791178754.889504, "component": "student-1", "event": "db_primary_available", "t_rel": 15.6524}
+{"ts": 1791178754.890319, "component": "records-2", "event": "journal_replayed", "count": 7, "t_rel": 15.6532}
+{"ts": 1791178754.89049, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.6534}
+{"ts": 1791178754.8908124, "component": "student-2", "event": "journal_replayed", "count": 6, "t_rel": 15.6537}
+{"ts": 1791178754.8922522, "component": "records-2", "event": "db_primary_available", "t_rel": 15.6552}
+{"ts": 1791178754.8949022, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 15.6578}
+{"ts": 1791178754.8968432, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.6597}
+{"ts": 1791178754.8976924, "component": "payment-2", "event": "db_primary_available", "t_rel": 15.6606}
+{"ts": 1791178754.8977711, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.6607}
+{"ts": 1791178754.9588673, "component": "payment-1", "event": "db_primary_available", "t_rel": 15.7218}
+{"ts": 1791178754.9827101, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.7456}
+{"ts": 1791178754.982822, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.7457}
+{"ts": 1791178754.9873192, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 15.7502}
+{"ts": 1791178754.98985, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.7528}
+{"ts": 1791178754.9998379, "component": "student-1", "event": "db_primary_available", "t_rel": 15.7627}
+{"ts": 1791178754.9996724, "component": "student-2", "event": "db_primary_available", "t_rel": 15.7626}
+{"ts": 1791178755.0757153, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.8386}
+{"ts": 1791178755.079629, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 15.8425}
+{"ts": 1791178755.0873554, "component": "records-1", "event": "db_primary_available", "t_rel": 15.8503}
+{"ts": 1791178755.0911474, "component": "student-2", "event": "db_primary_available", "t_rel": 15.8541}
+{"ts": 1791178755.0912082, "component": "student-1", "event": "db_primary_available", "t_rel": 15.8541}
+{"ts": 1791178755.0916474, "component": "payment-2", "event": "db_primary_available", "t_rel": 15.8546}
+{"ts": 1791178755.0984442, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 15.8614}
+{"ts": 1791178755.098838, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.8617}
+{"ts": 1791178755.099382, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 15.8623}
+{"ts": 1791178755.143606, "component": "payment-1", "event": "db_primary_available", "t_rel": 15.9065}
+{"ts": 1791178755.2005184, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.9634}
+{"ts": 1791178755.2013543, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 15.9643}
+{"ts": 1791178755.2016432, "component": "student-2", "event": "db_primary_available", "t_rel": 15.9645}
+{"ts": 1791178755.2057724, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 15.9687}
+{"ts": 1791178755.2062063, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 15.9691}
+{"ts": 1791178755.2782044, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.0411}
+{"ts": 1791178755.2784724, "component": "payment-2", "event": "db_primary_available", "t_rel": 16.0414}
+{"ts": 1791178755.2828898, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.0458}
+{"ts": 1791178755.2966244, "component": "records-1", "event": "db_primary_available", "t_rel": 16.0595}
+{"ts": 1791178755.3097072, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.0726}
+{"ts": 1791178755.3102026, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.0731}
+{"ts": 1791178755.3105135, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.0734}
+{"ts": 1791178755.3104231, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.0733}
+{"ts": 1791178755.3105316, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.0734}
+{"ts": 1791178755.3107986, "component": "student-1", "event": "db_circuit_open", "t_rel": 16.0737}
+{"ts": 1791178755.3110654, "component": "records-1", "event": "db_circuit_open", "t_rel": 16.074}
+{"ts": 1791178755.311007, "component": "student-2", "event": "db_circuit_open", "t_rel": 16.0739}
+{"ts": 1791178755.3112948, "component": "payment-2", "event": "db_circuit_open", "t_rel": 16.0742}
+{"ts": 1791178755.311509, "component": "records-2", "event": "db_circuit_open", "t_rel": 16.0744}
+{"ts": 1791178755.3365066, "component": "payment-2", "event": "db_circuit_closed", "t_rel": 16.0994}
+{"ts": 1791178755.3368754, "component": "payment-2", "event": "db_primary_available", "t_rel": 16.0998}
+{"ts": 1791178755.340298, "component": "payment-1", "event": "db_circuit_closed", "t_rel": 16.1032}
+{"ts": 1791178755.3404908, "component": "payment-1", "event": "db_primary_available", "t_rel": 16.1034}
+{"ts": 1791178755.3585823, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1215}
+{"ts": 1791178755.3607912, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.1237}
+{"ts": 1791178755.3610322, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1239}
+{"ts": 1791178755.3610237, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.1239}
+{"ts": 1791178755.3612204, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 16.1241}
+{"ts": 1791178755.3613665, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.1243}
+{"ts": 1791178755.3616693, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1246}
+{"ts": 1791178755.3615434, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1244}
+{"ts": 1791178755.361602, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1245}
+{"ts": 1791178755.3618145, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1247}
+{"ts": 1791178755.362013, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1249}
+{"ts": 1791178755.362017, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1249}
+{"ts": 1791178755.3631585, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1261}
+{"ts": 1791178755.3644836, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1274}
+{"ts": 1791178755.366754, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 16.1297}
+{"ts": 1791178755.3667903, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1297}
+{"ts": 1791178755.3669715, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1299}
+{"ts": 1791178755.3670652, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.13}
+{"ts": 1791178755.367443, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1303}
+{"ts": 1791178755.3677645, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.1307}
+{"ts": 1791178755.3676474, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1306}
+{"ts": 1791178755.3683512, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.1313}
+{"ts": 1791178755.3686829, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1316}
+{"ts": 1791178755.3678365, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1307}
+{"ts": 1791178755.3704371, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.1333}
+{"ts": 1791178755.4174893, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.1804}
+{"ts": 1791178755.4174404, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.1803}
+{"ts": 1791178755.4245582, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.1875}
+{"ts": 1791178755.427419, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1903}
+{"ts": 1791178755.4279504, "component": "payment-2", "event": "db_primary_available", "t_rel": 16.1909}
+{"ts": 1791178755.4287238, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.1916}
+{"ts": 1791178755.4325967, "component": "payment-1", "event": "db_primary_available", "t_rel": 16.1955}
+{"ts": 1791178755.4564598, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 16.2194}
+{"ts": 1791178755.494462, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.2574}
+{"ts": 1791178755.4999475, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.2629}
+{"ts": 1791178755.5006943, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.2636}
+{"ts": 1791178755.5476274, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.3105}
+{"ts": 1791178755.547959, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.3109}
+{"ts": 1791178755.5697262, "component": "payment-1", "event": "db_primary_available", "t_rel": 16.3326}
+{"ts": 1791178755.6253202, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.3882}
+{"ts": 1791178755.6334777, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.3964}
+{"ts": 1791178755.6435423, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.4064}
+{"ts": 1791178755.6620173, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.4249}
+{"ts": 1791178755.7043104, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.4672}
+{"ts": 1791178755.732411, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.4953}
+{"ts": 1791178755.7375941, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.5005}
+{"ts": 1791178755.7380316, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 16.5009}
+{"ts": 1791178755.7385874, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.5015}
+{"ts": 1791178755.7409768, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.5039}
+{"ts": 1791178755.762261, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 16.5252}
+{"ts": 1791178755.767467, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.5304}
+{"ts": 1791178755.7939909, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.5569}
+{"ts": 1791178755.7961278, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.559}
+{"ts": 1791178755.8117993, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.5747}
+{"ts": 1791178755.8294418, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.5923}
+{"ts": 1791178755.8608203, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.6237}
+{"ts": 1791178755.8897061, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.6526}
+{"ts": 1791178755.89509, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.658}
+{"ts": 1791178755.9162416, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.6791}
+{"ts": 1791178755.9173772, "component": "payment-1", "event": "db_primary_available", "t_rel": 16.6803}
+{"ts": 1791178755.9173427, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.6802}
+{"ts": 1791178755.9186304, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.6815}
+{"ts": 1791178755.9264784, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.6894}
+{"ts": 1791178755.9264667, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.6894}
+{"ts": 1791178755.9290495, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.692}
+{"ts": 1791178755.9292405, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.6921}
+{"ts": 1791178755.9298036, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.6927}
+{"ts": 1791178755.934849, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.6978}
+{"ts": 1791178755.9354503, "component": "payment-2", "event": "db_primary_available", "t_rel": 16.6984}
+{"ts": 1791178755.9732342, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.7361}
+{"ts": 1791178756.000046, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.763}
+{"ts": 1791178756.000389, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.7633}
+{"ts": 1791178756.0026176, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.7655}
+{"ts": 1791178756.0200622, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 16.783}
+{"ts": 1791178756.0307484, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.7937}
+{"ts": 1791178756.0933313, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.8562}
+{"ts": 1791178756.1498737, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.9128}
+{"ts": 1791178756.1504397, "component": "student-1", "event": "journal_replayed", "count": 3, "t_rel": 16.9133}
+{"ts": 1791178756.1569545, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.9199}
+{"ts": 1791178756.157951, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.9209}
+{"ts": 1791178756.158311, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.9212}
+{"ts": 1791178756.1612105, "component": "payment-2", "event": "db_primary_available", "t_rel": 16.9241}
+{"ts": 1791178756.1851785, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.9481}
+{"ts": 1791178756.1974862, "component": "payment-1", "event": "db_primary_available", "t_rel": 16.9604}
+{"ts": 1791178756.2053776, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 16.9683}
+{"ts": 1791178756.211288, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.9742}
+{"ts": 1791178756.211395, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 16.9743}
+{"ts": 1791178756.211591, "component": "payment-2", "event": "db_primary_available", "t_rel": 16.9745}
+{"ts": 1791178756.218724, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 16.9816}
+{"ts": 1791178756.2202537, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 16.9832}
+{"ts": 1791178756.220984, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 16.9839}
+{"ts": 1791178756.2495167, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.0124}
+{"ts": 1791178756.270557, "component": "payment-1", "event": "db_primary_available", "t_rel": 17.0335}
+{"ts": 1791178756.2743196, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.0372}
+{"ts": 1791178756.3119206, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 17.0748}
+{"ts": 1791178756.3191345, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.082}
+{"ts": 1791178756.324686, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.0876}
+{"ts": 1791178756.3286984, "component": "payment-2", "event": "db_primary_available", "t_rel": 17.0916}
+{"ts": 1791178756.412464, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.1754}
+{"ts": 1791178756.4130938, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.176}
+{"ts": 1791178756.4140134, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.1769}
+{"ts": 1791178756.4433186, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.2062}
+{"ts": 1791178756.4483643, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.2113}
+{"ts": 1791178756.4489677, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.2119}
+{"ts": 1791178756.4574556, "component": "payment-2", "event": "db_primary_available", "t_rel": 17.2204}
+{"ts": 1791178756.4716074, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.2345}
+{"ts": 1791178756.471978, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.2349}
+{"ts": 1791178756.5033422, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.2662}
+{"ts": 1791178756.5235596, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.2865}
+{"ts": 1791178756.524487, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.2874}
+{"ts": 1791178756.5323951, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 17.2953}
+{"ts": 1791178756.5398993, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.3028}
+{"ts": 1791178756.5785964, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.3415}
+{"ts": 1791178756.6202233, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.3831}
+{"ts": 1791178756.624414, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.3873}
+{"ts": 1791178756.6313384, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 17.3942}
+{"ts": 1791178756.6443007, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.4072}
+{"ts": 1791178756.6444569, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.4074}
+{"ts": 1791178756.6540887, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.417}
+{"ts": 1791178756.657494, "component": "payment-2", "event": "db_primary_available", "t_rel": 17.4204}
+{"ts": 1791178756.7131958, "component": "payment-1", "event": "db_primary_available", "t_rel": 17.4761}
+{"ts": 1791178756.7166963, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 17.4796}
+{"ts": 1791178756.7241447, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.4871}
+{"ts": 1791178756.738211, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.5011}
+{"ts": 1791178756.7415938, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.5045}
+{"ts": 1791178756.7575777, "component": "payment-2", "event": "db_primary_available", "t_rel": 17.5205}
+{"ts": 1791178756.8391876, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 17.6021}
+{"ts": 1791178756.861187, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.6241}
+{"ts": 1791178756.8613808, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.6243}
+{"ts": 1791178756.8670354, "component": "payment-1", "event": "db_primary_available", "t_rel": 17.6299}
+{"ts": 1791178756.8673453, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.6303}
+{"ts": 1791178756.8680656, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 17.631}
+{"ts": 1791178756.868097, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.631}
+{"ts": 1791178756.8938155, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.6567}
+{"ts": 1791178756.907734, "component": "payment-2", "event": "db_primary_available", "t_rel": 17.6706}
+{"ts": 1791178756.9540205, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.7169}
+{"ts": 1791178756.9843996, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.7473}
+{"ts": 1791178756.9844131, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 17.7473}
+{"ts": 1791178756.9916847, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 17.7546}
+{"ts": 1791178756.9925911, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 17.7555}
+{"ts": 1791178756.993477, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 17.7564}
+{"ts": 1791178757.0149748, "component": "payment-2", "event": "db_primary_available", "t_rel": 17.7779}
+{"ts": 1791178757.043455, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.8064}
+{"ts": 1791178757.0499034, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 17.8128}
+{"ts": 1791178757.0509522, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 17.8139}
+{"ts": 1791178757.0633204, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.8262}
+{"ts": 1791178757.0784051, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.8413}
+{"ts": 1791178757.1292958, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 17.8922}
+{"ts": 1791178757.1657472, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.9287}
+{"ts": 1791178757.2302516, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 17.9932}
+{"ts": 1791178757.2450695, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 18.008}
+{"ts": 1791178757.2633758, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.0263}
+{"ts": 1791178757.2634552, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.0264}
+{"ts": 1791178757.2686534, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 18.0316}
+{"ts": 1791178757.269518, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.0324}
+{"ts": 1791178757.2817814, "component": "payment-1", "event": "db_primary_available", "t_rel": 18.0447}
+{"ts": 1791178757.305839, "component": "payment-2", "event": "db_primary_available", "t_rel": 18.0687}
+{"ts": 1791178757.3240974, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 18.087}
+{"ts": 1791178757.32518, "component": "student-1", "event": "db_circuit_closed", "t_rel": 18.0881}
+{"ts": 1791178757.3254545, "component": "student-1", "event": "db_primary_available", "t_rel": 18.0884}
+{"ts": 1791178757.3408422, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 18.1037}
+{"ts": 1791178757.350439, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 18.1133}
+{"ts": 1791178757.3550117, "component": "records-1", "event": "db_circuit_half_open", "t_rel": 18.1179}
+{"ts": 1791178757.3568087, "component": "records-1", "event": "db_circuit_closed", "t_rel": 18.1197}
+{"ts": 1791178757.3572032, "component": "records-1", "event": "db_primary_available", "t_rel": 18.1201}
+{"ts": 1791178757.4349186, "component": "records-2", "event": "db_circuit_half_open", "t_rel": 18.1978}
+{"ts": 1791178757.43628, "component": "records-2", "event": "db_circuit_closed", "t_rel": 18.1992}
+{"ts": 1791178757.4366562, "component": "records-2", "event": "db_primary_available", "t_rel": 18.1996}
+{"ts": 1791178757.44916, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.2121}
+{"ts": 1791178757.4517198, "component": "payment-1", "event": "db_primary_available", "t_rel": 18.2146}
+{"ts": 1791178757.4584465, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.2214}
+{"ts": 1791178757.4586422, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.2215}
+{"ts": 1791178757.4734495, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 18.2364}
+{"ts": 1791178757.5289135, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 18.2918}
+{"ts": 1791178757.5398285, "component": "student-2", "event": "db_circuit_closed", "t_rel": 18.3027}
+{"ts": 1791178757.5402064, "component": "student-2", "event": "db_primary_available", "t_rel": 18.3031}
+{"ts": 1791178757.542418, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.3053}
+{"ts": 1791178757.5461924, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.3091}
+{"ts": 1791178757.6012747, "component": "payment-1", "event": "db_primary_available", "t_rel": 18.3642}
+{"ts": 1791178757.6047335, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.3676}
+{"ts": 1791178757.6059551, "component": "payment-2", "event": "journal_replayed", "count": 18, "t_rel": 18.3689}
+{"ts": 1791178757.6101458, "component": "payment-2", "event": "db_primary_available", "t_rel": 18.3731}
+{"ts": 1791178757.6811078, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.444}
+{"ts": 1791178757.6863015, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.4492}
+{"ts": 1791178757.6868045, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.4497}
+{"ts": 1791178757.704921, "component": "payment-2", "event": "payment_recovered", "key": "mix-a71d134c19044af8b2f70b54c0c5602f", "t_rel": 18.4678}
+{"ts": 1791178757.7279058, "component": "payment-2", "event": "payment_recovered", "key": "mix-d5dda61154eb4814ad29ed6d2eaa7ba4", "t_rel": 18.4908}
+{"ts": 1791178757.7517812, "component": "payment-2", "event": "payment_recovered", "key": "mix-06712c0099524b60824bd2397d85946a", "t_rel": 18.5147}
+{"ts": 1791178757.7775207, "component": "payment-2", "event": "payment_recovered", "key": "mix-5aa398cc72734121a5e20d1ec459fb50", "t_rel": 18.5404}
+{"ts": 1791178757.8030164, "component": "payment-2", "event": "payment_recovered", "key": "mix-f322247fc5d0425088b09f72f64e5716", "t_rel": 18.5659}
+{"ts": 1791178757.826048, "component": "payment-1", "event": "db_primary_available", "t_rel": 18.589}
+{"ts": 1791178757.8535411, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.6164}
+{"ts": 1791178757.8585355, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.6214}
+{"ts": 1791178757.9329925, "component": "payment-1", "event": "db_primary_available", "t_rel": 18.6959}
+{"ts": 1791178758.210817, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 18.9737}
+{"ts": 1791178758.2145097, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 18.9774}
+{"ts": 1791178758.2887676, "component": "payment-1", "event": "db_primary_available", "t_rel": 19.0517}
+{"ts": 1791178758.3976614, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.1606}
+{"ts": 1791178758.403895, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.1668}
+{"ts": 1791178758.4048264, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 19.1677}
+{"ts": 1791178758.4236908, "component": "payment-1", "event": "db_primary_available", "t_rel": 19.1866}
+{"ts": 1791178758.4910898, "component": "payment-1", "event": "db_circuit_open", "t_rel": 19.254}
+{"ts": 1791178758.490931, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.2538}
+{"ts": 1791178758.500763, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.2637}
+{"ts": 1791178758.5008316, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.2637}
+{"ts": 1791178758.500806, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.2637}
+{"ts": 1791178758.5472004, "component": "payment-2", "event": "db_primary_available", "t_rel": 19.3101}
+{"ts": 1791178758.5552752, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.3182}
+{"ts": 1791178758.5586052, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.3215}
+{"ts": 1791178758.5939438, "component": "payment-1", "event": "db_circuit_closed", "t_rel": 19.3568}
+{"ts": 1791178758.594579, "component": "payment-1", "event": "db_primary_available", "t_rel": 19.3575}
+{"ts": 1791178758.5998695, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.3628}
+{"ts": 1791178758.6148362, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.3777}
+{"ts": 1791178758.6152794, "component": "student-1", "event": "db_primary_available", "t_rel": 19.3782}
+{"ts": 1791178758.6185277, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 19.3814}
+{"ts": 1791178758.6925974, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.4555}
+{"ts": 1791178758.6989014, "component": "records-2", "event": "db_primary_available", "t_rel": 19.4618}
+{"ts": 1791178758.700509, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 19.4634}
+{"ts": 1791178758.7224855, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.4854}
+{"ts": 1791178758.7273052, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.4902}
+{"ts": 1791178758.8298213, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.5927}
+{"ts": 1791178758.829876, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.5928}
+{"ts": 1791178758.8299944, "component": "payment-1", "event": "db_circuit_open", "t_rel": 19.5929}
+{"ts": 1791178758.836975, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 19.5999}
+{"ts": 1791178758.8371768, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.6001}
+{"ts": 1791178758.8372455, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.6002}
+{"ts": 1791178758.8402064, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.6031}
+{"ts": 1791178758.8451378, "component": "payment-1", "event": "db_circuit_closed", "t_rel": 19.608}
+{"ts": 1791178758.8454657, "component": "payment-1", "event": "db_primary_available", "t_rel": 19.6084}
+{"ts": 1791178758.848903, "component": "payment-2", "event": "db_primary_available", "t_rel": 19.6118}
+{"ts": 1791178758.8498156, "component": "records-2", "event": "db_primary_available", "t_rel": 19.6127}
+{"ts": 1791178758.876917, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.6398}
+{"ts": 1791178758.8812795, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 19.6442}
+{"ts": 1791178758.8907282, "component": "student-1", "event": "db_primary_available", "t_rel": 19.6536}
+{"ts": 1791178758.9378357, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.7007}
+{"ts": 1791178758.9427717, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 19.7057}
+{"ts": 1791178758.9535534, "component": "student-2", "event": "db_primary_available", "t_rel": 19.7165}
+{"ts": 1791178758.984235, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.7471}
+{"ts": 1791178758.985653, "component": "student-2", "event": "journal_replayed", "count": 3, "t_rel": 19.7486}
+{"ts": 1791178759.0158556, "component": "student-2", "event": "db_primary_available", "t_rel": 19.7788}
+{"ts": 1791178759.0614412, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.8243}
+{"ts": 1791178759.061532, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.8244}
+{"ts": 1791178759.0622244, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.8251}
+{"ts": 1791178759.0629866, "component": "student-2", "event": "db_primary_available", "t_rel": 19.8259}
+{"ts": 1791178759.0658472, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 19.8288}
+{"ts": 1791178759.0676715, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 19.8306}
+{"ts": 1791178759.0703464, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 19.8333}
+{"ts": 1791178759.0767221, "component": "payment-2", "event": "db_primary_available", "t_rel": 19.8396}
+{"ts": 1791178759.0937517, "component": "student-1", "event": "db_circuit_open", "t_rel": 19.8567}
+{"ts": 1791178759.094555, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.8575}
+{"ts": 1791178759.1008043, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 19.8637}
+{"ts": 1791178759.1008117, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 19.8637}
+{"ts": 1791178759.102537, "component": "payment-2", "event": "db_primary_available", "t_rel": 19.8654}
+{"ts": 1791178759.2020533, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 19.965}
+{"ts": 1791178759.2028463, "component": "payment-1", "event": "db_primary_available", "t_rel": 19.9658}
+{"ts": 1791178759.203643, "component": "student-1", "event": "journal_replayed", "count": 8, "t_rel": 19.9665}
+{"ts": 1791178759.2059653, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 19.9689}
+{"ts": 1791178759.3107855, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.0737}
+{"ts": 1791178759.3110292, "component": "payment-1", "event": "db_primary_available", "t_rel": 20.0739}
+{"ts": 1791178759.3166182, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 20.0795}
+{"ts": 1791178759.3239, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.0868}
+{"ts": 1791178759.3551662, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.1181}
+{"ts": 1791178759.3620098, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.1249}
+{"ts": 1791178759.4495714, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.2125}
+{"ts": 1791178759.5407903, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.3037}
+{"ts": 1791178759.5880678, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 20.351}
+{"ts": 1791178759.5985398, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.3614}
+{"ts": 1791178759.6400876, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.403}
+{"ts": 1791178759.6433978, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.4063}
+{"ts": 1791178759.6450455, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 20.408}
+{"ts": 1791178759.6454697, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.4084}
+{"ts": 1791178759.6885467, "component": "student-2", "event": "db_primary_available", "t_rel": 20.4515}
+{"ts": 1791178759.7282088, "component": "records-1", "event": "db_primary_available", "t_rel": 20.4911}
+{"ts": 1791178759.7430227, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.5059}
+{"ts": 1791178759.7551942, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.5181}
+{"ts": 1791178759.7552242, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.5181}
+{"ts": 1791178759.7554529, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 20.5184}
+{"ts": 1791178759.758943, "component": "payment-2", "event": "db_primary_available", "t_rel": 20.5218}
+{"ts": 1791178759.8223135, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.5852}
+{"ts": 1791178759.8421137, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.605}
+{"ts": 1791178759.8655148, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.6284}
+{"ts": 1791178759.8698103, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 20.6327}
+{"ts": 1791178759.8755426, "component": "payment-2", "event": "db_primary_available", "t_rel": 20.6384}
+{"ts": 1791178759.878096, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.641}
+{"ts": 1791178759.9641778, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.7271}
+{"ts": 1791178759.9647636, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.7277}
+{"ts": 1791178759.9711711, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.7341}
+{"ts": 1791178760.0878341, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.8507}
+{"ts": 1791178760.0884962, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.8514}
+{"ts": 1791178760.1254992, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.8884}
+{"ts": 1791178760.1317875, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.8947}
+{"ts": 1791178760.1328723, "component": "payment-1", "event": "journal_replayed", "count": 4, "t_rel": 20.8958}
+{"ts": 1791178760.1338012, "component": "payment-1", "event": "db_primary_available", "t_rel": 20.8967}
+{"ts": 1791178760.1777062, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.9406}
+{"ts": 1791178760.177888, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 20.9408}
+{"ts": 1791178760.1780083, "component": "student-2", "event": "db_primary_available", "t_rel": 20.9409}
+{"ts": 1791178760.1834476, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.9464}
+{"ts": 1791178760.185258, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 20.9482}
+{"ts": 1791178760.1855795, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 20.9485}
+{"ts": 1791178760.1860387, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 20.9489}
+{"ts": 1791178760.1926384, "component": "payment-1", "event": "db_primary_available", "t_rel": 20.9555}
+{"ts": 1791178760.242396, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.0053}
+{"ts": 1791178760.2424843, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.0054}
+{"ts": 1791178760.248011, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 21.0109}
+{"ts": 1791178760.2481766, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 21.0111}
+{"ts": 1791178760.2490795, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.012}
+{"ts": 1791178760.2554638, "component": "student-2", "event": "db_primary_available", "t_rel": 21.0184}
+{"ts": 1791178760.2883022, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.0512}
+{"ts": 1791178760.2933571, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 21.0563}
+{"ts": 1791178760.2947757, "component": "payment-2", "event": "db_primary_available", "t_rel": 21.0577}
+{"ts": 1791178760.3342383, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.0971}
+{"ts": 1791178760.3388891, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.1018}
+{"ts": 1791178760.3724444, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.1354}
+{"ts": 1791178760.3792586, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.1422}
+{"ts": 1791178760.485396, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.2483}
+{"ts": 1791178760.4986525, "component": "payment-1", "event": "payment_recovered", "key": "mix-5de0d342b4214df1a381c895081191a9", "t_rel": 21.2616}
+{"ts": 1791178760.5248854, "component": "payment-1", "event": "payment_recovered", "key": "mix-497c0867b1264b7db9fc51e15f7b2eba", "t_rel": 21.2878}
+{"ts": 1791178760.5739062, "component": "records-2", "event": "db_primary_available", "t_rel": 21.3368}
+{"ts": 1791178760.5835667, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.3465}
+{"ts": 1791178760.583917, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.3468}
+{"ts": 1791178760.5839572, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.3469}
+{"ts": 1791178760.5885189, "component": "records-1", "event": "journal_replayed", "count": 6, "t_rel": 21.3514}
+{"ts": 1791178760.5912263, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 21.3541}
+{"ts": 1791178760.5928986, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 21.3558}
+{"ts": 1791178760.59362, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 21.3565}
+{"ts": 1791178760.5957005, "component": "records-1", "event": "db_primary_available", "t_rel": 21.3586}
+{"ts": 1791178760.6101809, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.3731}
+{"ts": 1791178760.6107993, "component": "student-2", "event": "db_primary_available", "t_rel": 21.3737}
+{"ts": 1791178760.630448, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.3934}
+{"ts": 1791178760.6351306, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 21.398}
+{"ts": 1791178760.6567907, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.4197}
+{"ts": 1791178760.6932771, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.4562}
+{"ts": 1791178760.6971776, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 21.4601}
+{"ts": 1791178760.705626, "component": "student-2", "event": "db_primary_available", "t_rel": 21.4685}
+{"ts": 1791178760.7293766, "component": "records-1", "event": "db_primary_available", "t_rel": 21.4923}
+{"ts": 1791178760.7339072, "component": "records-2", "event": "db_primary_available", "t_rel": 21.4968}
+{"ts": 1791178760.7413912, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.5043}
+{"ts": 1791178760.7467728, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.5097}
+{"ts": 1791178760.785439, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.5483}
+{"ts": 1791178760.7929175, "component": "payment-2", "event": "db_primary_available", "t_rel": 21.5558}
+{"ts": 1791178760.7941442, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 21.557}
+{"ts": 1791178760.7950757, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 21.558}
+{"ts": 1791178760.79499, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.5579}
+{"ts": 1791178760.8109775, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.5739}
+{"ts": 1791178760.8176768, "component": "student-2", "event": "db_primary_available", "t_rel": 21.5806}
+{"ts": 1791178760.8469691, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.6099}
+{"ts": 1791178760.847058, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.61}
+{"ts": 1791178760.8526077, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 21.6155}
+{"ts": 1791178760.8540165, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 21.6169}
+{"ts": 1791178760.8548148, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.6177}
+{"ts": 1791178760.8607948, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.6237}
+{"ts": 1791178760.8636222, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.6265}
+{"ts": 1791178760.8943493, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.6573}
+{"ts": 1791178760.8944554, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.6574}
+{"ts": 1791178760.9003031, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.6632}
+{"ts": 1791178760.9003751, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 21.6633}
+{"ts": 1791178760.9023104, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.6652}
+{"ts": 1791178760.9173074, "component": "payment-2", "event": "db_primary_available", "t_rel": 21.6802}
+{"ts": 1791178760.9577303, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.7206}
+{"ts": 1791178760.9576638, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.7206}
+{"ts": 1791178760.9634361, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 21.7263}
+{"ts": 1791178760.9637713, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.7267}
+{"ts": 1791178760.9667876, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.7297}
+{"ts": 1791178760.986493, "component": "student-2", "event": "db_primary_available", "t_rel": 21.7494}
+{"ts": 1791178761.0118845, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.7748}
+{"ts": 1791178761.0138679, "component": "records-1", "event": "db_primary_available", "t_rel": 21.7768}
+{"ts": 1791178761.0141995, "component": "records-2", "event": "db_primary_available", "t_rel": 21.7771}
+{"ts": 1791178761.0203266, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.7832}
+{"ts": 1791178761.0205026, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.7834}
+{"ts": 1791178761.0265718, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.7895}
+{"ts": 1791178761.0299485, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 21.7929}
+{"ts": 1791178761.0300841, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.793}
+{"ts": 1791178761.0300508, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.793}
+{"ts": 1791178761.0337677, "component": "records-2", "event": "db_primary_available", "t_rel": 21.7967}
+{"ts": 1791178761.0777078, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 21.8406}
+{"ts": 1791178761.1171162, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 21.88}
+{"ts": 1791178761.1429734, "component": "student-1", "event": "db_circuit_closed", "t_rel": 21.9059}
+{"ts": 1791178761.1431873, "component": "student-1", "event": "db_primary_available", "t_rel": 21.9061}
+{"ts": 1791178761.174997, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.9379}
+{"ts": 1791178761.174979, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.9379}
+{"ts": 1791178761.1751583, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.9381}
+{"ts": 1791178761.1792784, "component": "student-2", "event": "db_primary_available", "t_rel": 21.9422}
+{"ts": 1791178761.1843479, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 21.9473}
+{"ts": 1791178761.184868, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 21.9478}
+{"ts": 1791178761.1851573, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 21.9481}
+{"ts": 1791178761.1872244, "component": "payment-1", "event": "db_primary_available", "t_rel": 21.9501}
+{"ts": 1791178761.2350285, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 21.9979}
+{"ts": 1791178761.240163, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 22.0031}
+{"ts": 1791178761.2458615, "component": "payment-1", "event": "db_primary_available", "t_rel": 22.0088}
+{"ts": 1791178761.2753196, "component": "records-2", "event": "db_primary_available", "t_rel": 22.0382}
+{"ts": 1791178761.2799914, "component": "records-1", "event": "db_primary_available", "t_rel": 22.0429}
+{"ts": 1791178761.2812068, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.0441}
+{"ts": 1791178761.2825887, "component": "payment-2", "event": "journal_replayed", "count": 6, "t_rel": 22.0455}
+{"ts": 1791178761.3367643, "component": "payment-2", "event": "db_primary_available", "t_rel": 22.0997}
+{"ts": 1791178761.3592184, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.1221}
+{"ts": 1791178761.3630924, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 22.126}
+{"ts": 1791178761.3694654, "component": "student-2", "event": "db_primary_available", "t_rel": 22.1324}
+{"ts": 1791178761.4191773, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.1821}
+{"ts": 1791178761.4199724, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.1829}
+{"ts": 1791178761.4220939, "component": "payment-1", "event": "db_primary_available", "t_rel": 22.185}
+{"ts": 1791178761.4250126, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 22.1879}
+{"ts": 1791178761.4263947, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 22.1893}
+{"ts": 1791178761.4522188, "component": "records-2", "event": "db_primary_available", "t_rel": 22.2151}
+{"ts": 1791178761.4654589, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.2284}
+{"ts": 1791178761.4660952, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.229}
+{"ts": 1791178761.4702044, "component": "payment-2", "event": "db_primary_available", "t_rel": 22.2331}
+{"ts": 1791178761.4727206, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 22.2356}
+{"ts": 1791178761.4735086, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 22.2364}
+{"ts": 1791178761.4736547, "component": "records-1", "event": "op_journaled", "op": "grade", "t_rel": 22.2366}
+{"ts": 1791178761.4850469, "component": "payment-1", "event": "db_primary_available", "t_rel": 22.248}
+{"ts": 1791178761.5267587, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.2897}
+{"ts": 1791178761.531524, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 22.2944}
+{"ts": 1791178761.5324457, "component": "records-2", "event": "db_primary_available", "t_rel": 22.2954}
+{"ts": 1791178761.5345366, "component": "records-1", "event": "db_primary_available", "t_rel": 22.2974}
+{"ts": 1791178761.587743, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.3506}
+{"ts": 1791178761.5915132, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 22.3544}
+{"ts": 1791178761.614234, "component": "payment-2", "event": "db_primary_available", "t_rel": 22.3771}
+{"ts": 1791178761.679713, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.4426}
+{"ts": 1791178761.6833367, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 22.4462}
+{"ts": 1791178761.7054365, "component": "payment-1", "event": "db_primary_available", "t_rel": 22.4683}
+{"ts": 1791178762.0094242, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.7723}
+{"ts": 1791178762.0095232, "component": "payment-1", "event": "db_primary_available", "t_rel": 22.7724}
+{"ts": 1791178762.0149062, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 22.7778}
+{"ts": 1791178762.102752, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.8657}
+{"ts": 1791178762.1089485, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 22.8719}
+{"ts": 1791178762.1588118, "component": "payment-2", "event": "db_primary_available", "t_rel": 22.9217}
+{"ts": 1791178762.227589, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.9905}
+{"ts": 1791178762.227691, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 22.9906}
+{"ts": 1791178762.236801, "component": "records-2", "event": "op_journaled", "op": "grade", "t_rel": 22.9997}
+{"ts": 1791178762.237108, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 23.0}
+{"ts": 1791178762.2371542, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 23.0001}
+{"ts": 1791178762.2709363, "component": "payment-2", "event": "db_primary_available", "t_rel": 23.0338}
+{"ts": 1791178762.3056657, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.0686}
+{"ts": 1791178762.309938, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 23.0728}
+{"ts": 1791178762.320451, "component": "payment-1", "event": "db_primary_available", "t_rel": 23.0834}
+{"ts": 1791178762.3207762, "component": "student-2", "event": "db_primary_available", "t_rel": 23.0837}
+{"ts": 1791178762.367563, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.1305}
+{"ts": 1791178762.3724864, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 23.1354}
+{"ts": 1791178762.3727505, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 23.1357}
+{"ts": 1791178762.3986626, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.1616}
+{"ts": 1791178762.4028363, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 23.1657}
+{"ts": 1791178762.4461339, "component": "records-2", "event": "db_primary_available", "t_rel": 23.209}
+{"ts": 1791178762.4612737, "component": "payment-1", "event": "db_primary_available", "t_rel": 23.2242}
+{"ts": 1791178762.5081143, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.271}
+{"ts": 1791178762.5118208, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 23.2747}
+{"ts": 1791178762.51376, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 23.2767}
+{"ts": 1791178762.517945, "component": "student-1", "event": "db_primary_available", "t_rel": 23.2809}
+{"ts": 1791178762.5270138, "component": "payment-2", "event": "db_primary_available", "t_rel": 23.2899}
+{"ts": 1791178762.583949, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.3469}
+{"ts": 1791178762.5886583, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 23.3516}
+{"ts": 1791178762.6377645, "component": "payment-2", "event": "db_primary_available", "t_rel": 23.4007}
+{"ts": 1791178762.7316916, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-103922-708.db", "t_rel": 23.4946}
+{"ts": 1791178762.801701, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.5646}
+{"ts": 1791178762.8058548, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 23.5688}
+{"ts": 1791178762.8787282, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.6416}
+{"ts": 1791178762.8801217, "component": "records-2", "event": "journal_replayed", "count": 12, "t_rel": 23.643}
+{"ts": 1791178762.8832662, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 23.6462}
+{"ts": 1791178762.9051147, "component": "student-2", "event": "db_primary_available", "t_rel": 23.668}
+{"ts": 1791178762.9256468, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 23.6886}
+{"ts": 1791178762.9311035, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 23.694}
+{"ts": 1791178762.9794269, "component": "student-2", "event": "db_primary_available", "t_rel": 23.7423}
+{"ts": 1791178762.9796605, "component": "payment-2", "event": "db_primary_available", "t_rel": 23.7426}
+{"ts": 1791178762.979973, "component": "records-2", "event": "db_primary_available", "t_rel": 23.7429}
+{"ts": 1791178763.2949703, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 24.0579}
+{"ts": 1791178763.295269, "component": "student-1", "event": "db_primary_available", "t_rel": 24.0582}
+{"ts": 1791178763.2984397, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 24.0613}
+{"ts": 1791178763.407826, "component": "payment-1", "event": "payment_recovered", "key": "mix-57e26e6a5ddb4d1689324db013a7cc1f", "t_rel": 24.1707}
+{"ts": 1791178763.4283495, "component": "payment-1", "event": "payment_recovered", "key": "mix-e81fc350b3524418b633a66d4d1a499e", "t_rel": 24.1913}
+{"ts": 1791178763.5709362, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 24.3338}
+{"ts": 1791178763.5721352, "component": "student-2", "event": "journal_replayed", "count": 21, "t_rel": 24.335}
+{"ts": 1791178763.6797051, "component": "student-2", "event": "db_primary_available", "t_rel": 24.4426}
+{"ts": 1791178763.9784763, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 24.7414}
+{"ts": 1791178764.0178025, "component": "payment-2", "event": "db_primary_available", "t_rel": 24.7807}
+{"ts": 1791178764.0542645, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 24.8172}
+{"ts": 1791178764.425182, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 25.1881}
+{"ts": 1791178764.4266338, "component": "records-1", "event": "journal_replayed", "count": 25, "t_rel": 25.1895}
+{"ts": 1791178764.42701, "component": "records-1", "event": "db_primary_available", "t_rel": 25.1899}
+{"ts": 1791178764.5035331, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 25.2664}
+{"ts": 1791178764.5076246, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 25.2705}
+{"ts": 1791178764.5192997, "component": "student-2", "event": "db_primary_available", "t_rel": 25.2822}
+{"ts": 1791178764.890953, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 25.6539}
+{"ts": 1791178764.8918667, "component": "student-1", "event": "journal_replayed", "count": 39, "t_rel": 25.6548}
+{"ts": 1791178764.983296, "component": "student-1", "event": "db_primary_available", "t_rel": 25.7462}
+{"ts": 1791178765.1216395, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 25.8845}
+{"ts": 1791178765.12268, "component": "payment-2", "event": "journal_replayed", "count": 6, "t_rel": 25.8856}
+{"ts": 1791178765.1236086, "component": "payment-2", "event": "db_primary_available", "t_rel": 25.8865}
+{"ts": 1791178765.3373213, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 26.1002}
+{"ts": 1791178765.3711905, "component": "student-2", "event": "db_primary_available", "t_rel": 26.1341}
+{"ts": 1791178766.1284685, "component": "records-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 26.8914}
+{"ts": 1791178766.1299539, "component": "records-2", "event": "journal_replayed", "count": 10, "t_rel": 26.8929}
+{"ts": 1791178766.204, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 26.9669}
+{"ts": 1791178766.2210217, "component": "records-2", "event": "db_primary_available", "t_rel": 26.9839}
+{"ts": 1791178766.314618, "component": "records-1", "event": "db_primary_available", "t_rel": 27.0775}
+{"ts": 1791178766.892675, "component": "student-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 27.6556}
+{"ts": 1791178766.8943012, "component": "student-1", "event": "journal_replayed", "count": 10, "t_rel": 27.6572}
+{"ts": 1791178767.014632, "component": "student-1", "event": "db_primary_available", "t_rel": 27.7775}
+{"ts": 1791178767.1251225, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 27.888}
+{"ts": 1791178767.1252365, "component": "student-2", "event": "db_primary_available", "t_rel": 27.8881}
+{"ts": 1791178767.1265674, "component": "payment-1", "event": "journal_replayed", "count": 30, "t_rel": 27.8895}
+{"ts": 1791178767.1281018, "component": "payment-1", "event": "db_primary_available", "t_rel": 27.891}
+{"ts": 1791178767.4007118, "component": "records-2", "event": "journal_replayed", "count": 2, "t_rel": 28.1636}
+{"ts": 1791178767.5608733, "component": "payment-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 28.3238}
+{"ts": 1791178767.5704186, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 28.3333}
+{"ts": 1791178767.5728025, "component": "payment-2", "event": "db_primary_available", "t_rel": 28.3357}
+{"ts": 1791178768.0049608, "component": "records-2", "event": "db_replica_resynced", "primary": [1403, "f6016a8a43b3"], "replica": [1405, "d2ef9321e64b"], "t_rel": 28.7679}
+{"ts": 1791178768.0155437, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1407, "t_rel": 28.7784}
+{"ts": 1791178768.0240564, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1408, "t_rel": 28.787}
+{"ts": 1791178768.0453315, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1409, "t_rel": 28.8082}
+{"ts": 1791178768.051318, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1410, "t_rel": 28.8142}
+{"ts": 1791178768.05911, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1411, "t_rel": 28.822}
+{"ts": 1791178768.0655568, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1412, "t_rel": 28.8285}
+{"ts": 1791178768.0731618, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1413, "t_rel": 28.8361}
+{"ts": 1791178768.0813954, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1414, "t_rel": 28.8443}
+{"ts": 1791178768.08763, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1415, "t_rel": 28.8505}
+{"ts": 1791178768.0938578, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1416, "t_rel": 28.8568}
+{"ts": 1791178768.103329, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1417, "t_rel": 28.8662}
+{"ts": 1791178768.1097007, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1418, "t_rel": 28.8726}
+{"ts": 1791178768.116218, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1419, "t_rel": 28.8791}
+{"ts": 1791178768.1236658, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1420, "t_rel": 28.8866}
+{"ts": 1791178768.129598, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1421, "t_rel": 28.8925}
+{"ts": 1791178768.1356392, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1422, "t_rel": 28.8985}
+{"ts": 1791178768.143008, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1423, "t_rel": 28.9059}
+{"ts": 1791178768.149146, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1424, "t_rel": 28.9121}
+{"ts": 1791178768.1708744, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1425, "t_rel": 28.9338}
+{"ts": 1791178768.17935, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1426, "t_rel": 28.9423}
+{"ts": 1791178768.1866648, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1427, "t_rel": 28.9496}
+{"ts": 1791178768.1926892, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1428, "t_rel": 28.9556}
+{"ts": 1791178768.2009041, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1429, "t_rel": 28.9638}
+{"ts": 1791178768.2069254, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1430, "t_rel": 28.9698}
+{"ts": 1791178768.2131066, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1431, "t_rel": 28.976}
+{"ts": 1791178768.2204733, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1432, "t_rel": 28.9834}
+{"ts": 1791178768.226887, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1433, "t_rel": 28.9898}
+{"ts": 1791178768.2334654, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1434, "t_rel": 28.9964}
+{"ts": 1791178768.2417321, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1435, "t_rel": 29.0046}
+{"ts": 1791178768.248447, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1436, "t_rel": 29.0114}
+{"ts": 1791178768.255292, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1437, "t_rel": 29.0182}
+{"ts": 1791178768.2782924, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1438, "t_rel": 29.0412}
+{"ts": 1791178768.2847478, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1439, "t_rel": 29.0477}
+{"ts": 1791178768.290684, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1440, "t_rel": 29.0536}
+{"ts": 1791178768.2975888, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1441, "t_rel": 29.0605}
+{"ts": 1791178768.304087, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1442, "t_rel": 29.067}
+{"ts": 1791178768.3123226, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1443, "t_rel": 29.0752}
+{"ts": 1791178768.3215077, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1444, "t_rel": 29.0844}
+{"ts": 1791178768.328878, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1445, "t_rel": 29.0918}
+{"ts": 1791178768.3375862, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1446, "t_rel": 29.1005}
+{"ts": 1791178768.344773, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1447, "t_rel": 29.1077}
+{"ts": 1791178768.3511217, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1448, "t_rel": 29.114}
+{"ts": 1791178768.3583302, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1449, "t_rel": 29.1212}
+{"ts": 1791178768.3644385, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1450, "t_rel": 29.1273}
+{"ts": 1791178768.3705208, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1451, "t_rel": 29.1334}
+{"ts": 1791178768.3793247, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1452, "t_rel": 29.1422}
+{"ts": 1791178768.3854475, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1453, "t_rel": 29.1484}
+{"ts": 1791178768.3918948, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1454, "t_rel": 29.1548}
+{"ts": 1791178768.398056, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1455, "t_rel": 29.161}
+{"ts": 1791178768.404907, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1456, "t_rel": 29.1678}
+{"ts": 1791178768.4119534, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1457, "t_rel": 29.1749}
+{"ts": 1791178768.41838, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1458, "t_rel": 29.1813}
+{"ts": 1791178768.4251537, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1459, "t_rel": 29.1881}
+{"ts": 1791178768.4319634, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1460, "t_rel": 29.1949}
+{"ts": 1791178768.43858, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1461, "t_rel": 29.2015}
+{"ts": 1791178768.4446423, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1462, "t_rel": 29.2075}
+{"ts": 1791178768.4536989, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1463, "t_rel": 29.2166}
+{"ts": 1791178768.461527, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1464, "t_rel": 29.2244}
+{"ts": 1791178768.469195, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1465, "t_rel": 29.2321}
+{"ts": 1791178768.4761267, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1466, "t_rel": 29.239}
+{"ts": 1791178768.4820693, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1467, "t_rel": 29.245}
+{"ts": 1791178768.4906607, "component": "records-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 29.2536}
+{"ts": 1791178768.4925828, "component": "records-1", "event": "journal_replayed", "count": 5, "t_rel": 29.2555}
+{"ts": 1791178768.4935577, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1468, "t_rel": 29.2565}
+{"ts": 1791178768.5024683, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1469, "t_rel": 29.2654}
+{"ts": 1791178768.5087595, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1470, "t_rel": 29.2717}
+{"ts": 1791178768.5151522, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1471, "t_rel": 29.2781}
+{"ts": 1791178768.5219648, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1472, "t_rel": 29.2849}
+{"ts": 1791178768.529273, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1473, "t_rel": 29.2922}
+{"ts": 1791178768.5365112, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1474, "t_rel": 29.2994}
+{"ts": 1791178768.5433497, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1475, "t_rel": 29.3063}
+{"ts": 1791178768.5495605, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1476, "t_rel": 29.3125}
+{"ts": 1791178768.5570655, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1477, "t_rel": 29.32}
+{"ts": 1791178768.5638597, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1478, "t_rel": 29.3268}
+{"ts": 1791178768.571247, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1479, "t_rel": 29.3342}
+{"ts": 1791178768.5784566, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1480, "t_rel": 29.3414}
+{"ts": 1791178768.5886455, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1481, "t_rel": 29.3516}
+{"ts": 1791178768.596895, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1482, "t_rel": 29.3598}
+{"ts": 1791178768.6041641, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1483, "t_rel": 29.3671}
+{"ts": 1791178768.6111836, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1484, "t_rel": 29.3741}
+{"ts": 1791178768.6179118, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1485, "t_rel": 29.3808}
+{"ts": 1791178768.6246703, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1486, "t_rel": 29.3876}
+{"ts": 1791178768.6319664, "component": "records-2", "event": "replica_gap", "have": 1406, "want": 1487, "t_rel": 29.3949}
+{"ts": 1791178768.636795, "component": "records-2", "event": "journal_replayed", "count": 1, "t_rel": 29.3997}
+{"ts": 1791178768.6437142, "component": "records-1", "event": "db_primary_available", "t_rel": 29.4066}
+{"ts": 1791178768.6473014, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1488, "t_rel": 29.4102}
+{"ts": 1791178768.654301, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1489, "t_rel": 29.4172}
+{"ts": 1791178768.6611526, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1490, "t_rel": 29.4241}
+{"ts": 1791178768.6681318, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1491, "t_rel": 29.431}
+{"ts": 1791178768.6752994, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1492, "t_rel": 29.4382}
+{"ts": 1791178768.685985, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1493, "t_rel": 29.4489}
+{"ts": 1791178768.6926324, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1494, "t_rel": 29.4555}
+{"ts": 1791178768.698767, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1495, "t_rel": 29.4617}
+{"ts": 1791178768.7052364, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1496, "t_rel": 29.4681}
+{"ts": 1791178768.7125733, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1497, "t_rel": 29.4755}
+{"ts": 1791178768.7186847, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1498, "t_rel": 29.4816}
+{"ts": 1791178768.7246788, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1499, "t_rel": 29.4876}
+{"ts": 1791178768.732138, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1500, "t_rel": 29.495}
+{"ts": 1791178768.73821, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1501, "t_rel": 29.5011}
+{"ts": 1791178768.744194, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1502, "t_rel": 29.5071}
+{"ts": 1791178768.7510152, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1503, "t_rel": 29.5139}
+{"ts": 1791178768.760336, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1504, "t_rel": 29.5232}
+{"ts": 1791178768.7672582, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1505, "t_rel": 29.5302}
+{"ts": 1791178768.7753081, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1506, "t_rel": 29.5382}
+{"ts": 1791178768.781863, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1507, "t_rel": 29.5448}
+{"ts": 1791178768.787876, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1508, "t_rel": 29.5508}
+{"ts": 1791178768.7953694, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1509, "t_rel": 29.5583}
+{"ts": 1791178768.8037407, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1510, "t_rel": 29.5666}
+{"ts": 1791178768.8100417, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1511, "t_rel": 29.5729}
+{"ts": 1791178768.8165762, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1512, "t_rel": 29.5795}
+{"ts": 1791178768.8405755, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1513, "t_rel": 29.6035}
+{"ts": 1791178768.8466685, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1514, "t_rel": 29.6096}
+{"ts": 1791178768.853578, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1515, "t_rel": 29.6165}
+{"ts": 1791178768.8614094, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1516, "t_rel": 29.6243}
+{"ts": 1791178768.8671472, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1517, "t_rel": 29.6301}
+{"ts": 1791178768.8730478, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1518, "t_rel": 29.636}
+{"ts": 1791178768.9611702, "component": "student-2", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 29.7241}
+{"ts": 1791178768.9614747, "component": "student-2", "event": "db_primary_available", "t_rel": 29.7244}
+{"ts": 1791178768.9616446, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1519, "t_rel": 29.7246}
+{"ts": 1791178769.0899084, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1520, "t_rel": 29.8528}
+{"ts": 1791178769.1720457, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1521, "t_rel": 29.935}
+{"ts": 1791178769.1787016, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1522, "t_rel": 29.9416}
+{"ts": 1791178769.1873047, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1523, "t_rel": 29.9502}
+{"ts": 1791178769.1941004, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1524, "t_rel": 29.957}
+{"ts": 1791178769.1997194, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1525, "t_rel": 29.9626}
+{"ts": 1791178769.2054894, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1526, "t_rel": 29.9684}
+{"ts": 1791178769.2130482, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1527, "t_rel": 29.976}
+{"ts": 1791178769.2188067, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1528, "t_rel": 29.9817}
+{"ts": 1791178769.2245324, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1529, "t_rel": 29.9874}
+{"ts": 1791178769.2314, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1530, "t_rel": 29.9943}
+{"ts": 1791178769.2370653, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1531, "t_rel": 30.0}
+{"ts": 1791178769.2425873, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1532, "t_rel": 30.0055}
+{"ts": 1791178769.2500196, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1533, "t_rel": 30.0129}
+{"ts": 1791178769.2555223, "component": "payment-1", "event": "db_primary_unavailable", "error": "database is locked", "t_rel": 30.0184}
+{"ts": 1791178769.256138, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1534, "t_rel": 30.019}
+{"ts": 1791178769.2588544, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 30.0218}
+{"ts": 1791178769.2634728, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1535, "t_rel": 30.0264}
+{"ts": 1791178769.271903, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1536, "t_rel": 30.0348}
+{"ts": 1791178769.2913368, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1537, "t_rel": 30.0542}
+{"ts": 1791178769.2971401, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1538, "t_rel": 30.06}
+{"ts": 1791178769.3025467, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1539, "t_rel": 30.0655}
+{"ts": 1791178769.322838, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1540, "t_rel": 30.0857}
+{"ts": 1791178769.3301613, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1541, "t_rel": 30.0931}
+{"ts": 1791178769.3369753, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1542, "t_rel": 30.0999}
+{"ts": 1791178769.3442833, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1543, "t_rel": 30.1072}
+{"ts": 1791178769.351595, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1544, "t_rel": 30.1145}
+{"ts": 1791178769.3584712, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1545, "t_rel": 30.1214}
+{"ts": 1791178769.365584, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1546, "t_rel": 30.1285}
+{"ts": 1791178769.3728445, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1547, "t_rel": 30.1358}
+{"ts": 1791178769.379679, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1548, "t_rel": 30.1426}
+{"ts": 1791178769.4131575, "component": "payment-1", "event": "db_primary_available", "t_rel": 30.1761}
+{"ts": 1791178769.4161859, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1549, "t_rel": 30.1791}
+{"ts": 1791178769.424345, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1550, "t_rel": 30.1873}
+{"ts": 1791178769.430689, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1551, "t_rel": 30.1936}
+{"ts": 1791178769.436565, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1552, "t_rel": 30.1995}
+{"ts": 1791178769.4425554, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1553, "t_rel": 30.2055}
+{"ts": 1791178769.4480488, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1554, "t_rel": 30.211}
+{"ts": 1791178769.4541106, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1555, "t_rel": 30.217}
+{"ts": 1791178769.4615674, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1556, "t_rel": 30.2245}
+{"ts": 1791178769.46742, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1557, "t_rel": 30.2303}
+{"ts": 1791178769.4736712, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1558, "t_rel": 30.2366}
+{"ts": 1791178769.4813848, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1559, "t_rel": 30.2443}
+{"ts": 1791178769.4877875, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1560, "t_rel": 30.2507}
+{"ts": 1791178769.4933069, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1561, "t_rel": 30.2562}
+{"ts": 1791178769.5022585, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1562, "t_rel": 30.2652}
+{"ts": 1791178769.5082996, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1563, "t_rel": 30.2712}
+{"ts": 1791178769.5149643, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1564, "t_rel": 30.2779}
+{"ts": 1791178769.522402, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1565, "t_rel": 30.2853}
+{"ts": 1791178769.5284836, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1566, "t_rel": 30.2914}
+{"ts": 1791178769.5348659, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1567, "t_rel": 30.2978}
+{"ts": 1791178769.556224, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1568, "t_rel": 30.3191}
+{"ts": 1791178769.5620487, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1569, "t_rel": 30.325}
+{"ts": 1791178769.5678766, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1570, "t_rel": 30.3308}
+{"ts": 1791178769.575383, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1571, "t_rel": 30.3383}
+{"ts": 1791178769.5817935, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1572, "t_rel": 30.3447}
+{"ts": 1791178769.600395, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1573, "t_rel": 30.3633}
+{"ts": 1791178769.6075542, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1574, "t_rel": 30.3705}
+{"ts": 1791178769.6136715, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1575, "t_rel": 30.3766}
+{"ts": 1791178769.6194406, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1576, "t_rel": 30.3823}
+{"ts": 1791178769.6280243, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1577, "t_rel": 30.3909}
+{"ts": 1791178769.6491935, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1578, "t_rel": 30.4121}
+{"ts": 1791178769.656541, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1579, "t_rel": 30.4194}
+{"ts": 1791178769.6637275, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1580, "t_rel": 30.4266}
+{"ts": 1791178769.6708987, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1581, "t_rel": 30.4338}
+{"ts": 1791178769.677827, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1582, "t_rel": 30.4407}
+{"ts": 1791178769.685057, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1583, "t_rel": 30.448}
+{"ts": 1791178769.6928632, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1584, "t_rel": 30.4558}
+{"ts": 1791178769.7004426, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1585, "t_rel": 30.4633}
+{"ts": 1791178769.7074342, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1586, "t_rel": 30.4703}
+{"ts": 1791178769.7154355, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1587, "t_rel": 30.4783}
+{"ts": 1791178769.7211711, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1588, "t_rel": 30.4841}
+{"ts": 1791178769.728102, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1589, "t_rel": 30.491}
+{"ts": 1791178769.7349412, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1590, "t_rel": 30.4978}
+{"ts": 1791178769.7576275, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1591, "t_rel": 30.5205}
+{"ts": 1791178769.763148, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1592, "t_rel": 30.5261}
+{"ts": 1791178769.7686162, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1593, "t_rel": 30.5315}
+{"ts": 1791178769.7755132, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1594, "t_rel": 30.5384}
+{"ts": 1791178769.7828596, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1595, "t_rel": 30.5458}
+{"ts": 1791178769.7892172, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1596, "t_rel": 30.5521}
+{"ts": 1791178769.7954314, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1597, "t_rel": 30.5583}
+{"ts": 1791178769.8029366, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1598, "t_rel": 30.5658}
+{"ts": 1791178769.8088884, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1599, "t_rel": 30.5718}
+{"ts": 1791178769.815704, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1600, "t_rel": 30.5786}
+{"ts": 1791178769.835668, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1601, "t_rel": 30.5986}
+{"ts": 1791178769.84169, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1602, "t_rel": 30.6046}
+{"ts": 1791178769.8476923, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1603, "t_rel": 30.6106}
+{"ts": 1791178769.8553894, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1604, "t_rel": 30.6183}
+{"ts": 1791178769.8617363, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1605, "t_rel": 30.6246}
+{"ts": 1791178769.8675244, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1606, "t_rel": 30.6304}
+{"ts": 1791178769.874848, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1607, "t_rel": 30.6378}
+{"ts": 1791178769.8977568, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1608, "t_rel": 30.6607}
+{"ts": 1791178769.904175, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1609, "t_rel": 30.6671}
+{"ts": 1791178769.9099286, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1610, "t_rel": 30.6728}
+{"ts": 1791178769.917569, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1611, "t_rel": 30.6805}
+{"ts": 1791178769.9239333, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1612, "t_rel": 30.6868}
+{"ts": 1791178769.930383, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1613, "t_rel": 30.6933}
+{"ts": 1791178769.937698, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1614, "t_rel": 30.7006}
+{"ts": 1791178769.9448638, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1615, "t_rel": 30.7078}
+{"ts": 1791178769.952052, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1616, "t_rel": 30.715}
+{"ts": 1791178769.9586525, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1617, "t_rel": 30.7216}
+{"ts": 1791178769.9655504, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1618, "t_rel": 30.7285}
+{"ts": 1791178769.9723916, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1619, "t_rel": 30.7353}
+{"ts": 1791178769.9790366, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1620, "t_rel": 30.7419}
+{"ts": 1791178769.9847243, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1621, "t_rel": 30.7476}
+{"ts": 1791178770.0073206, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1622, "t_rel": 30.7702}
+{"ts": 1791178770.0134087, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1623, "t_rel": 30.7763}
+{"ts": 1791178770.0212498, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1624, "t_rel": 30.7842}
+{"ts": 1791178770.0279913, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1625, "t_rel": 30.7909}
+{"ts": 1791178770.0345972, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1626, "t_rel": 30.7975}
+{"ts": 1791178770.0426185, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1627, "t_rel": 30.8055}
+{"ts": 1791178770.0504584, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1628, "t_rel": 30.8134}
+{"ts": 1791178770.0660338, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1629, "t_rel": 30.8289}
+{"ts": 1791178770.0738745, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1630, "t_rel": 30.8368}
+{"ts": 1791178770.0796318, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1631, "t_rel": 30.8425}
+{"ts": 1791178770.0855768, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1632, "t_rel": 30.8485}
+{"ts": 1791178770.092989, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1633, "t_rel": 30.8559}
+{"ts": 1791178770.1143708, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1634, "t_rel": 30.8773}
+{"ts": 1791178770.120976, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1635, "t_rel": 30.8839}
+{"ts": 1791178770.1289034, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1636, "t_rel": 30.8918}
+{"ts": 1791178770.1350324, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1637, "t_rel": 30.8979}
+{"ts": 1791178770.1411257, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1638, "t_rel": 30.904}
+{"ts": 1791178770.1494384, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1639, "t_rel": 30.9123}
+{"ts": 1791178770.1601083, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1640, "t_rel": 30.923}
+{"ts": 1791178770.165919, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1641, "t_rel": 30.9288}
+{"ts": 1791178770.1717029, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1642, "t_rel": 30.9346}
+{"ts": 1791178770.1918259, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1643, "t_rel": 30.9547}
+{"ts": 1791178770.1995757, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1644, "t_rel": 30.9625}
+{"ts": 1791178770.2069874, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1645, "t_rel": 30.9699}
+{"ts": 1791178770.2136495, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1646, "t_rel": 30.9766}
+{"ts": 1791178770.220644, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1647, "t_rel": 30.9835}
+{"ts": 1791178770.2278638, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1648, "t_rel": 30.9908}
+{"ts": 1791178770.2347748, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1649, "t_rel": 30.9977}
+{"ts": 1791178770.2418566, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1650, "t_rel": 31.0048}
+{"ts": 1791178770.2490144, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1651, "t_rel": 31.0119}
+{"ts": 1791178770.2695646, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1652, "t_rel": 31.0325}
+{"ts": 1791178770.278362, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1653, "t_rel": 31.0413}
+{"ts": 1791178770.3023787, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1654, "t_rel": 31.0653}
+{"ts": 1791178770.30827, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1655, "t_rel": 31.0712}
+{"ts": 1791178770.3138876, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1656, "t_rel": 31.0768}
+{"ts": 1791178770.321098, "component": "payment-1", "event": "replica_gap", "have": 1406, "want": 1657, "t_rel": 31.084}
+{"ts": 1791178770.3267035, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1658, "t_rel": 31.0896}
+{"ts": 1791178770.3338265, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1659, "t_rel": 31.0967}
+{"ts": 1791178770.3416924, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1660, "t_rel": 31.1046}
+{"ts": 1791178770.362448, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1661, "t_rel": 31.1254}
+{"ts": 1791178770.369451, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1662, "t_rel": 31.1324}
+{"ts": 1791178770.3773305, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1663, "t_rel": 31.1402}
+{"ts": 1791178770.3845148, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1664, "t_rel": 31.1474}
+{"ts": 1791178770.3922424, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1665, "t_rel": 31.1551}
+{"ts": 1791178770.3999763, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1666, "t_rel": 31.1629}
+{"ts": 1791178770.4077713, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1667, "t_rel": 31.1707}
+{"ts": 1791178770.4162602, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1668, "t_rel": 31.1792}
+{"ts": 1791178770.4237084, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1669, "t_rel": 31.1866}
+{"ts": 1791178770.431136, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1670, "t_rel": 31.194}
+{"ts": 1791178770.4391634, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1671, "t_rel": 31.2021}
+{"ts": 1791178770.446389, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1672, "t_rel": 31.2093}
+{"ts": 1791178770.4536088, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1673, "t_rel": 31.2165}
+{"ts": 1791178770.4610724, "component": "student-2", "event": "replica_gap", "have": 1406, "want": 1674, "t_rel": 31.224}
+{"ts": 1791178770.4665117, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1675, "t_rel": 31.2294}
+{"ts": 1791178770.4746065, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1676, "t_rel": 31.2375}
+{"ts": 1791178770.4815764, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1677, "t_rel": 31.2445}
+{"ts": 1791178770.5037694, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1678, "t_rel": 31.2667}
+{"ts": 1791178770.5108497, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1679, "t_rel": 31.2738}
+{"ts": 1791178770.5180247, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1680, "t_rel": 31.2809}
+{"ts": 1791178770.5259376, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1681, "t_rel": 31.2888}
+{"ts": 1791178770.5337715, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1682, "t_rel": 31.2967}
+{"ts": 1791178770.5410745, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1683, "t_rel": 31.304}
+{"ts": 1791178770.547886, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1684, "t_rel": 31.3108}
+{"ts": 1791178770.5553126, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1685, "t_rel": 31.3182}
+{"ts": 1791178770.563317, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1686, "t_rel": 31.3262}
+{"ts": 1791178770.570528, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1687, "t_rel": 31.3334}
+{"ts": 1791178770.5765448, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1688, "t_rel": 31.3395}
+{"ts": 1791178770.5960271, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1689, "t_rel": 31.3589}
+{"ts": 1791178770.6025157, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1690, "t_rel": 31.3654}
+{"ts": 1791178770.6105049, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1691, "t_rel": 31.3734}
+{"ts": 1791178770.6162946, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1692, "t_rel": 31.3792}
+{"ts": 1791178770.6232681, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1693, "t_rel": 31.3862}
+{"ts": 1791178770.644729, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1694, "t_rel": 31.4076}
+{"ts": 1791178770.6506777, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1695, "t_rel": 31.4136}
+{"ts": 1791178770.6604376, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1696, "t_rel": 31.4233}
+{"ts": 1791178770.7503307, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1697, "t_rel": 31.5132}
+{"ts": 1791178770.767215, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1698, "t_rel": 31.5301}
+{"ts": 1791178770.77332, "component": "payment-2", "event": "replica_gap", "have": 1406, "want": 1699, "t_rel": 31.5362}
+{"ts": 1791178770.7795482, "component": "student-1", "event": "replica_gap", "have": 1406, "want": 1700, "t_rel": 31.5425}
+{"ts": 1791178770.7861762, "component": "records-1", "event": "db_replica_resynced", "primary": [1697, "7c0e62cecacb"], "replica": [1406, "1894e4479974"], "t_rel": 31.5491}
+{"ts": 1791178770.8003213, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1701, "t_rel": 31.5632}
+{"ts": 1791178770.8093758, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1702, "t_rel": 31.5723}
+{"ts": 1791178770.8168082, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1703, "t_rel": 31.5797}
+{"ts": 1791178770.8236513, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1704, "t_rel": 31.5866}
+{"ts": 1791178770.831251, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1705, "t_rel": 31.5942}
+{"ts": 1791178770.8385422, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1706, "t_rel": 31.6014}
+{"ts": 1791178770.8459897, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1707, "t_rel": 31.6089}
+{"ts": 1791178770.8538678, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1708, "t_rel": 31.6168}
+{"ts": 1791178770.8609126, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1709, "t_rel": 31.6238}
+{"ts": 1791178770.869295, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1710, "t_rel": 31.6322}
+{"ts": 1791178770.8767178, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1711, "t_rel": 31.6396}
+{"ts": 1791178770.883429, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1712, "t_rel": 31.6463}
+{"ts": 1791178770.8901246, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1713, "t_rel": 31.653}
+{"ts": 1791178770.8974283, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1714, "t_rel": 31.6603}
+{"ts": 1791178770.9029377, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1715, "t_rel": 31.6658}
+{"ts": 1791178770.9222472, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1716, "t_rel": 31.6852}
+{"ts": 1791178770.9284182, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1717, "t_rel": 31.6913}
+{"ts": 1791178770.9344692, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1718, "t_rel": 31.6974}
+{"ts": 1791178770.9554794, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1719, "t_rel": 31.7184}
+{"ts": 1791178770.9629908, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1720, "t_rel": 31.7259}
+{"ts": 1791178770.9701536, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1721, "t_rel": 31.7331}
+{"ts": 1791178770.976863, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1722, "t_rel": 31.7398}
+{"ts": 1791178770.9843218, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1723, "t_rel": 31.7472}
+{"ts": 1791178770.9915786, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1724, "t_rel": 31.7545}
+{"ts": 1791178770.9987912, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1725, "t_rel": 31.7617}
+{"ts": 1791178771.0057573, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1726, "t_rel": 31.7687}
+{"ts": 1791178771.0124645, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1727, "t_rel": 31.7754}
+{"ts": 1791178771.0186212, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1728, "t_rel": 31.7815}
+{"ts": 1791178771.0242698, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1729, "t_rel": 31.7872}
+{"ts": 1791178771.0313427, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1730, "t_rel": 31.7942}
+{"ts": 1791178771.036889, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1731, "t_rel": 31.7998}
+{"ts": 1791178771.0428064, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1732, "t_rel": 31.8057}
+{"ts": 1791178771.0668511, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1733, "t_rel": 31.8298}
+{"ts": 1791178771.0726728, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1734, "t_rel": 31.8356}
+{"ts": 1791178771.0785959, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1735, "t_rel": 31.8415}
+{"ts": 1791178771.0860162, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1736, "t_rel": 31.8489}
+{"ts": 1791178771.091964, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1737, "t_rel": 31.8549}
+{"ts": 1791178771.098336, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1738, "t_rel": 31.8612}
+{"ts": 1791178771.1050756, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1739, "t_rel": 31.868}
+{"ts": 1791178771.1269212, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1740, "t_rel": 31.8898}
+{"ts": 1791178771.1352954, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1741, "t_rel": 31.8982}
+{"ts": 1791178771.1423807, "component": "student-1", "event": "replica_gap", "have": 1700, "want": 1742, "t_rel": 31.9053}
+{"ts": 1791178771.1463704, "component": "student-1", "event": "journal_replayed", "count": 102, "t_rel": 31.9093}
+{"ts": 1791178771.1525593, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1743, "t_rel": 31.9155}
+{"ts": 1791178771.158565, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1744, "t_rel": 31.9215}
+{"ts": 1791178771.1668077, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1745, "t_rel": 31.9297}
+{"ts": 1791178771.172891, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1746, "t_rel": 31.9358}
+{"ts": 1791178771.1789367, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1747, "t_rel": 31.9418}
+{"ts": 1791178771.1868763, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1748, "t_rel": 31.9498}
+{"ts": 1791178771.192442, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1749, "t_rel": 31.9553}
+{"ts": 1791178771.1996982, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1750, "t_rel": 31.9626}
+{"ts": 1791178771.2187119, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1751, "t_rel": 31.9816}
+{"ts": 1791178771.2261968, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1752, "t_rel": 31.9891}
+{"ts": 1791178771.2321892, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1753, "t_rel": 31.9951}
+{"ts": 1791178771.237878, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1754, "t_rel": 32.0008}
+{"ts": 1791178771.2443814, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1755, "t_rel": 32.0073}
+{"ts": 1791178771.2640483, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1756, "t_rel": 32.027}
+{"ts": 1791178771.271683, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1757, "t_rel": 32.0346}
+{"ts": 1791178771.2775128, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1758, "t_rel": 32.0404}
+{"ts": 1791178771.2832277, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1759, "t_rel": 32.0461}
+{"ts": 1791178771.2910056, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1760, "t_rel": 32.0539}
+{"ts": 1791178771.2970986, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1761, "t_rel": 32.06}
+{"ts": 1791178771.3032963, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1762, "t_rel": 32.0662}
+{"ts": 1791178771.3266747, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1763, "t_rel": 32.0896}
+{"ts": 1791178771.3331625, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1764, "t_rel": 32.0961}
+{"ts": 1791178771.3546293, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1765, "t_rel": 32.1175}
+{"ts": 1791178771.3615267, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1766, "t_rel": 32.1244}
+{"ts": 1791178771.3672512, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1767, "t_rel": 32.1302}
+{"ts": 1791178771.3732598, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1768, "t_rel": 32.1362}
+{"ts": 1791178771.3807614, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1769, "t_rel": 32.1437}
+{"ts": 1791178771.4015489, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1770, "t_rel": 32.1645}
+{"ts": 1791178771.4076889, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1771, "t_rel": 32.1706}
+{"ts": 1791178771.4154172, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1772, "t_rel": 32.1783}
+{"ts": 1791178771.4215643, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1773, "t_rel": 32.1845}
+{"ts": 1791178771.428022, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1774, "t_rel": 32.1909}
+{"ts": 1791178771.4491682, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1775, "t_rel": 32.2121}
+{"ts": 1791178771.455179, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1776, "t_rel": 32.2181}
+{"ts": 1791178771.4616861, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1777, "t_rel": 32.2246}
+{"ts": 1791178771.4695709, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1778, "t_rel": 32.2325}
+{"ts": 1791178771.475969, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1779, "t_rel": 32.2389}
+{"ts": 1791178771.482383, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1780, "t_rel": 32.2453}
+{"ts": 1791178771.49105, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1781, "t_rel": 32.254}
+{"ts": 1791178771.4971228, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1782, "t_rel": 32.26}
+{"ts": 1791178771.5029442, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1783, "t_rel": 32.2659}
+{"ts": 1791178771.5111756, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1784, "t_rel": 32.2741}
+{"ts": 1791178771.517251, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1785, "t_rel": 32.2802}
+{"ts": 1791178771.5236592, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1786, "t_rel": 32.2866}
+{"ts": 1791178771.5433862, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1787, "t_rel": 32.3063}
+{"ts": 1791178771.549161, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1788, "t_rel": 32.3121}
+{"ts": 1791178771.5553868, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1789, "t_rel": 32.3183}
+{"ts": 1791178771.5769916, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1790, "t_rel": 32.3399}
+{"ts": 1791178771.5829298, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1791, "t_rel": 32.3458}
+{"ts": 1791178771.5894258, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1792, "t_rel": 32.3523}
+{"ts": 1791178771.5963724, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1793, "t_rel": 32.3593}
+{"ts": 1791178771.6020737, "component": "student-2", "event": "replica_gap", "have": 1700, "want": 1794, "t_rel": 32.365}
+{"ts": 1791178771.6203275, "component": "student-2", "event": "journal_replayed", "count": 25, "t_rel": 32.3832}
+{"ts": 1791178771.633625, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1795, "t_rel": 32.3965}
+{"ts": 1791178771.6523092, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1796, "t_rel": 32.4152}
+{"ts": 1791178771.6582994, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1797, "t_rel": 32.4212}
+{"ts": 1791178771.6642542, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1798, "t_rel": 32.4272}
+{"ts": 1791178771.6841252, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1799, "t_rel": 32.447}
+{"ts": 1791178771.6918418, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1800, "t_rel": 32.4547}
+{"ts": 1791178771.6978066, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1801, "t_rel": 32.4607}
+{"ts": 1791178771.703328, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1802, "t_rel": 32.4662}
+{"ts": 1791178771.7079444, "component": "payment-1", "event": "journal_replayed", "count": 39, "t_rel": 32.4709}
+{"ts": 1791178771.711459, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1803, "t_rel": 32.4744}
+{"ts": 1791178771.7173858, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1804, "t_rel": 32.4803}
+{"ts": 1791178771.7231143, "component": "payment-2", "event": "replica_gap", "have": 1700, "want": 1805, "t_rel": 32.486}
+{"ts": 1791178771.7275536, "component": "payment-2", "event": "journal_replayed", "count": 106, "t_rel": 32.4905}
+{"ts": 1791178772.2274113, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1806, "t_rel": 32.9903}
+{"ts": 1791178772.2341614, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1807, "t_rel": 32.9971}
+{"ts": 1791178772.24067, "component": "payment-1", "event": "replica_gap", "have": 1700, "want": 1808, "t_rel": 33.0036}
+{"ts": 1791178772.2447066, "component": "payment-1", "event": "journal_replayed", "count": 1, "t_rel": 33.0076}
+{"ts": 1791178772.3425925, "component": "records-2", "event": "db_replica_resynced", "primary": [1809, "d40458fbeea2"], "replica": [1700, "b2dc337f3744"], "t_rel": 33.1055}

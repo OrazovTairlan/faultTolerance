@@ -1,0 +1,68 @@
+{"ts": 1791195745.535346, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-152225-528.db", "t_rel": 4.3626}
+{"ts": 1791195749.187044, "component": "student-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.0143}
+{"ts": 1791195749.1910396, "component": "student-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.0183}
+{"ts": 1791195749.1925788, "component": "payment-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.0199}
+{"ts": 1791195749.2013328, "component": "timetable-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.0286}
+{"ts": 1791195749.2024233, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 8.0297}
+{"ts": 1791195749.229198, "component": "payment-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.0565}
+{"ts": 1791195749.3393362, "component": "student-2", "event": "db_circuit_open", "t_rel": 8.1666}
+{"ts": 1791195749.343014, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.1703}
+{"ts": 1791195749.3527782, "component": "student-1", "event": "db_primary_available", "t_rel": 8.1801}
+{"ts": 1791195749.353135, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.1804}
+{"ts": 1791195749.3534625, "component": "payment-2", "event": "db_primary_available", "t_rel": 8.1808}
+{"ts": 1791195749.3539624, "component": "timetable-2", "event": "db_primary_available", "t_rel": 8.1813}
+{"ts": 1791195749.4335468, "component": "student-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.2608}
+{"ts": 1791195749.4366715, "component": "payment-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.264}
+{"ts": 1791195749.441138, "component": "student-1", "event": "db_circuit_open", "t_rel": 8.2684}
+{"ts": 1791195749.4437141, "component": "timetable-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.271}
+{"ts": 1791195749.4459803, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 8.2733}
+{"ts": 1791195749.4910994, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.3184}
+{"ts": 1791195749.506766, "component": "timetable-2", "event": "db_primary_available", "t_rel": 8.3341}
+{"ts": 1791195749.5504658, "component": "payment-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.3778}
+{"ts": 1791195749.5523956, "component": "payment-2", "event": "db_primary_available", "t_rel": 8.3797}
+{"ts": 1791195749.586514, "component": "timetable-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.4138}
+{"ts": 1791195749.6337357, "component": "payment-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.461}
+{"ts": 1791195749.6372259, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 8.4645}
+{"ts": 1791195749.6885195, "component": "payment-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.5158}
+{"ts": 1791195749.6932204, "component": "timetable-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.5205}
+{"ts": 1791195749.8379078, "component": "payment-2", "event": "db_circuit_open", "t_rel": 8.6652}
+{"ts": 1791195749.8410776, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 8.6684}
+{"ts": 1791195749.8912022, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.7185}
+{"ts": 1791195749.8918004, "component": "timetable-1", "event": "db_primary_available", "t_rel": 8.7191}
+{"ts": 1791195749.8919156, "component": "timetable-2", "event": "db_primary_available", "t_rel": 8.7192}
+{"ts": 1791195749.9527519, "component": "timetable-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.78}
+{"ts": 1791195749.9528015, "component": "timetable-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.7801}
+{"ts": 1791195749.9938657, "component": "payment-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 8.8212}
+{"ts": 1791195749.998721, "component": "payment-1", "event": "op_journaled", "op": "payment", "t_rel": 8.826}
+{"ts": 1791195750.006778, "component": "payment-1", "event": "db_primary_available", "t_rel": 8.8341}
+{"ts": 1791195750.0447981, "component": "timetable-2", "event": "db_primary_available", "t_rel": 8.8721}
+{"ts": 1791195750.1934078, "component": "payment-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 9.0207}
+{"ts": 1791195750.2004778, "component": "timetable-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 9.0278}
+{"ts": 1791195750.4225414, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.2498}
+{"ts": 1791195750.4234078, "component": "timetable-1", "event": "db_primary_available", "t_rel": 9.2507}
+{"ts": 1791195750.452785, "component": "payment-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 9.2801}
+{"ts": 1791195750.4585989, "component": "timetable-1", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 9.2859}
+{"ts": 1791195750.4603076, "component": "timetable-2", "event": "db_primary_unavailable", "error": "database disk image is malformed", "t_rel": 9.2876}
+{"ts": 1791195750.4815576, "component": "student-1", "event": "db_primary_restored_from_replica", "t_rel": 9.3088}
+{"ts": 1791195750.4938686, "component": "student-1", "event": "op_journaled", "op": "enroll", "t_rel": 9.3212}
+{"ts": 1791195750.5281866, "component": "payment-1", "event": "db_primary_available", "t_rel": 9.3555}
+{"ts": 1791195750.5750272, "component": "timetable-1", "event": "db_primary_available", "t_rel": 9.4023}
+{"ts": 1791195750.5754416, "component": "timetable-2", "event": "db_primary_available", "t_rel": 9.4027}
+{"ts": 1791195750.635892, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.4632}
+{"ts": 1791195750.6673908, "component": "payment-1", "event": "journal_replayed", "count": 4, "t_rel": 9.4947}
+{"ts": 1791195750.7108507, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.5381}
+{"ts": 1791195750.7413197, "component": "payment-2", "event": "op_journaled", "op": "payment", "t_rel": 9.5686}
+{"ts": 1791195751.1126413, "component": "student-2", "event": "op_journaled", "op": "enroll", "t_rel": 9.9399}
+{"ts": 1791195751.3206124, "component": "payment-1", "event": "journal_replayed", "count": 3, "t_rel": 10.1479}
+{"ts": 1791195751.3418908, "component": "student-2", "event": "db_circuit_half_open", "t_rel": 10.1692}
+{"ts": 1791195751.342703, "component": "student-2", "event": "db_circuit_closed", "t_rel": 10.17}
+{"ts": 1791195751.3429039, "component": "student-2", "event": "db_primary_available", "t_rel": 10.1702}
+{"ts": 1791195751.448636, "component": "student-1", "event": "db_circuit_half_open", "t_rel": 10.2759}
+{"ts": 1791195751.4497309, "component": "student-1", "event": "db_circuit_closed", "t_rel": 10.277}
+{"ts": 1791195751.4503264, "component": "student-1", "event": "db_primary_available", "t_rel": 10.2776}
+{"ts": 1791195751.5537355, "component": "student-2", "event": "journal_replayed", "count": 4, "t_rel": 10.381}
+{"ts": 1791195751.945134, "component": "payment-2", "event": "db_circuit_half_open", "t_rel": 10.7724}
+{"ts": 1791195751.9460406, "component": "payment-2", "event": "db_circuit_closed", "t_rel": 10.7733}
+{"ts": 1791195751.9462986, "component": "payment-2", "event": "db_primary_available", "t_rel": 10.7736}
+{"ts": 1791195755.5488565, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-152235-541.db", "t_rel": 14.3761}
+{"ts": 1791195765.5610974, "component": "backup", "event": "snapshot_created", "path": "snapshot-20261005-152245-553.db", "t_rel": 24.3884}
